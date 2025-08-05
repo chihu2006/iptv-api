@@ -1,3 +1,18 @@
+📺英国频道,#genre#
+BBC One
+BBC Two
+BBC London
+BBC World News
+Sky News
+Sky Sports
+ITV 1
+ITV News
+Channel 4
+Channel 5
+
+📺美国频道,#genre#
+CNN
+
 📺央视频道,#genre#
 CCTV-1
 CCTV-2

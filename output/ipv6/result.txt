@@ -97,7 +97,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 杭州生活,http://goo.bkpcp.top/mg/hzsh
 杭州影视,http://goo.bkpcp.top/mg/hzys
 杭州少体,http://goo.bkpcp.top/mg/hzse
-浙江教科,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 之江纪录,http://goo.bkpcp.top/mg/zjjl
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-3.ctv
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8

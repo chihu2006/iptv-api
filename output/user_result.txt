@@ -6,8 +6,8 @@ Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
 ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 ABC 2,https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 ABC 5,https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 ABC 5,https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 ABC 5,https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
@@ -288,4 +288,4 @@ Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-05-31 16:11:56,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+2026-05-31 16:35:04,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8

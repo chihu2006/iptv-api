@@ -75,20 +75,20 @@ CCTV-4欧洲,re:(?i)^\s*CCTV[-\s_]*0?4(?![0-9Kk+])[\s\S]*\b(?:欧洲|Europe)\b[\
 CCTV-4K,re:(?i)^\s*CCTV[-\s_]*0?4(?![0-9])\s*(?:[Kk]|Ｋ)\b[\s\S]*$,CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
 CCTV-8K,re:(?i)^\s*CCTV[-\s_]*0?8(?![0-9])\s*(?:[Kk]|Ｋ)\b[\s\S]*$,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
 
-兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
-第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
+兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD,CCTV-Weapon & Technology (1080p)
+第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播,CCTV-The First Theater (1080p)
 发现之旅,CCTV发现之旅,CCTV-发现之旅,中央新影-发现之旅
-风云剧场,CCTV风云剧场,CCTV-风云剧场,CCTV风云剧场HD
-风云音乐,CCTV风云音乐,CCTV-风云音乐,CCTV风云音乐HD
-风云足球,CCTV风云足球,CCTV-风云足球,CCTV风云足球HD
-央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球
-高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
-怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
+风云剧场,CCTV风云剧场,CCTV-风云剧场,CCTV风云剧场HD,CCTV-Storm Theater (1080p)
+风云音乐,CCTV风云音乐,CCTV-风云音乐,CCTV风云音乐HD,CCTV-Storm Music (1080p)
+风云足球,CCTV风云足球,CCTV-风云足球,CCTV风云足球HD,CCTV-Storm Football (1080p)
+央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球,CCTV-Billiards (1080p)
+高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网,CCTV-Golf & Tennis (1080p)
+怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿,CCTV-Nostalgia Theater (1080p)
 老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
-女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
-世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
-文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
-百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
+女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD,CCTV-Women's Fashion (1080p)
+世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD,CCTV-World Geography (1080p)
+文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD,CCTV-Culture of Quality (1080p)
+卫生健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康,百姓健康,CCTV-Health (1080p)
 中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生
 
 CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD

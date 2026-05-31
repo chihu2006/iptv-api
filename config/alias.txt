@@ -99,6 +99,7 @@ CETV早教,CETV早期教育,早期教育
 CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 CGTN记录,CGTN纪录
+TV Brics,TV BRICS Chinese (1080p)
 
 #卫视
 东方卫视,东方卫视-MCP
@@ -149,6 +150,7 @@ FZTV3,FZTV-3,福州生活,福州3-生活
 福建文体,福建体育
 福建经济,福建经视
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
+广州综合,Guangzhou TV
 浙江钱江都市,浙江钱江,浙江钱江台
 浙江经济生活,浙江生活,浙江经济,浙江经视
 浙江教科影视,浙江教育,浙江教育科技,浙江教科,浙江教科影院
@@ -184,10 +186,16 @@ CHC 高清电影,CHC高清电影
 CHC 家庭影院,CHC家庭影院
 CHC 影迷电影,CHC影迷电影
 CHC 动作电影,CHC动作电影
+赤峰新闻综合,Chifeng Comprehensive News Chanel
+哈尔滨新闻综合,Harbin Comprehensive News Channel
+哈尔滨影视,Harbin Movie Channel
+四平-1,Siping TV
+通化新闻综合,Tonghua TV (1080p)
 
 卡酷动画,北京卡酷少儿
 嘉佳卡通,广东嘉佳卡通
 金鹰卡通,湖南金鹰卡通
+湖南金鹰纪实,金鹰纪实
 哈哈炫动,炫动卡通,上海哈哈炫动
 优漫卡通,江苏优漫卡通
 

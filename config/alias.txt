@@ -50,6 +50,34 @@ Sky Sports Tennis
 SKY SPORTS F1,Skysports F1
 SKY SPORTS GOLF
 SKY SPORTS RACING
+24 Hour Free Movies,24 Hour Free Movies (720p)
+ABC 2,re:(?i)^\s*ABC[-\s_]*2(?![0-9])[\s\S]*$
+ABC 3,re:(?i)^\s*ABC[-\s_]*3[\s\S]*$
+ABC 4,re:(?i)^\s*ABC[-\s_]*4[\s\S]*$
+ABC 5,re:(?i)^\s*ABC[-\s_]*5[\s\S]*$
+ABC 6,re:(?i)^\s*ABC[-\s_]*6[\s\S]*$
+ABC 7,re:(?i)^\s*ABC[-\s_]*7[\s\S]*$
+ABC 8,re:(?i)^\s*ABC[-\s_]*8[\s\S]*$
+ABC 9,re:(?i)^\s*ABC[-\s_]*9[\s\S]*$
+ABC 10,re:(?i)^\s*ABC[-\s_]*10[\s\S]*$
+ABC 11,re:(?i)^\s*ABC[-\s_]*11[\s\S]*$
+ABC 12,re:(?i)^\s*ABC[-\s_]*12[\s\S]*$
+ABC 13,re:(?i)^\s*ABC[-\s_]*13[\s\S]*$
+ABC 14,re:(?i)^\s*ABC[-\s_]*14[\s\S]*$
+ABC 15,re:(?i)^\s*ABC[-\s_]*15[\s\S]*$
+ABC 16,re:(?i)^\s*ABC[-\s_]*16[\s\S]*$
+ABC 17,re:(?i)^\s*ABC[-\s_]*17[\s\S]*$
+ABC 18,re:(?i)^\s*ABC[-\s_]*18[\s\S]*$
+ABC 19,re:(?i)^\s*ABC[-\s_]*19[\s\S]*$
+ABC 20,re:(?i)^\s*ABC[-\s_]*20[\s\S]*$
+ABC 21,re:(?i)^\s*ABC[-\s_]*21[\s\S]*$
+ABC 22,re:(?i)^\s*ABC[-\s_]*22[\s\S]*$
+ABC 23,re:(?i)^\s*ABC[-\s_]*23[\s\S]*$
+ABC 24,re:(?i)^\s*ABC[-\s_]*24[\s\S]*$
+ABC 25,re:(?i)^\s*ABC[-\s_]*25[\s\S]*$
+ABC 26,re:(?i)^\s*ABC[-\s_]*26[\s\S]*$
+ABC 27,re:(?i)^\s*ABC[-\s_]*27[\s\S]*$
+
 
 #央视
 CCTV-1,re:(?i)^\s*CCTV[-\s_]*0?1(?![0-9Kk+])[\s\S]*$,CCTV1,CCTV-01,CCTV-01_ITV,CCTV-01北联,CCTV-01电信,CCTV-01东联,CCTV-01高码,CCTV-01高清,CCTV-01广西,CCTV-01梅州,CCTV-01咪咕,CCTV-01汝阳,CCTV-01山东,CCTV-01上海,CCTV-01斯特,CCTV-01四川,CCTV-01太原,CCTV-01天津,CCTV-01影视,CCTV-01浙江,CCTV-01重庆,CCTV1综合,CCTV-1综合,CCTV1(B),CCTV1[1920*1080],CCTV1「IPV6」,CCTV1HD,CCTV-1HD,CCTV1-标清,CCTV-1高清,CCTV1-综合,CCTV-1综合ᴴᴰ

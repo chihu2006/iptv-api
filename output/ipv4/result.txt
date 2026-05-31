@@ -1,8 +1,13 @@
 📺英国频道,#genre#
 
 📺美国频道,#genre#
+CNN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
 Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
+AMC,http://23.239.31.26:8989/amc/index.m3u8
+CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
+TBS,http://wickediptv.xyz/Randall123/Randall321/53318
+CBS Sports Network,http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
 ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
@@ -12,12 +17,14 @@ ABC 9,https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/am
 ABC 13,https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 ABC 15,https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 ABC 22,https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
+MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
+MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 📺香港,#genre#
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 凤凰卫视中文台,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 
 📺台湾,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -25,8 +32,8 @@ TVBS台劇台,http://iptv.4666888.xyz/iptv2A.php?id=58
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 
 📺央视频道,#genre#
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
@@ -56,9 +63,11 @@ CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 
 ☘️浙江频道,#genre#
+浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
 
 ☘️江苏频道,#genre#
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
+江苏公共,http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 
 ☘️安徽频道,#genre#
 
@@ -111,7 +120,6 @@ CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
-青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
 ☘️黑龙江频道,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
@@ -123,12 +131,14 @@ Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 
 🏀体育频道,#genre#
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
+NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 📺教育频道,#genre#
 MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 
 🪁动画频道,#genre#
+Nick Jr.,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1268
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 🎮游戏频道,#genre#
@@ -139,6 +149,7 @@ Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 📺纪录,#genre#
+Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 
 📺新加坡,#genre#
 
@@ -162,4 +173,4 @@ Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-05-31 18:23:04,https://tvpass.org/live/FoxSports2/hd
+2026-05-31 19:22:41,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347

@@ -6,9 +6,9 @@ https://foxweather-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 2" tvg-name="ABC 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC 2.png" group-title="📺美国频道",ABC 2
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC 4.png" group-title="📺美国频道",ABC 4
-https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC 4.png" group-title="📺美国频道",ABC 4
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC 4.png" group-title="📺美国频道",ABC 4
+https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 6" tvg-name="ABC 6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC 6.png" group-title="📺美国频道",ABC 6
 https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 7" tvg-name="ABC 7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC 7.png" group-title="📺美国频道",ABC 7
@@ -93,5 +93,5 @@ http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="💰央视付费频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-05-31 15:38:47
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-05-31 15:46:41
 https://tvpass.org/live/FoxSports2/hd

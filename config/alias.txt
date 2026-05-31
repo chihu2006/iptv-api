@@ -6,7 +6,7 @@
 # Aliases support regex matching. Aliases starting with re: are recognized as regular expressions, e\.g\. CCTV-1,re:(?i)^\s*CCTV[-\s_]*0?1(?![0-9Kk+])[\s\S]*$
 
 # 海外
-BBC One,BBC One (720p),BBC 1
+BBC One,BBC One (720p),BBC 1,BBC One UK
 BBC One East,BBC One East (1080p),BBC One East (720p) [Geo-blocked],BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
 BBC One East Midlands,BBC One East Midlands (1080p) [Geo-blocked],BBC One East Midlands (720p) [Geo-blocked]
 BBC One North East,BBC One North East (1080p) [Geo-blocked],BBC One North East (720p) [Geo-blocked]
@@ -16,13 +16,18 @@ BBC One South West,BBC One South West (1080p) [Geo-blocked],BBC One South West (
 BBC One South,BBC One South (1080p) [Geo-blocked]
 BBC One West,BBC One West (1080p) [Geo-blocked]
 BBC RB 1,BBC RB 1 (1080p) [Geo-blocked]
-BBC Two,BBC Two HD, BBC Two HD (720p),BBC Two Northern Ireland (540p) [Geo-blocked],BBC Two Northern Ireland HD (1080p) [Geo-blocked],BBC Two Wales (1080p) [Geo-blocked],BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7],BBC 2,BBCTwo
-BBC Three,BBC Three HD (720p),BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
-BBC Four,BBC Four UK HD, BBC Four (540p) [Geo-blocked],BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
-BBC Five,BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
-BBC Parliament,BBC Parliament (1080p) [Geo-blocked]
-Channel 4,Channel 4 UK HD (1080p)
-Channel 5,Channel 5 HD (1080p)
+BBC Two,BBC Two HD, BBC Two HD (720p),BBC Two Northern Ireland (540p) [Geo-blocked],BBC Two Northern Ireland HD (1080p) [Geo-blocked],BBC Two Wales (1080p) [Geo-blocked],BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7],BBC 2,BBCTwo,BBC Two UK
+BBC Three,BBC Three HD (720p),BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7],BBC Three UK
+BBC Four,BBC Four UK HD, BBC Four (540p) [Geo-blocked],BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7],BBC Four UK
+BBC Five,BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7],BBC Five UK
+BBC Parliament,BBC Parliament (1080p) [Geo-blocked],BBC Parliament UK
+ITV 1,ITV1 UK
+ITV 2,ITV2 UK
+ITV 3,ITV3 UK
+ITV 4,ITV4 UK
+ITV Quiz,ITV Quiz UK
+Channel 4,Channel 4 UK HD (1080p),Channel 4 UK
+Channel 5,Channel 5 HD (1080p),Channel 5 UK
 CBBC,CBBC HD (1080p) [Geo-blocked],CBBC (1080p)
 Beano TV,Beano TV (720p)
 Blaze,Blaze (576p) [Geo-blocked]
@@ -35,22 +40,35 @@ Disney XD,Disney XD (720p)
 Fox News,Fox News Channel (720p),Fox News Channel (144p)
 Fox Sports 2,Fox Sports 2 (720p)
 Fox Weather,Fox Weather (720p)
-Virgin 1,UK Virgin 1
-Virgin 2,UK Virgin 2
-Virgin 3,UK Virgin 3
-SKY SPORTS FOOTBALL
-SKY SPORTS MAIN EVENT,Skysport Main Event
-SKY SPORTS PREMIER LEAGUE
-SKY SPORTS ACTION
-SKY SPORTS MIX
-SKY SPORTS ARENA
-SKY SPORTS NEWS
-SKY SPORTS CRICKET
-Sky Sports Tennis
-SKY SPORTS F1,Skysports F1
-SKY SPORTS GOLF
-SKY SPORTS RACING
+Virgin 1,UK Virgin 1,Virgin Media One IE
+Virgin 2,UK Virgin 2,Virgin Media Two IE
+Virgin 3,UK Virgin 3,Virgin Media Three IE
+Virgin 4,UK Virgin 4,Virgin Media Four IE
+SKY SPORTS FOOTBALL,Sky Sports Football UK
+SKY SPORTS MAIN EVENT,Skysport Main Event,Sky Sports Main Event 4K UK
+SKY SPORTS PREMIER LEAGUE,Sky Sports Premier League UK
+SKY SPORTS ACTION,Sky Sports Action UK
+SKY SPORTS MIX,Sky Sports Mix UK
+SKY SPORTS ARENA,SKY SPORTS ARENA UK
+SKY SPORTS NEWS,Sky Sports News UK
+SKY SPORTS CRICKET,Sky Sports Cricket UK
+Sky Sports Tennis,Sky Sports Tennis UK
+SKY SPORTS F1,Skysports F1,Sky Sports F1 4K UK,Sky Sports F1 UK
+SKY SPORTS GOLF,Sky Sports Golf UK
+SKY SPORTS RACING,Sky Sports Racing UK
+TNT SPORTS 1,TNT Sports Ultimate 4K UK,TNT Sports 1 UK
+TNT SPORTS 2,TNT Sports 2 UK
+TNT SPORTS 3,TNT Sports 3 UK
+TNT SPORTS 4,TNT Sports 4 UK
+Premier Sports 1,Premier Sports 1 UK
+Premier Sports 2,Premier Sports 2 UK
 24 Hour Free Movies,24 Hour Free Movies (720p)
+Film 4,Film4 UK
+E4,E4 UK
+E4 Extra,E4 Extra UK
+More 4,More 4 UK
+4 seven,4seven UK
+
 ABC 2,re:(?i)^\s*ABC[-\s_]*2(?![0-9])[\s\S]*$
 ABC 3,re:(?i)^\s*ABC[-\s_]*3[\s\S]*$
 ABC 4,re:(?i)^\s*ABC[-\s_]*4[\s\S]*$

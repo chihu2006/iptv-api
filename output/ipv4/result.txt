@@ -1,11 +1,17 @@
 📺英国频道,#genre#
-Bloomberg TV Europe,https://bloomberg.com/media-manifest/streams/eu.m3u8
-Bloomberg TV EMEA Live Event,https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 
 📺美国频道,#genre#
 Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
-Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
+ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+ABC 6,https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+ABC 7,https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+ABC 9,https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+ABC 13,https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
+ABC 15,https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
+ABC 22,https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
 
 📺香港,#genre#
 
@@ -13,27 +19,21 @@ Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
-CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 
 ☘️上海频道,#genre#
 
@@ -41,14 +41,6 @@ CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 
 ☘️浙江频道,#genre#
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 
 ☘️江苏频道,#genre#
 
@@ -94,7 +86,6 @@ CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 
 ☘️吉林频道,#genre#
 通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-通化新闻综合,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 四平-1,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 
 ☘️内蒙古频道,#genre#
@@ -149,4 +140,4 @@ Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-05-31 14:57:22,https://bloomberg.com/media-manifest/streams/eu.m3u8
+2026-05-31 15:38:47,https://tvpass.org/live/FoxSports2/hd

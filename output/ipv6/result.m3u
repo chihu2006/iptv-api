@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/chihu2006/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="Virgin 4" tvg-name="Virgin 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Virgin 4.png" group-title="📺英国频道",Virgin 4
+http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
 #EXTINF:-1 tvg-id="Blaze" tvg-name="Blaze" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Blaze.png" group-title="📺英国频道",Blaze
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 #EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC News Live.png" group-title="📺美国频道",ABC News Live
@@ -300,5 +302,5 @@ https://live.ottiptv.cc/mg/961023778.m3u8?userid=7893537242&sign=2933cdb346e0e85
 https://live.ottiptv.cc/mcp/xizang.m3u8?userid=1926565337&sign=e302b0a8a15f06b3003be211a1ef567e53b3bb5952b7a0d5ab06700fffcf53a1c493dee601e0737659662cd27b1f65ccbd407dafb67913cde5921e6ee649018f4b629f1566a86c9882edd6008087&auth_token=1b419ca2389167e00ffb1a7264658820
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新疆卫视.png" group-title="📡其他卫视",新疆卫视
 https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=1926565337&sign=674a7413933dabedb169746be63320825219e25627b45f366e1444f2a88cea8aa770301102ff8af77bf2f516e601eb1beb72078a8fa16d3cdd42b8a8745494772b80ad384b03d7ff5b044a3ecf5e4032&auth_token=1b419ca2389167e00ffb1a7264658820
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-05-31 19:22:41
-https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-05-31 19:58:09
+http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762

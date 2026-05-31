@@ -1,4 +1,5 @@
 📺英国频道,#genre#
+Virgin 4,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
 Blaze,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 
 📺美国频道,#genre#
@@ -243,4 +244,4 @@ CETV-4,https://live.ottiptv.cc/mg/923287339.m3u8?userid=7893537242&sign=3795dfaf
 💰央视付费频道,#genre#
 
 🕘️更新时间,#genre#
-2026-05-31 19:22:41,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+2026-05-31 19:58:09,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762

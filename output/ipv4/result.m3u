@@ -1,6 +1,38 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/chihu2006/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="📺英国频道",BBC One
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Three.png" group-title="📺英国频道",BBC Three
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
+#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Four.png" group-title="📺英国频道",BBC Four
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
+#EXTINF:-1 tvg-id="ITV 1" tvg-name="ITV 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ITV 1.png" group-title="📺英国频道",ITV 1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
+#EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ITV 2.png" group-title="📺英国频道",ITV 2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
+#EXTINF:-1 tvg-id="ITV 3" tvg-name="ITV 3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ITV 3.png" group-title="📺英国频道",ITV 3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
+#EXTINF:-1 tvg-id="ITV 4" tvg-name="ITV 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ITV 4.png" group-title="📺英国频道",ITV 4
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
+#EXTINF:-1 tvg-id="ITV Quiz" tvg-name="ITV Quiz" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ITV Quiz.png" group-title="📺英国频道",ITV Quiz
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 4.png" group-title="📺英国频道",Channel 4
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel 5.png" group-title="📺英国频道",Channel 5
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
+#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/E4.png" group-title="📺英国频道",E4
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
+#EXTINF:-1 tvg-id="4 seven" tvg-name="4 seven" tvg-logo="https://www.xn--rgv465a.top/tvlogo/4 seven.png" group-title="📺英国频道",4 seven
+http://realsport.scalecdn.co:8080/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89380
+#EXTINF:-1 tvg-id="Virgin 1" tvg-name="Virgin 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Virgin 1.png" group-title="📺英国频道",Virgin 1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110049
+#EXTINF:-1 tvg-id="Virgin 2" tvg-name="Virgin 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Virgin 2.png" group-title="📺英国频道",Virgin 2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110050
+#EXTINF:-1 tvg-id="Virgin 3" tvg-name="Virgin 3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Virgin 3.png" group-title="📺英国频道",Virgin 3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110051
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="📺美国频道",CNN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HBO.png" group-title="📺美国频道",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox Sports 2.png" group-title="📺美国频道",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox Weather.png" group-title="📺美国频道",Fox Weather
@@ -39,8 +71,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB娱乐新闻.png" group-title="📺香港",TVB娱乐新闻
 http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB1.png" group-title="📺香港",TVB1
-http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视中文台.png" group-title="📺香港",凤凰卫视中文台
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="📺台湾",TVBS新闻
@@ -83,8 +113,6 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=11
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视频道",CCTV-14
-http://iptv.4666888.xyz/iptv2A.php?id=12
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视频道",CCTV-17
@@ -93,8 +121,6 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8K.png" group-title="📺央视频道",CCTV-8K
 http://198.204.240.250:82/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="☘️广东频道",广东卫视
-http://iptv.4666888.xyz/iptv2A.php?id=18
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东珠江.png" group-title="☘️广东频道",广东珠江
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️广东频道",广州综合
@@ -103,8 +129,6 @@ https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=14
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="☘️江苏频道",江苏卫视
 http://iptv.4666888.xyz/iptv2A.php?id=15
-#EXTINF:-1 tvg-id="江苏公共新闻" tvg-name="江苏公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏公共.png" group-title="☘️江苏频道",江苏公共
-http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="☘️湖南频道",湖南卫视
 http://iptv.4666888.xyz/iptv2A.php?id=13
 #EXTINF:-1 tvg-id="通化新闻综合" tvg-name="通化新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/通化新闻综合.png" group-title="☘️吉林频道",通化新闻综合
@@ -113,6 +137,8 @@ http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/in
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-id="赤峰新闻综合" tvg-name="赤峰新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/赤峰新闻综合.png" group-title="☘️内蒙古频道",赤峰新闻综合
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" group-title="☘️青海频道",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈尔滨影视.png" group-title="☘️黑龙江频道",哈尔滨影视
@@ -121,8 +147,70 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-id="Astro iQIYI" tvg-name="Astro iQIYI" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro iQIYI.png" group-title="🎬电影频道",Astro iQIYI
 http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-id="5ACTION UK" tvg-name="5ACTION UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/5ACTION UK.png" group-title="🎬电影频道",5ACTION UK
+http://wickediptv.xyz/Randall123/Randall321/204605
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5STAR UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/5STAR UK.png" group-title="🎬电影频道",5STAR UK
+http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
+#EXTINF:-1 tvg-id="Sky Cinema Premiere UK" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Premiere UK.png" group-title="🎬电影频道",Sky Cinema Premiere UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
+#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="Sky Cinema Select UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Select UK.png" group-title="🎬电影频道",Sky Cinema Select UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
+#EXTINF:-1 tvg-id="Sky Cinema Hits UK" tvg-name="Sky Cinema Hits UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Hits UK.png" group-title="🎬电影频道",Sky Cinema Hits UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
+#EXTINF:-1 tvg-id="Sky Cinema Family UK" tvg-name="Sky Cinema Family UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Family UK.png" group-title="🎬电影频道",Sky Cinema Family UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
+#EXTINF:-1 tvg-id="Sky Cinema Action UK" tvg-name="Sky Cinema Action UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Action UK.png" group-title="🎬电影频道",Sky Cinema Action UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
+#EXTINF:-1 tvg-id="Sky Cinema Greats UK" tvg-name="Sky Cinema Greats UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Greats UK.png" group-title="🎬电影频道",Sky Cinema Greats UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
+#EXTINF:-1 tvg-id="Sky Cinema Comedy UK" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Comedy UK.png" group-title="🎬电影频道",Sky Cinema Comedy UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
+#EXTINF:-1 tvg-id="Sky Cinema Thriller UK" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Thriller UK.png" group-title="🎬电影频道",Sky Cinema Thriller UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
+#EXTINF:-1 tvg-id="Sky Cinema Drama UK" tvg-name="Sky Cinema Drama UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Drama UK.png" group-title="🎬电影频道",Sky Cinema Drama UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
+#EXTINF:-1 tvg-id="Sky Cinema Sci-Fi & Horror UK" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Cinema Sci-Fi & Horror UK.png" group-title="🎬电影频道",Sky Cinema Sci-Fi & Horror UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
 http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT SPORTS 1.png" group-title="🏀体育频道",TNT SPORTS 1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
+#EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT SPORTS 1.png" group-title="🏀体育频道",TNT SPORTS 1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
+#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-name="TNT SPORTS 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT SPORTS 2.png" group-title="🏀体育频道",TNT SPORTS 2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
+#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-name="TNT SPORTS 3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT SPORTS 3.png" group-title="🏀体育频道",TNT SPORTS 3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
+#EXTINF:-1 tvg-id="TNT SPORTS 4" tvg-name="TNT SPORTS 4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TNT SPORTS 4.png" group-title="🏀体育频道",TNT SPORTS 4
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
+#EXTINF:-1 tvg-id="SKY SPORTS FOOTBALL" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS FOOTBALL.png" group-title="🏀体育频道",SKY SPORTS FOOTBALL
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
+#EXTINF:-1 tvg-id="SKY SPORTS MAIN EVENT" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS MAIN EVENT.png" group-title="🏀体育频道",SKY SPORTS MAIN EVENT
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
+#EXTINF:-1 tvg-id="SKY SPORTS PREMIER LEAGUE" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS PREMIER LEAGUE.png" group-title="🏀体育频道",SKY SPORTS PREMIER LEAGUE
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
+#EXTINF:-1 tvg-id="SKY SPORTS ACTION" tvg-name="SKY SPORTS ACTION" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS ACTION.png" group-title="🏀体育频道",SKY SPORTS ACTION
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
+#EXTINF:-1 tvg-id="SKY SPORTS MIX" tvg-name="SKY SPORTS MIX" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS MIX.png" group-title="🏀体育频道",SKY SPORTS MIX
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98857
+#EXTINF:-1 tvg-id="SKY SPORTS NEWS" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS NEWS.png" group-title="🏀体育频道",SKY SPORTS NEWS
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
+#EXTINF:-1 tvg-id="SKY SPORTS CRICKET" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS CRICKET.png" group-title="🏀体育频道",SKY SPORTS CRICKET
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
+#EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sports Tennis.png" group-title="🏀体育频道",Sky Sports Tennis
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
+#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS F1.png" group-title="🏀体育频道",SKY SPORTS F1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
+#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS F1.png" group-title="🏀体育频道",SKY SPORTS F1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
+#EXTINF:-1 tvg-id="SKY SPORTS GOLF" tvg-name="SKY SPORTS GOLF" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS GOLF.png" group-title="🏀体育频道",SKY SPORTS GOLF
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
+#EXTINF:-1 tvg-id="SKY SPORTS RACING" tvg-name="SKY SPORTS RACING" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SKY SPORTS RACING.png" group-title="🏀体育频道",SKY SPORTS RACING
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Premier Sports 1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Premier Sports 1.png" group-title="🏀体育频道",Premier Sports 1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
+#EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Premier Sports 2.png" group-title="🏀体育频道",Premier Sports 2
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NBA TV.png" group-title="🏀体育频道",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🏀体育频道",风云足球
@@ -159,5 +247,5 @@ http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="💰央视付费频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-05-31 19:22:41
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-05-31 19:58:09
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853

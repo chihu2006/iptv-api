@@ -1,8 +1,25 @@
 📺英国频道,#genre#
+BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+BBC Three,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
+BBC Four,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
+ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
+ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
+ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
+ITV 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
+ITV Quiz,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
+Channel 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
+Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
+E4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
+4 seven,http://realsport.scalecdn.co:8080/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89380
+Virgin 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110049
+Virgin 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110050
+Virgin 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110051
+Virgin 4,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
 Blaze,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 
 📺美国频道,#genre#
 CNN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
+HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
 Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
 AMC,http://23.239.31.26:8989/amc/index.m3u8
@@ -44,7 +61,6 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 📺香港,#genre#
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 凤凰卫视中文台,http://iptv.4666888.xyz/iptv2A.php?id=27
 
 📺台湾,#genre#
@@ -99,7 +115,6 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://live.ottiptv.cc/mg/608807423.m3u8?userid=7893537242&sign=0a207b6b1434b8dd3a9b3d023a70b9ac958173b5e4b3ac75c43588b45a86cffd52316c4d289adab2e773736d2b60744a9f7804ff2309ec39ab894b7b1bde8c281ed75d04dc44807726c2ae1b4c68856283&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=1926565337&sign=034a14818bfbf18beb6e7fd8a029341969241ded798ce2ada4143e44623bde12e4786a6bc4904f074b2c34d69e0ed9c4a788970d188d3b443fca614878477eeef69c7fb52be3efb37c25e83b8e54&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV-14,https://live.ottiptv.cc/mg/624878440.m3u8?userid=7893537242&sign=d36a9c24115c9b26c3a37564089fd118e0e8d9fd2a31a6c068a8729fdd6dd7c4215567451a216ea5fb3b2ad8e636ecc6d5ec746d39264ddf38710b3fcda252c7e5e6780ada4cea753cab44677c5fd7bbda&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 CCTV-14,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=1926565337&sign=1a54842c23be3ccc8e325c575fe7798a3a0a364633f9cd512a0705ebd87514080e6958d1f50e04972f059aedcbf4f79cce4ad27cbd28a3dce23ea866661268515ded10dbbdf5c7e0b8cfc88792a9&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
@@ -127,7 +142,6 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 东方影视,https://live.ottiptv.cc/mg/617290047.m3u8?userid=7893537242&sign=bef64fd54d5e105121c8609d5ddc89ddbb75a6336e017a8a5560a0947828520464853dd44b6fcff669c02b1cc606a939c640219fd25642971728d1a0885a643f02936e15376413c2fd30906bb8d14a1639&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 
 ☘️广东频道,#genre#
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
 广东卫视,https://live.ottiptv.cc/mg/608831231.m3u8?userid=7893537242&sign=8f10b1d03ca05239b2ffe3089e2306416b2930fac5afddba5e90cd1e6a6ce8d4aaf206c33d2329fe8bbbf3713c76e5135c73e8da2238e3e2b0eb57290365eeffe123d185c92c336549a6f78521b704977b&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 广东卫视,https://live.ottiptv.cc/mcp/guangdong.m3u8?userid=1926565337&sign=8f021719cd181cee6606df8ddd5a01386b07bb868bfebec343363e9f82ac974e38b856690e278dcfd3534e11e4ae33bb0cb350c69c9baa10af72533cf98e1319006621ca529c8987db57f98040e55a038e&auth_token=1b419ca2389167e00ffb1a7264658820
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
@@ -141,7 +155,6 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
 江苏卫视,https://live.ottiptv.cc/mg/623899368.m3u8?userid=7893537242&sign=d8ce94beb57a8d0ec92e9a02a164b0b3629110f59a0f8e15e85f541bb393a7bda8c4ca15f7803896f579a502c8ec8128bd1fa937fd734d84c2d11fc43c5fcdda8186dfb0e4a0d4f1bbbacf07965a456f19&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 江苏卫视,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=1926565337&sign=fe08a50548385229c21e9daaf3f9a997212645e3ba3a2dd6c7af5a6c4513ca3eb279d0d1bf0ba2bab4d0f1dcdccfe38ba22c919f4effb603560a67ec666c3249791b9364c4d1da44878681f734e8c6&auth_token=1b419ca2389167e00ffb1a7264658820
-江苏公共,http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 江苏公共,https://live.ottiptv.cc/mg/626064693.m3u8?userid=7893537242&sign=e655e424c98e2fe69b22ea9603ff046cd16c459d2d50cbb3198439295beda2df9112c7fd6f01cfd78e3618eb5dd58587a2bfcc40d1ea93cf1dff4448cfef1b0ab0d501800cc6b4603fe11a3998aa23e828&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 江苏城市,https://live.ottiptv.cc/mg/626064714.m3u8?userid=7893537242&sign=465badd817cd9fa3623882360bb1eaf5a50f071ac4e5615ec464eaf3c49bcfa23c7da369f868b0e8ec388d2944c67a8ce12423834145f59152dc330774a69fb083c1cd6892a4cd792599d6391aa0c6c7f8&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 江苏影视,https://live.ottiptv.cc/mg/626064697.m3u8?userid=7893537242&sign=275e27cd6e1eac3f0e9bfd40c4971dbee0307f38e046bf09997b3607489d957294c566073ae836b6899f86c37d68ec2331128de850b5b48d0c07f484c3e26aa4a0eba8e1aad1a4de372744592464b6b43a&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
@@ -240,6 +253,7 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 云南卫视,https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=1926565337&sign=1e969b95d39650066f225fdd01f55c37cadd2201e0a136ade5e2330a1ce9dc0446ff657e53075efabacc7c3374f02f0f1bc58b73f6ac26f2db410413385bb1b1f9ec6c3d991fefdbccd502594997&auth_token=1b419ca2389167e00ffb1a7264658820
 
 ☘️青海频道,#genre#
+青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 青海卫视,https://live.ottiptv.cc/mg/947472506.m3u8?userid=7893537242&sign=f76b9f5fc4837f0eef55e4a96449aa1b3808e9a1570e91ad16df9418813f82245881e20b205b348e5c13667dcc5b845a76c9d7c12dc1cedc07a39884c15d2d74f9b76879d52d3b2b7f1eb222276713de44&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 青海卫视,https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=1926565337&sign=86acc65d4c4f1bf203988ea8990c42216dc6201fd1b7f0e6d25f47120ebb64541c00ec01e110e3f491b7aa10cc891890f446184a2c94d1f11be6af769e4c369c79534c4a55f9d91a6f8f76e70b2395&auth_token=1b419ca2389167e00ffb1a7264658820
 
@@ -257,11 +271,42 @@ CHC 动作电影,https://live.ottiptv.cc/mg/644368714.m3u8?userid=7893537242&sig
 龙华电影台,http://iptv.4666888.xyz/iptv2A.php?id=45
 Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 24 Hour Free Movies,https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
+5ACTION UK,http://wickediptv.xyz/Randall123/Randall321/204605
+5STAR UK,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
+Sky Cinema Premiere UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
+Sky Cinema Select UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
+Sky Cinema Hits UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
+Sky Cinema Family UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
+Sky Cinema Action UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
+Sky Cinema Greats UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
+Sky Cinema Comedy UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
+Sky Cinema Thriller UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
+Sky Cinema Drama UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
+Sky Cinema Sci-Fi & Horror UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 
 🏀体育频道,#genre#
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-5+,https://live.ottiptv.cc/mg/641886773.m3u8?userid=7893537242&sign=9e3b59051edd45056ef072a8c199836d2760658833012995cb6293e21f9a41e6ea7a149000a64c15b522966222f65c9f13c94e5057b3bee05269de5688b9a83b14a4e943ded146d77802857bf2dfc5d90d&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
 五星体育,https://live.ottiptv.cc/other/wxty.m3u8?userid=1926565337&sign=e9a90e3a3ee12fa4ca179d958822be6d3a2df052a883bc26129ce95894ca08ce5bf6d4e469872e98acf04580d0e54e876db3b4ab93c6c06a61772ba9eae8caa1a5c2f65df1f564cd9a835a7f&auth_token=1b419ca2389167e00ffb1a7264658820
+TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
+TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
+TNT SPORTS 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
+TNT SPORTS 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
+TNT SPORTS 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
+SKY SPORTS FOOTBALL,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
+SKY SPORTS MAIN EVENT,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
+SKY SPORTS PREMIER LEAGUE,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
+SKY SPORTS ACTION,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
+SKY SPORTS MIX,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98857
+SKY SPORTS NEWS,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
+SKY SPORTS CRICKET,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
+Sky Sports Tennis,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
+SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
+SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
+SKY SPORTS GOLF,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
+SKY SPORTS RACING,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
+Premier Sports 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
+Premier Sports 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
 NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 快乐垂钓,https://live.ottiptv.cc/mg/961930263.m3u8?userid=7893537242&sign=c7927044d85b780e771b1fa12eb163412690f381cd82af1ae46c5ab12ea7bf141bf2ff8897ef49211515674e15640d8cfa5003fd8db2830b66f22ecdba9499ac037d1201da12525ae3e480989ac313fb32&auth_token=a2e8fd8e71c96b9a2afb0f111e7480d7
@@ -323,4 +368,4 @@ Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-05-31 19:22:41,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+2026-05-31 19:58:09,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853

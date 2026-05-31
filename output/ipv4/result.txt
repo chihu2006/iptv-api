@@ -1,7 +1,23 @@
 📺英国频道,#genre#
+BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+BBC Three,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
+BBC Four,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
+ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
+ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
+ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
+ITV 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
+ITV Quiz,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
+Channel 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
+Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
+E4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
+4 seven,http://realsport.scalecdn.co:8080/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89380
+Virgin 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110049
+Virgin 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110050
+Virgin 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110051
 
 📺美国频道,#genre#
 CNN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
+HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
 Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
 AMC,http://23.239.31.26:8989/amc/index.m3u8
@@ -23,7 +39,6 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 📺香港,#genre#
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 凤凰卫视中文台,http://iptv.4666888.xyz/iptv2A.php?id=27
 
 📺台湾,#genre#
@@ -49,7 +64,6 @@ CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
@@ -58,7 +72,6 @@ CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 ☘️上海频道,#genre#
 
 ☘️广东频道,#genre#
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 
@@ -67,7 +80,6 @@ CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 
 ☘️江苏频道,#genre#
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-江苏公共,http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 
 ☘️安徽频道,#genre#
 
@@ -120,6 +132,7 @@ CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
+青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
 ☘️黑龙江频道,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
@@ -128,9 +141,40 @@ CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 🎬电影频道,#genre#
 龙华电影台,http://iptv.4666888.xyz/iptv2A.php?id=45
 Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+5ACTION UK,http://wickediptv.xyz/Randall123/Randall321/204605
+5STAR UK,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
+Sky Cinema Premiere UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
+Sky Cinema Select UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
+Sky Cinema Hits UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
+Sky Cinema Family UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
+Sky Cinema Action UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
+Sky Cinema Greats UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
+Sky Cinema Comedy UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
+Sky Cinema Thriller UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
+Sky Cinema Drama UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
+Sky Cinema Sci-Fi & Horror UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 
 🏀体育频道,#genre#
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
+TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
+TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
+TNT SPORTS 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
+TNT SPORTS 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
+TNT SPORTS 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
+SKY SPORTS FOOTBALL,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
+SKY SPORTS MAIN EVENT,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
+SKY SPORTS PREMIER LEAGUE,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
+SKY SPORTS ACTION,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
+SKY SPORTS MIX,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98857
+SKY SPORTS NEWS,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
+SKY SPORTS CRICKET,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
+Sky Sports Tennis,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
+SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
+SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
+SKY SPORTS GOLF,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
+SKY SPORTS RACING,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
+Premier Sports 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
+Premier Sports 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
 NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
@@ -173,4 +217,4 @@ Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-05-31 19:22:41,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
+2026-05-31 19:58:09,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853

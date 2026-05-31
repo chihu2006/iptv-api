@@ -15,8 +15,13 @@ ITV 2
 ITV 3
 ITV 4
 ITV News
+ITV Quiz
 Channel 4
 Channel 5
+E4
+E4 Extra
+More 4
+4 seven
 Virgin 1
 Virgin 2
 Virgin 3
@@ -1487,6 +1492,9 @@ ROCK Entertainment
 ROCK Action
 DiscoverFilm
 24 Hour Free Movies
+5ACTION UK
+5SELECT UK
+5STAR UK
 
 🏀体育频道,#genre#
 CCTV-5+
@@ -1510,6 +1518,7 @@ CCTV-5+
 TNT SPORTS 1
 TNT SPORTS 2
 TNT SPORTS 3
+TNT SPORTS 4
 SKY SPORTS FOOTBALL
 SKY SPORTS MAIN EVENT
 SKY SPORTS PREMIER LEAGUE
@@ -1522,6 +1531,8 @@ Sky Sports Tennis
 SKY SPORTS F1
 SKY SPORTS GOLF
 SKY SPORTS RACING
+Premier Sports 1
+Premier Sports 2
 TENNIS CHANNEL
 Viu six
 WWE

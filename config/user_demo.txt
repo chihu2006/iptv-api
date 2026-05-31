@@ -1495,6 +1495,17 @@ DiscoverFilm
 5ACTION UK
 5SELECT UK
 5STAR UK
+Sky Cinema Premiere UK
+Sky Cinema Select UK
+Sky Cinema Hits UK
+Sky Cinema Family UK
+Sky Cinema Action UK
+Sky Cinema Greats UK
+Sky Cinema Comedy UK
+Sky Cinema Thriller UK
+Sky Cinema Drama UK
+Sky Cinema Sci-Fi & Horror UK
+
 
 🏀体育频道,#genre#
 CCTV-5+

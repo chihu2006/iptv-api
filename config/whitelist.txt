@@ -6,7 +6,9 @@
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
 
-
+69.30.245.50
+74.91.26.218
+live.264788.xyz
 
 
 [KEYWORDS]

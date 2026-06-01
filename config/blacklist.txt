@@ -16,6 +16,7 @@ ldocctvwbcdtxy.liveplay.myqcloud.com
 rtsp://
 rtp
 rtmp://
+javascript://
 8.138.7.223
 112.27.235.94:8000
 pa.kuangdeng.top:8081

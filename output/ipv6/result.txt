@@ -34,6 +34,8 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
+📡地方卫视,#genre#
+
 ☘️上海频道,#genre#
 
 ☘️广东频道,#genre#
@@ -115,9 +117,7 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
 📺韩国,#genre#
 
-📡其他卫视,#genre#
-
 💰央视付费频道,#genre#
 
 🕘️更新时间,#genre#
-2026-06-01 13:47:28,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
+2026-06-01 14:11:18,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762

@@ -154,9 +154,9 @@ https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.4666888.xyz/iptv2A.php?id=7
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视频道",CCTV-2
 https://live.ottiptv.cc/mg/631780532.m3u8?userid=335749130&sign=8a1b5b391c4687a6b842360918fe9898e81f0a82d5695061609fa949741beb48571a0edcdb70e1bfaecd40c0ecf6e92a458ef53474d55fae25b4946f20ae685c40ba53ffa080c7ec8f0e88f44b382c8e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视频道",CCTV-2
@@ -207,6 +207,8 @@ https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=1926565337&sign=78f338f8a30f5ebb1
 https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
 https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6
 https://live.ottiptv.cc/mg/624878396.m3u8?userid=335749130&sign=ee662ff28b3e40bb0eb7803cdd7b2ae317ef77f42b926c628b1bf516d9a9200a055648a9be5613f07d00a5caf26a9e748909045849b57c249c1790e20833ac583a38e6b67242b2712d6a5cef42332e97&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6
@@ -333,8 +335,6 @@ https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=1926565337&sign=70418ae0e37753189
 https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视频道",CCTV-16
 https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视频道",CCTV-16
-http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视频道",CCTV-17
 https://live.ottiptv.cc/mg/673168256.m3u8?userid=335749130&sign=e3ca2c8ee261086d41b936e54d01c0266e85f8b9baad9bcb1cb9520931fbbb90b57972eca26cd0db0b487c479516c377bd486b9fbcc136fe9e152116bccbee00b16174d6c23b2a75e3b76f9e21b868e3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视频道",CCTV-17
@@ -1000,5 +1000,5 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="💰央视付费频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-06-01 16:16:42
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC One.png" group-title="🕘️更新时间",2026-06-01 16:23:05
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853

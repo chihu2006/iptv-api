@@ -65,8 +65,8 @@ CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbc
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,https://live.ottiptv.cc/mg/631780532.m3u8?userid=335749130&sign=8a1b5b391c4687a6b842360918fe9898e81f0a82d5695061609fa949741beb48571a0edcdb70e1bfaecd40c0ecf6e92a458ef53474d55fae25b4946f20ae685c40ba53ffa080c7ec8f0e88f44b382c8e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-2,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=1926565337&sign=7a85f47fd99588a31bdccc9a768355585aa4273b715920e98052b1187a85185499db30cafce5482ee642a7300d31f1e86b2eccb1f09c988518a0ac956a461396c34f4ec413f376ad283104b1e2&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -92,6 +92,7 @@ CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=1926565337&sign=f206e770653
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=1926565337&sign=78f338f8a30f5ebb1e5ce1b77c8bbea5b767eeb571bb1aedb84862ac77d3b087d5e23b878ba805997cfdf3fda801c4795a490138225b056ff210d6f09e4d131296e876d477650368d30220159e96&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-6,https://live.ottiptv.cc/mg/624878396.m3u8?userid=335749130&sign=ee662ff28b3e40bb0eb7803cdd7b2ae317ef77f42b926c628b1bf516d9a9200a055648a9be5613f07d00a5caf26a9e748909045849b57c249c1790e20833ac583a38e6b67242b2712d6a5cef42332e97&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=1926565337&sign=0e5ddaf51bab85596282d23afeb105267403b81e807936c480841445c90db1c3b6ff2dd7cd9cfaf3b6b9a7322bf73516b3afc2511e32c8dec7437e98f3969c1928044708b2bcee81c94dba2177&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -152,7 +153,6 @@ CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c932
 CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=1926565337&sign=70418ae0e377531898d199a165f27df68dad1fc27573d4a242fd372b16655457da4d5fdc79881db7afa2be502b5b01b4fe63dd016ded39fe47a0512ba5ddb9489442b759147369cb2f6d7cb9f25a&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-16,https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,https://live.ottiptv.cc/mg/673168256.m3u8?userid=335749130&sign=e3ca2c8ee261086d41b936e54d01c0266e85f8b9baad9bcb1cb9520931fbbb90b57972eca26cd0db0b487c479516c377bd486b9fbcc136fe9e152116bccbee00b16174d6c23b2a75e3b76f9e21b868e3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=1926565337&sign=09ef41982876bd18c286d2c8d4973fd7446b07e242b3b112babf1ba03160191cc742f998ab50b35450cc6bea4243a698c045bb55e09cb62e246ff253e8fd98988c040c9b78c1f2c0d698d4b4e0b9&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -569,4 +569,4 @@ Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-06-01 16:16:42,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+2026-06-01 16:23:05,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853

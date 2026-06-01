@@ -9,8 +9,8 @@ https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/FYTV.m3u
 https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/gary.m3u
 
-# Supprise0901
-https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+# China TV
+https://live.264788.xyz/sub/02RqbaNCNBeldNn15gDj2xumpI7U3N
 
 # https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/feiyang.m3u
 

@@ -1,609 +1,72 @@
 📺英国频道,#genre#
-BBC One,69.30.245.50
-BBC One,74.91.26.218
-BBC One,live.264788.xyz
 BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
-BBC,69.30.245.50
-BBC,74.91.26.218
-BBC,live.264788.xyz
-BBC World News,69.30.245.50
-BBC World News,74.91.26.218
-BBC World News,live.264788.xyz
-BBC One South East,69.30.245.50
-BBC One South East,74.91.26.218
-BBC One South East,live.264788.xyz
-BBC Two,69.30.245.50
-BBC Two,74.91.26.218
-BBC Two,live.264788.xyz
 BBC Two,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
-BBC Three,69.30.245.50
-BBC Three,74.91.26.218
-BBC Three,live.264788.xyz
 BBC Three,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
-BBC Four,69.30.245.50
-BBC Four,74.91.26.218
-BBC Four,live.264788.xyz
 BBC Four,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
-BBC Five,69.30.245.50
-BBC Five,74.91.26.218
-BBC Five,live.264788.xyz
-BBC Lifestyle,69.30.245.50
-BBC Lifestyle,74.91.26.218
-BBC Lifestyle,live.264788.xyz
-CBBC,69.30.245.50
-CBBC,74.91.26.218
-CBBC,live.264788.xyz
-BBC Parliament,69.30.245.50
-BBC Parliament,74.91.26.218
-BBC Parliament,live.264788.xyz
-ITV 1,69.30.245.50
-ITV 1,74.91.26.218
-ITV 1,live.264788.xyz
 ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
-ITV 2,69.30.245.50
-ITV 2,74.91.26.218
-ITV 2,live.264788.xyz
 ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
-ITV 3,69.30.245.50
-ITV 3,74.91.26.218
-ITV 3,live.264788.xyz
 ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
-ITV 4,69.30.245.50
-ITV 4,74.91.26.218
-ITV 4,live.264788.xyz
 ITV 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
-ITV News,69.30.245.50
-ITV News,74.91.26.218
-ITV News,live.264788.xyz
-ITV Quiz,69.30.245.50
-ITV Quiz,74.91.26.218
-ITV Quiz,live.264788.xyz
 ITV Quiz,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
-Channel 4,69.30.245.50
-Channel 4,74.91.26.218
-Channel 4,live.264788.xyz
 Channel 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
-Channel 5,69.30.245.50
-Channel 5,74.91.26.218
-Channel 5,live.264788.xyz
 Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
-E4,69.30.245.50
-E4,74.91.26.218
-E4,live.264788.xyz
 E4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
-E4 Extra,69.30.245.50
-E4 Extra,74.91.26.218
-E4 Extra,live.264788.xyz
 E4 Extra,http://kytv.xyz/brendan1/brendan1/2843037
-More 4,69.30.245.50
-More 4,74.91.26.218
-More 4,live.264788.xyz
-4 seven,69.30.245.50
-4 seven,74.91.26.218
-4 seven,live.264788.xyz
 4 seven,http://realsport.scalecdn.co:8080/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89380
-Virgin 1,69.30.245.50
-Virgin 1,74.91.26.218
-Virgin 1,live.264788.xyz
 Virgin 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110049
-Virgin 2,69.30.245.50
-Virgin 2,74.91.26.218
-Virgin 2,live.264788.xyz
 Virgin 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110050
-Virgin 3,69.30.245.50
-Virgin 3,74.91.26.218
-Virgin 3,live.264788.xyz
 Virgin 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110051
-Virgin 4,69.30.245.50
-Virgin 4,74.91.26.218
-Virgin 4,live.264788.xyz
 Virgin 4,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
-Beano TV,69.30.245.50
-Beano TV,74.91.26.218
-Beano TV,live.264788.xyz
-Blaze,69.30.245.50
-Blaze,74.91.26.218
-Blaze,live.264788.xyz
-Bloomberg TV Europe,69.30.245.50
-Bloomberg TV Europe,74.91.26.218
-Bloomberg TV Europe,live.264788.xyz
-Bloomberg,69.30.245.50
-Bloomberg,74.91.26.218
-Bloomberg,live.264788.xyz
-Bloomberg TV EMEA Live Event,69.30.245.50
-Bloomberg TV EMEA Live Event,74.91.26.218
-Bloomberg TV EMEA Live Event,live.264788.xyz
-DW德国之声,69.30.245.50
-DW德国之声,74.91.26.218
-DW德国之声,live.264788.xyz
-Sky News,69.30.245.50
-Sky News,74.91.26.218
-Sky News,live.264788.xyz
-Sky Sports,69.30.245.50
-Sky Sports,74.91.26.218
-Sky Sports,live.264788.xyz
-Film 4,69.30.245.50
-Film 4,74.91.26.218
-Film 4,live.264788.xyz
 Film 4,http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7627
-INULTRA,69.30.245.50
-INULTRA,74.91.26.218
-INULTRA,live.264788.xyz
-FRANCE24 英文台,69.30.245.50
-FRANCE24 英文台,74.91.26.218
-FRANCE24 英文台,live.264788.xyz
 
 📺美国频道,#genre#
-CNN,69.30.245.50
-CNN,74.91.26.218
-CNN,live.264788.xyz
 CNN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
-HBO,69.30.245.50
-HBO,74.91.26.218
-HBO,live.264788.xyz
 HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
-Fox News,69.30.245.50
-Fox News,74.91.26.218
-Fox News,live.264788.xyz
-Fox Sports 2,69.30.245.50
-Fox Sports 2,74.91.26.218
-Fox Sports 2,live.264788.xyz
 Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
-Fox Weather,69.30.245.50
-Fox Weather,74.91.26.218
-Fox Weather,live.264788.xyz
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
-AMC,69.30.245.50
-AMC,74.91.26.218
-AMC,live.264788.xyz
 AMC,http://23.239.31.26:8989/amc/index.m3u8
-CNBC,69.30.245.50
-CNBC,74.91.26.218
-CNBC,live.264788.xyz
 CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
-CNBC Asia 财经台,69.30.245.50
-CNBC Asia 财经台,74.91.26.218
-CNBC Asia 财经台,live.264788.xyz
-TBS,69.30.245.50
-TBS,74.91.26.218
-TBS,live.264788.xyz
 TBS,http://wickediptv.xyz/Randall123/Randall321/53318
-CBN News,69.30.245.50
-CBN News,74.91.26.218
-CBN News,live.264788.xyz
-CBS,69.30.245.50
-CBS,74.91.26.218
-CBS,live.264788.xyz
-CBS News New York,69.30.245.50
-CBS News New York,74.91.26.218
-CBS News New York,live.264788.xyz
-CBS Sports Network,69.30.245.50
-CBS Sports Network,74.91.26.218
-CBS Sports Network,live.264788.xyz
 CBS Sports Network,http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
-ABC News Live,69.30.245.50
-ABC News Live,74.91.26.218
-ABC News Live,live.264788.xyz
 ABC News Live,https://pb-0n3n2ej0w8pl9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n3n2ej0w8pl9/9d6fea29-b168-48b9-8d74-073a6bab5ce6/0.m3u8
-ABC 2,69.30.245.50
-ABC 2,74.91.26.218
-ABC 2,live.264788.xyz
 ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-ABC 3,69.30.245.50
-ABC 3,74.91.26.218
-ABC 3,live.264788.xyz
-ABC 4,69.30.245.50
-ABC 4,74.91.26.218
-ABC 4,live.264788.xyz
 ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
-ABC 5,69.30.245.50
-ABC 5,74.91.26.218
-ABC 5,live.264788.xyz
-ABC 6,69.30.245.50
-ABC 6,74.91.26.218
-ABC 6,live.264788.xyz
 ABC 6,https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
-ABC 7,69.30.245.50
-ABC 7,74.91.26.218
-ABC 7,live.264788.xyz
 ABC 7,https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
-ABC 8,69.30.245.50
-ABC 8,74.91.26.218
-ABC 8,live.264788.xyz
-ABC 9,69.30.245.50
-ABC 9,74.91.26.218
-ABC 9,live.264788.xyz
 ABC 9,https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
-ABC 10,69.30.245.50
-ABC 10,74.91.26.218
-ABC 10,live.264788.xyz
-ABC 11,69.30.245.50
-ABC 11,74.91.26.218
-ABC 11,live.264788.xyz
-ABC 12,69.30.245.50
-ABC 12,74.91.26.218
-ABC 12,live.264788.xyz
-ABC 13,69.30.245.50
-ABC 13,74.91.26.218
-ABC 13,live.264788.xyz
 ABC 13,https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
-ABC 14,69.30.245.50
-ABC 14,74.91.26.218
-ABC 14,live.264788.xyz
-ABC 15,69.30.245.50
-ABC 15,74.91.26.218
-ABC 15,live.264788.xyz
 ABC 15,https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
-ABC 16,69.30.245.50
-ABC 16,74.91.26.218
-ABC 16,live.264788.xyz
-ABC 17,69.30.245.50
-ABC 17,74.91.26.218
-ABC 17,live.264788.xyz
-ABC 18,69.30.245.50
-ABC 18,74.91.26.218
-ABC 18,live.264788.xyz
-ABC 19,69.30.245.50
-ABC 19,74.91.26.218
-ABC 19,live.264788.xyz
-ABC 20,69.30.245.50
-ABC 20,74.91.26.218
-ABC 20,live.264788.xyz
-ABC 21,69.30.245.50
-ABC 21,74.91.26.218
-ABC 21,live.264788.xyz
-ABC 22,69.30.245.50
-ABC 22,74.91.26.218
-ABC 22,live.264788.xyz
 ABC 22,https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
-ABC 23,69.30.245.50
-ABC 23,74.91.26.218
-ABC 23,live.264788.xyz
-ABC 24,69.30.245.50
-ABC 24,74.91.26.218
-ABC 24,live.264788.xyz
-ABC 25,69.30.245.50
-ABC 25,74.91.26.218
-ABC 25,live.264788.xyz
-ABC 26,69.30.245.50
-ABC 26,74.91.26.218
-ABC 26,live.264788.xyz
-ABC 27,69.30.245.50
-ABC 27,74.91.26.218
-ABC 27,live.264788.xyz
-CBC News,69.30.245.50
-CBC News,74.91.26.218
-CBC News,live.264788.xyz
-Newsmax,69.30.245.50
-Newsmax,74.91.26.218
-Newsmax,live.264788.xyz
 Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-Wild Earth,69.30.245.50
-Wild Earth,74.91.26.218
-Wild Earth,live.264788.xyz
-MTV,69.30.245.50
-MTV,74.91.26.218
-MTV,live.264788.xyz
 MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
-MTV Live,69.30.245.50
-MTV Live,74.91.26.218
-MTV Live,live.264788.xyz
 MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 📺香港,#genre#
-TVB翡翠台,69.30.245.50
-TVB翡翠台,74.91.26.218
-TVB翡翠台,live.264788.xyz
 TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB明珠台,69.30.245.50
-TVB明珠台,74.91.26.218
-TVB明珠台,live.264788.xyz
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB无线新闻,69.30.245.50
-TVB无线新闻,74.91.26.218
-TVB无线新闻,live.264788.xyz
-TVB无线星河,69.30.245.50
-TVB无线星河,74.91.26.218
-TVB无线星河,live.264788.xyz
-TVB娱乐新闻,69.30.245.50
-TVB娱乐新闻,74.91.26.218
-TVB娱乐新闻,live.264788.xyz
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
-TVB Plus,69.30.245.50
-TVB Plus,74.91.26.218
-TVB Plus,live.264788.xyz
-TVB1,69.30.245.50
-TVB1,74.91.26.218
-TVB1,live.264788.xyz
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-翡翠一台(北美),69.30.245.50
-翡翠一台(北美),74.91.26.218
-翡翠一台(北美),live.264788.xyz
-翡翠剧集台(北美),69.30.245.50
-翡翠剧集台(北美),74.91.26.218
-翡翠剧集台(北美),live.264788.xyz
-翡翠娛樂台(北美),69.30.245.50
-翡翠娛樂台(北美),74.91.26.218
-翡翠娛樂台(北美),live.264788.xyz
-翡翠综合台(北美),69.30.245.50
-翡翠综合台(北美),74.91.26.218
-翡翠综合台(北美),live.264788.xyz
-明珠剧集台(北美),69.30.245.50
-明珠剧集台(北美),74.91.26.218
-明珠剧集台(北美),live.264788.xyz
-凤凰卫视中文台,69.30.245.50
-凤凰卫视中文台,74.91.26.218
-凤凰卫视中文台,live.264788.xyz
 凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 凤凰卫视中文台,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰卫视香港台,69.30.245.50
-凤凰卫视香港台,74.91.26.218
-凤凰卫视香港台,live.264788.xyz
-凤凰资讯,69.30.245.50
-凤凰资讯,74.91.26.218
-凤凰资讯,live.264788.xyz
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-香港卫视,69.30.245.50
-香港卫视,74.91.26.218
-香港卫视,live.264788.xyz
-RTHK31,69.30.245.50
-RTHK31,74.91.26.218
-RTHK31,live.264788.xyz
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-RTHK32,69.30.245.50
-RTHK32,74.91.26.218
-RTHK32,live.264788.xyz
-纬来育乐,69.30.245.50
-纬来育乐,74.91.26.218
-纬来育乐,live.264788.xyz
-纬来精采,69.30.245.50
-纬来精采,74.91.26.218
-纬来精采,live.264788.xyz
-新视觉HD,69.30.245.50
-新视觉HD,74.91.26.218
-新视觉HD,live.264788.xyz
-TVBJ1,69.30.245.50
-TVBJ1,74.91.26.218
-TVBJ1,live.264788.xyz
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-8TV,69.30.245.50
-8TV,74.91.26.218
-8TV,live.264788.xyz
-Viutv,69.30.245.50
-Viutv,74.91.26.218
-Viutv,live.264788.xyz
-myTV SUPER 18台,69.30.245.50
-myTV SUPER 18台,74.91.26.218
-myTV SUPER 18台,live.264788.xyz
-黃金翡翠台,69.30.245.50
-黃金翡翠台,74.91.26.218
-黃金翡翠台,live.264788.xyz
-HITS,69.30.245.50
-HITS,74.91.26.218
-HITS,live.264788.xyz
-PopC,69.30.245.50
-PopC,74.91.26.218
-PopC,live.264788.xyz
-HOYTV,69.30.245.50
-HOYTV,74.91.26.218
-HOYTV,live.264788.xyz
-天映經典(1080),69.30.245.50
-天映經典(1080),74.91.26.218
-天映經典(1080),live.264788.xyz
-大爱电视,69.30.245.50
-大爱电视,74.91.26.218
-大爱电视,live.264788.xyz
-大愛二台,69.30.245.50
-大愛二台,74.91.26.218
-大愛二台,live.264788.xyz
 
 📺台湾,#genre#
-TVBS,69.30.245.50
-TVBS,74.91.26.218
-TVBS,live.264788.xyz
-TVBS新闻,69.30.245.50
-TVBS新闻,74.91.26.218
-TVBS新闻,live.264788.xyz
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS亚洲,69.30.245.50
-TVBS亚洲,74.91.26.218
-TVBS亚洲,live.264788.xyz
-TVBS HD,69.30.245.50
-TVBS HD,74.91.26.218
-TVBS HD,live.264788.xyz
-TVBS欢乐台,69.30.245.50
-TVBS欢乐台,74.91.26.218
-TVBS欢乐台,live.264788.xyz
-TVBS精采台,69.30.245.50
-TVBS精采台,74.91.26.218
-TVBS精采台,live.264788.xyz
-TVBS綜藝台,69.30.245.50
-TVBS綜藝台,74.91.26.218
-TVBS綜藝台,live.264788.xyz
-TVBS台劇台,69.30.245.50
-TVBS台劇台,74.91.26.218
-TVBS台劇台,live.264788.xyz
 TVBS台劇台,http://iptv.4666888.xyz/iptv2A.php?id=58
-东森新闻台,69.30.245.50
-东森新闻台,74.91.26.218
-东森新闻台,live.264788.xyz
-民视,69.30.245.50
-民视,74.91.26.218
-民视,live.264788.xyz
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视新闻台,69.30.245.50
-民视新闻台,74.91.26.218
-民视新闻台,live.264788.xyz
-民视台湾台,69.30.245.50
-民视台湾台,74.91.26.218
-民视台湾台,live.264788.xyz
-民视第一台,69.30.245.50
-民视第一台,74.91.26.218
-民视第一台,live.264788.xyz
-民视综艺台,69.30.245.50
-民视综艺台,74.91.26.218
-民视综艺台,live.264788.xyz
-民视旅游台,69.30.245.50
-民视旅游台,74.91.26.218
-民视旅游台,live.264788.xyz
-民视影剧台,69.30.245.50
-民视影剧台,74.91.26.218
-民视影剧台,live.264788.xyz
-镜电视新闻台,69.30.245.50
-镜电视新闻台,74.91.26.218
-镜电视新闻台,live.264788.xyz
-非凡新闻,69.30.245.50
-非凡新闻,74.91.26.218
-非凡新闻,live.264788.xyz
-华视新闻,69.30.245.50
-华视新闻,74.91.26.218
-华视新闻,live.264788.xyz
-中视新闻台,69.30.245.50
-中视新闻台,74.91.26.218
-中视新闻台,live.264788.xyz
-寰宇新闻台,69.30.245.50
-寰宇新闻台,74.91.26.218
-寰宇新闻台,live.264788.xyz
-寰宇新闻台湾台,69.30.245.50
-寰宇新闻台湾台,74.91.26.218
-寰宇新闻台湾台,live.264788.xyz
-半岛国际新闻,69.30.245.50
-半岛国际新闻,74.91.26.218
-半岛国际新闻,live.264788.xyz
-三立台湾,69.30.245.50
-三立台湾,74.91.26.218
-三立台湾,live.264788.xyz
-三立LIVE,69.30.245.50
-三立LIVE,74.91.26.218
-三立LIVE,live.264788.xyz
-三立iNEWS,69.30.245.50
-三立iNEWS,74.91.26.218
-三立iNEWS,live.264788.xyz
-三立新闻,69.30.245.50
-三立新闻,74.91.26.218
-三立新闻,live.264788.xyz
-三立綜合台,69.30.245.50
-三立綜合台,74.91.26.218
-三立綜合台,live.264788.xyz
-三立都会台,69.30.245.50
-三立都会台,74.91.26.218
-三立都会台,live.264788.xyz
-东森综合,69.30.245.50
-东森综合,74.91.26.218
-东森综合,live.264788.xyz
-Now剧集,69.30.245.50
-Now剧集,74.91.26.218
-Now剧集,live.264788.xyz
-Now华剧,69.30.245.50
-Now华剧,74.91.26.218
-Now华剧,live.264788.xyz
-Now新闻,69.30.245.50
-Now新闻,74.91.26.218
-Now新闻,live.264788.xyz
-靖天资讯,69.30.245.50
-靖天资讯,74.91.26.218
-靖天资讯,live.264788.xyz
-卫视卡式,69.30.245.50
-卫视卡式,74.91.26.218
-卫视卡式,live.264788.xyz
-中天新闻,69.30.245.50
-中天新闻,74.91.26.218
-中天新闻,live.264788.xyz
-东森财经新闻台,69.30.245.50
-东森财经新闻台,74.91.26.218
-东森财经新闻台,live.264788.xyz
-非凡商业,69.30.245.50
-非凡商业,74.91.26.218
-非凡商业,live.264788.xyz
-台视财经台,69.30.245.50
-台视财经台,74.91.26.218
-台视财经台,live.264788.xyz
-SBN 全球財經台,69.30.245.50
-SBN 全球財經台,74.91.26.218
-SBN 全球財經台,live.264788.xyz
-第1商业台,69.30.245.50
-第1商业台,74.91.26.218
-第1商业台,live.264788.xyz
-台视新闻,69.30.245.50
-台视新闻,74.91.26.218
-台视新闻,live.264788.xyz
-中视,69.30.245.50
-中视,74.91.26.218
-中视,live.264788.xyz
-华视,69.30.245.50
-华视,74.91.26.218
-华视,live.264788.xyz
-中天亚洲,69.30.245.50
-中天亚洲,74.91.26.218
-中天亚洲,live.264788.xyz
-靖天综合台,69.30.245.50
-靖天综合台,74.91.26.218
-靖天综合台,live.264788.xyz
-靖天国际台,69.30.245.50
-靖天国际台,74.91.26.218
-靖天国际台,live.264788.xyz
-靖天资讯台,69.30.245.50
-靖天资讯台,74.91.26.218
-靖天资讯台,live.264788.xyz
-客家电视台,69.30.245.50
-客家电视台,74.91.26.218
-客家电视台,live.264788.xyz
-国会频道1,69.30.245.50
-国会频道1,74.91.26.218
-国会频道1,live.264788.xyz
-国会频道2,69.30.245.50
-国会频道2,74.91.26.218
-国会频道2,live.264788.xyz
-ELTV娱乐,69.30.245.50
-ELTV娱乐,74.91.26.218
-ELTV娱乐,live.264788.xyz
-八大综艺,69.30.245.50
-八大综艺,74.91.26.218
-八大综艺,live.264788.xyz
-八大精彩,69.30.245.50
-八大精彩,74.91.26.218
-八大精彩,live.264788.xyz
-靖天欢乐台,69.30.245.50
-靖天欢乐台,74.91.26.218
-靖天欢乐台,live.264788.xyz
-靖天育乐台,69.30.245.50
-靖天育乐台,74.91.26.218
-靖天育乐台,live.264788.xyz
-中视菁采台,69.30.245.50
-中视菁采台,74.91.26.218
-中视菁采台,live.264788.xyz
-猪哥亮歌厅秀,69.30.245.50
-猪哥亮歌厅秀,74.91.26.218
-猪哥亮歌厅秀,live.264788.xyz
-朝鲜恩情台,69.30.245.50
-朝鲜恩情台,74.91.26.218
-朝鲜恩情台,live.264788.xyz
-東森新聞,69.30.245.50
-東森新聞,74.91.26.218
-東森新聞,live.264788.xyz
-Taiwan Plus,69.30.245.50
-Taiwan Plus,74.91.26.218
-Taiwan Plus,live.264788.xyz
-原住民族電視台,69.30.245.50
-原住民族電視台,74.91.26.218
-原住民族電視台,live.264788.xyz
 
 📺央视频道,#genre#
-CCTV-1,69.30.245.50
-CCTV-1,74.91.26.218
-CCTV-1,live.264788.xyz
 CCTV-1,https://live.ottiptv.cc/mg/608807420.m3u8?userid=335749130&sign=4ae0ac3b15040c64bfd3cf7714e6e44331df4e746c80154c1d2bcb2a3207e5d9854aabbec45950f7b4739eb48f6556d48e3fecb5043dc81a102d723f6b18a4a0b500015f5c7320c494bc28e03779851e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=1926565337&sign=33ceeb6510e5a519e305031247c322bdb23dcd1675de53744ea462a28d501857ee88b9ab66d1f746204989a35c1fb7f54af13e8cd325c037565d38f5faa89e4bd96dc389b080497a811186010b&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
-CCTV-2,69.30.245.50
-CCTV-2,74.91.26.218
-CCTV-2,live.264788.xyz
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,https://live.ottiptv.cc/mg/631780532.m3u8?userid=335749130&sign=8a1b5b391c4687a6b842360918fe9898e81f0a82d5695061609fa949741beb48571a0edcdb70e1bfaecd40c0ecf6e92a458ef53474d55fae25b4946f20ae685c40ba53ffa080c7ec8f0e88f44b382c8e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-2,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=1926565337&sign=7a85f47fd99588a31bdccc9a768355585aa4273b715920e98052b1187a85185499db30cafce5482ee642a7300d31f1e86b2eccb1f09c988518a0ac956a461396c34f4ec413f376ad283104b1e2&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -611,9 +74,6 @@ CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201b
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV-3,69.30.245.50
-CCTV-3,74.91.26.218
-CCTV-3,live.264788.xyz
 CCTV-3,https://live.ottiptv.cc/mg/624878271.m3u8?userid=335749130&sign=650c86fe1352eeab9b2e52a38541229621726430498cef1f33303d253fc623c218bb32a18865dab442a73359bf7c4d7cbc65702d6e71bb2b209cb3e8a16f979a616c8c88f4304cfd5d7a703a1db26979&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=1926565337&sign=bf41f77d5ab77a109f1cd1b4a89aba1f33a6f4047d3309e7772d9b0c311fefa24b52b713c1135fceda58f9248af69d93c72a2ba8934f854588022e589be53f62b5f2ee8ccf072d76eadbda098a&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -621,95 +81,62 @@ CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23
 CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,69.30.245.50
-CCTV-4,74.91.26.218
-CCTV-4,live.264788.xyz
 CCTV-4,https://live.ottiptv.cc/mg/631780421.m3u8?userid=335749130&sign=858d5c192b4c8e3eb2fdc5fcd6aa8922aefeb0535442a0624427628ed43d3c5dfb35db0bb8f45303c662a6132d8f3aaf9cd8cd83b7a0e7bec9720dea5c77cd55b7ec2b57864f17a28a23cde4a085a66e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=1926565337&sign=ec3e0eec4b68e5b95efb75cae9f220505ad450cad2b6ac9129c283f73c2f6533cba048dc6457e1bbaaf727dead20acf14da0766a52edf2817347d5af4c08be941b2a2abc39aee4ddd70d5cf9ea&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-5,69.30.245.50
-CCTV-5,74.91.26.218
-CCTV-5,live.264788.xyz
 CCTV-5,https://live.ottiptv.cc/mg/641886683.m3u8?userid=335749130&sign=cc67639ccfda5cee24fc0f9581650968b8dc6555b9ffb63d712480cf59a3c641fd1f657b960455571cd38cf1008963a56c4253d66022ec35e16cd983ed1f940028f68bbda07fb44f2ecf75af58e2458f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=1926565337&sign=f206e770653e5ba6fe1fca9e23ecd6691711b221118bb25b774fa2b6acf7237c177550a49fa62821723c971f3470f447fcf526ef0692afed725d99629564b8587451cdaa6417bc6cdd368de424&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=1926565337&sign=78f338f8a30f5ebb1e5ce1b77c8bbea5b767eeb571bb1aedb84862ac77d3b087d5e23b878ba805997cfdf3fda801c4795a490138225b056ff210d6f09e4d131296e876d477650368d30220159e96&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-6,69.30.245.50
-CCTV-6,74.91.26.218
-CCTV-6,live.264788.xyz
 CCTV-6,https://live.ottiptv.cc/mg/624878396.m3u8?userid=335749130&sign=ee662ff28b3e40bb0eb7803cdd7b2ae317ef77f42b926c628b1bf516d9a9200a055648a9be5613f07d00a5caf26a9e748909045849b57c249c1790e20833ac583a38e6b67242b2712d6a5cef42332e97&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=1926565337&sign=0e5ddaf51bab85596282d23afeb105267403b81e807936c480841445c90db1c3b6ff2dd7cd9cfaf3b6b9a7322bf73516b3afc2511e32c8dec7437e98f3969c1928044708b2bcee81c94dba2177&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-7,69.30.245.50
-CCTV-7,74.91.26.218
-CCTV-7,live.264788.xyz
 CCTV-7,https://live.ottiptv.cc/mg/673168121.m3u8?userid=335749130&sign=3a9ca8201241215c39ab9c522bfcad238f0b5fd016ab5d3fe234f5b9378d17e2e777fa9c5818a89ad3eff08bd3b8039afc40a670e1afb8f6eac3331df3911ed45b45b7fe2833d8076dbdb3464b11aab1&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-7,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=1926565337&sign=442bb38be401e119508f1d7114769523e693f9b61c97ef05cf08958bd81464103e8b400440a8194b21567beec27ce06cc20c69784acfff57d4c8b8c6aedc297785b6fb59348ed610ccf0ac2991&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV-8,69.30.245.50
-CCTV-8,74.91.26.218
-CCTV-8,live.264788.xyz
 CCTV-8,https://live.ottiptv.cc/mg/624878356.m3u8?userid=335749130&sign=cba342035698168e3642eb4d4be995470106966ce2867eac8971024433f4a49c79d3a010575ebb3e85be1d09a1a22c6ceaf6bb47c3b44947e105947356b471e6444e7d1ecf6b66665c901cec439cd281&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-8,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=1926565337&sign=a543535646d2e4da0682e32dc6423687bbcbe8d3013df59e9d81f3a82725f7e2cba7ae5cb66a228a1d394d21b16023337e4204bfedfdaa39aaa92c022b90e62a30629646c4487a0ec4990694dc&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-9,69.30.245.50
-CCTV-9,74.91.26.218
-CCTV-9,live.264788.xyz
 CCTV-9,https://live.ottiptv.cc/mg/673168140.m3u8?userid=335749130&sign=0687a30242a52571f9eb118b61fc19b4f20059e475c0db1d3585f8cce5b65d7eb962dd885fbd7511f5a915235d56b68e9ec14ada27c47b0b8f52d77d54f00eb07052e57992050da7ba79ca1e4a869dd2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=1926565337&sign=d4ccecf670c9234de9bc53a0274f55a60f0c332e9e49f48b2e21d839ae35b185873a20abf54468d8518b542a62901b9b4bf3997613be347a254ffc8bdf73d520ad3f2e61d14f952202bde0253c&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-10,69.30.245.50
-CCTV-10,74.91.26.218
-CCTV-10,live.264788.xyz
 CCTV-10,https://live.ottiptv.cc/mg/624878405.m3u8?userid=335749130&sign=28f22a9c7ee271594a6dbd063150d3dfe8af6c9d4ae3f8e56bc4b9e0276fa14788e739a5a0d2557ddce3290003dba512fb5618ab89eb3be3b4e15b27478b1ae89f90d173cd0b8db28b8b2db5da0d55b2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-10,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=1926565337&sign=11e46496856494fe5e753b07a7ded6d5e21a3c7529632fb92b892978e37a7fa24e9bb90246d4ae8a8d20985f72096b57d2ecc313fd51fe41ffd84016bcece5d3720bd92ccfd317de6404133dfd16&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV-11,69.30.245.50
-CCTV-11,74.91.26.218
-CCTV-11,live.264788.xyz
 CCTV-11,https://live.ottiptv.cc/mg/667987558.m3u8?userid=335749130&sign=df7a862c3abeb21521ecb5593112436a8affd0eedf9d7a5b7482a9a51f954f4d6a7290f54416958d963e34b29faa3357387d360b153dc800a718a5f6ef5e056e95a0854fd789e2a47a4322a816feef85&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=1926565337&sign=cfbeacc7a67a91e7e23ae07fd1cfd183257e30b8923f62cbd5dda970646e22fde0f963f4c9a5faa99c09bf8d6152e07495da1f1d8f298d6b90b7eb3a979ad804451db1c063538d5865d0d28bcd02&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-12,69.30.245.50
-CCTV-12,74.91.26.218
-CCTV-12,live.264788.xyz
 CCTV-12,https://live.ottiptv.cc/mg/673168185.m3u8?userid=335749130&sign=fbddbaace5f7baca3c7d3d5ca897774ffe10a8856b5139df0bf286ff456efdafb25768a29be3a522d19dd89b8b1aed4fc67e315c9659b94c98216afa5105d69fe54d1cbbd9f24230f962e2e7928f1743&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-12,https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=1926565337&sign=565271820b07654b482e0944794b74d38101f1f3563a723a208a51daeac5a1ad3dbb359ac31efac477a4cb08293fae1da4284498fb9c53bcc1a9350e702f8e11ec1b6b471ef15200354065dcd027&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-13,69.30.245.50
-CCTV-13,74.91.26.218
-CCTV-13,live.264788.xyz
 CCTV-13,https://live.ottiptv.cc/mg/608807423.m3u8?userid=335749130&sign=7ac404b58f1d91517bf4a1b260cc839f161e2eb219dedfa14db6421f75d266691e4a48735d01a32f43b9ec7f5ae8aa1317e8703cc52b19b349da350beefc398c19beadeef83464d3417fc3ad5cd33e92&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=1926565337&sign=6fdf1b2f815be9f692bd8033a5e7c852b03f4b2cf436dd5b4af2b5256d802178624442649864bd6eb4e3c1a66eb74bbdafcfe3d25e8bb4418b0f180e51646ac5cbdf60158f3917cd600cb0ec5abf&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
-CCTV-14,69.30.245.50
-CCTV-14,74.91.26.218
-CCTV-14,live.264788.xyz
 CCTV-14,https://live.ottiptv.cc/mg/624878440.m3u8?userid=335749130&sign=d4a35bde23d42601dea5f70427d9d51f21c7abf3e56c2268d4b9b281b2f2c3a755cbc7cc2b1cd2ef97c318a7e9b4f07f752dcb1761d5c543048e6fd23245b43c44ecffb388175ca4b5402d62ca0b63b3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-14,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=1926565337&sign=b635587a492f6ff87301b8bbb1fa6b6d810cc2245b787377d383efb17614b7d1ae9d2f74777ba27385b45c84f8ffd3e8b8570cc30455e2bf0d612844c40e483867c5ce9aabde581c7cdf33f22a2f&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -717,92 +144,51 @@ CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadc
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15,69.30.245.50
-CCTV-15,74.91.26.218
-CCTV-15,live.264788.xyz
 CCTV-15,https://live.ottiptv.cc/mg/673168223.m3u8?userid=335749130&sign=619c7e57fbbbf9bae16f29f9a708f5ed2a7583a4e596e3f156cfd3bb1f6e476575af7fecd4ade345b8af00d48d7f4a1a21fb1b171a5020db70ba8310fd0b60bf8a48420d9defa0ed270aede79a218e96&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=1926565337&sign=51b7758f531abdd6ee9ba896797203ad205b37d5457ef45a4aa0769f26b5916ae31154a48d9f9bfc7c9c19876affdf5f51fe23af511ca774d63d2e8cb15e4a68b1c89034257cb3c80db0f7e838eb&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-16,69.30.245.50
-CCTV-16,74.91.26.218
-CCTV-16,live.264788.xyz
 CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=1926565337&sign=70418ae0e377531898d199a165f27df68dad1fc27573d4a242fd372b16655457da4d5fdc79881db7afa2be502b5b01b4fe63dd016ded39fe47a0512ba5ddb9489442b759147369cb2f6d7cb9f25a&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-16,https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-17,69.30.245.50
-CCTV-17,74.91.26.218
-CCTV-17,live.264788.xyz
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,https://live.ottiptv.cc/mg/673168256.m3u8?userid=335749130&sign=e3ca2c8ee261086d41b936e54d01c0266e85f8b9baad9bcb1cb9520931fbbb90b57972eca26cd0db0b487c479516c377bd486b9fbcc136fe9e152116bccbee00b16174d6c23b2a75e3b76f9e21b868e3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=1926565337&sign=09ef41982876bd18c286d2c8d4973fd7446b07e242b3b112babf1ba03160191cc742f998ab50b35450cc6bea4243a698c045bb55e09cb62e246ff253e8fd98988c040c9b78c1f2c0d698d4b4e0b9&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV-4K,69.30.245.50
-CCTV-4K,74.91.26.218
-CCTV-4K,live.264788.xyz
 CCTV-4K,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=1926565337&sign=d96f45215a5cfaf94cdcb05c61cd3f6fcf49ff5c9a7c59fc65c6e497555594ee8352edd4d6a5f7b557da79ea7f4e44192a560dbe74efbc35a7d0b785a4a1758ef8fcbf3b49c8b5fbf590d1c5a33e&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-8K,69.30.245.50
-CCTV-8K,74.91.26.218
-CCTV-8K,live.264788.xyz
 CCTV-8K,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=1926565337&sign=36f2b8f160bc9607d4f7ee858471933b5e73ae095dd3071ae77cd8fc38efa9f4b1f41ea9a9c1644f426030784e42cae7e43782af1a8a368a5e5b0fa2cb3d1d592479ff27882b3754140ce379a640&auth_token=1b419ca2389167e00ffb1a7264658820
 CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
-CCTV4欧洲,69.30.245.50
-CCTV4欧洲,74.91.26.218
-CCTV4欧洲,live.264788.xyz
 CCTV4欧洲,https://live.ottiptv.cc/mg/608807419.m3u8?userid=335749130&sign=7432a57a7234ef2de5a2fba14a7bb793cb247b2b59a26c5ba8215a494e1ed190abf643b675b99d0adc860a2a6c6ccfcf45016fb3a3bfba477b63152ce3396c744da530b6fc0c5fa94990162b11ab9523&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV4美洲,69.30.245.50
-CCTV4美洲,74.91.26.218
-CCTV4美洲,live.264788.xyz
 CCTV4美洲,https://live.ottiptv.cc/mg/608807416.m3u8?userid=335749130&sign=c6cd7559668ec33578dd59f78e5adb672a13b17770a2c458917a0a3aeffceab6d973af6ac18271abd10886d2a7f7a514c17d4ca9d98ffd06cdbdf76b542ca3b33074c23714808f9ee715699c2e27ad12&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CGTN,69.30.245.50
-CGTN,74.91.26.218
-CGTN,live.264788.xyz
 CGTN,https://live.ottiptv.cc/mg/609017205.m3u8?userid=335749130&sign=75f1ef4fd0c9d40c1b1eebd74c6d0f56b86d9b8c47a56d7b3856ccd4f2635e7659372ab80c5bc99c111ffe85577e8bf439c1f90ee556be0a5cdcddfe219fc10d248d8210737fb61d827ff54aa5eb141e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CGTN记录,69.30.245.50
-CGTN记录,74.91.26.218
-CGTN记录,live.264788.xyz
 CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046013bee3262d4988a9c4c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-TV Brics,69.30.245.50
-TV Brics,74.91.26.218
-TV Brics,live.264788.xyz
 
 📡地方卫视,#genre#
-东方卫视,69.30.245.50
-东方卫视,74.91.26.218
-东方卫视,live.264788.xyz
 东方卫视,https://live.ottiptv.cc/mg/651632648.m3u8?userid=335749130&sign=1b4f3d86e58b666e5cb9c886da8e82a4ae940b77d006a5917591107aca4f32493c4c610ca109155a43d9568f2a000690d39aaf50b639e55865a4ec516bbb949247b4415b194638a1884867cdac7f54de&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 东方卫视,https://live.ottiptv.cc/mcp/dongfang.m3u8?userid=1926565337&sign=fb4e7e75a57d2f220503c491483bbe07dc3356da57d23f5fb4bfec2001ba96e082563da945c3ee80ad555b38de4f04938767ee9c2cdae6bbfe83353220e870b9fea560f4a3343f3ba7009ab40720de8c&auth_token=1b419ca2389167e00ffb1a7264658820
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 东方卫视,https://live.264788.xyz/channel/dongfangweishi4k?streamid=b8c707e2ca95b85511f6c50c9638128b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南卫视,69.30.245.50
-湖南卫视,74.91.26.218
-湖南卫视,live.264788.xyz
 湖南卫视,https://live.ottiptv.cc/mcp/hunan.m3u8?userid=1926565337&sign=0158b5b7493038fbd5afc3369b5172a519821a4d0a8aabff8c9609865e7c71c24b9729e1cb3a68bff2de54b1c1d75c8f5bd67508235d98807c206dec2f8920b59492df36e6f87a7bd799267402&auth_token=1b419ca2389167e00ffb1a7264658820
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=55aa70b744ce4863ca4f21755ce7821f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖南卫视,https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
-浙江卫视,69.30.245.50
-浙江卫视,74.91.26.218
-浙江卫视,live.264788.xyz
 浙江卫视,https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=1926565337&sign=f7f974e5a48e9c78a5d7f0b9aa2338f870c7d8d562c2b4f2eb3b36e75a939809ad12fc327f3ee7f92a564f0435d7a9cd0831694a91a145ae2601604e7e55b9d963e75fc91fd2acaa7ce3541beebc5eb0&auth_token=1b419ca2389167e00ffb1a7264658820
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=f48e0bb7d67c931727ebb8fcd97bdfd3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=f5e7e8c75bba6951ba709e8a46ff2772&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
-广东卫视,69.30.245.50
-广东卫视,74.91.26.218
-广东卫视,live.264788.xyz
 广东卫视,https://live.ottiptv.cc/mg/608831231.m3u8?userid=335749130&sign=08adb6f394dcffcb3b1dad13a38768f0c9de2d58afd5c2e3f32d5976e5a334eafe76a52443851b700fe8b64b610bf85a2b0f4659533eb5c60433b59504c2f168f9cae61e4d5db13aa7799ce68cc2362c&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 广东卫视,https://live.ottiptv.cc/mcp/guangdong.m3u8?userid=1926565337&sign=d713d558bf30997ef14e8fd2877412cf0b9f22754b96fda252896265dad9bd3112cb84d213c50f7d83ef4660e34069d5408df2dc8b15738933b3ff0d658d5f5f646a2a5d6ade68dc611449e6e158de50da&auth_token=1b419ca2389167e00ffb1a7264658820
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -811,9 +197,6 @@ TV Brics,live.264788.xyz
 广东卫视,https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 广东卫视,https://live.264788.xyz/channel/guangdongweishi4k?streamid=6a50ede91d38c74ee3789122e267fec1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-江苏卫视,69.30.245.50
-江苏卫视,74.91.26.218
-江苏卫视,live.264788.xyz
 江苏卫视,https://live.ottiptv.cc/mg/623899368.m3u8?userid=335749130&sign=416d3eb92c3442bb9be90870934a818a93bb5c375a04d61a25734e12715741d2d0c86f976a4e80d9d83c04d5b13c1a2e7b0635cbd81c85b29af17387bd3629e6b0553f3c5bfe415321bfc83a66465e67&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 江苏卫视,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=1926565337&sign=6539dca65a7911401ec949ac52f153b1bec1ccb3f89ed1b2db898ba722153406a2498d57579079f39851b5bcfc20cfd270671db2542968d33d99b13499ec2996c344959d53e2789a2deee8ec519755&auth_token=1b419ca2389167e00ffb1a7264658820
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -821,25 +204,16 @@ TV Brics,live.264788.xyz
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-安徽卫视,69.30.245.50
-安徽卫视,74.91.26.218
-安徽卫视,live.264788.xyz
 安徽卫视,https://live.ottiptv.cc/mcp/anhui.m3u8?userid=1926565337&sign=c9dfd93d7c112490e709c2f95588c0c51844b317082df927077260a2fe5fd700c550c5fd2980a4087e089df9f6473e24fbe1a41f4c2b7ffb1ab4650917b7aa36aa24aedb83943d66e98149e418&auth_token=1b419ca2389167e00ffb1a7264658820
 安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=8f6ba7f0abf067bd6d93c7b58ec3d86f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=6ad47f6ad8c42aa9e08a751bed820b1c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-深圳卫视,69.30.245.50
-深圳卫视,74.91.26.218
-深圳卫视,live.264788.xyz
 深圳卫视,https://live.ottiptv.cc/mcp/shenzheng.m3u8?userid=1926565337&sign=645802db0b8254ba719d31fe7ca7252bad09d032e73156c3dfce9a91e18e5215d46d657735d58d32bcf6248a3c72bfbdae4ea0f3a5c7aca2e7214a2aa01bb34bccc87037360314632bace1272926a01e70&auth_token=1b419ca2389167e00ffb1a7264658820
 深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=85961b14ea610e8adbef8769bea8b26e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=9f19de691697b902376432567c77cece&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=2715678e4b53f93415f1b63d802c342c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 深圳卫视,https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 深圳卫视,https://live.264788.xyz/channel/shenzhenweishi4k?streamid=9828b90c3948bae63cb8de76cdccd646&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-北京卫视,69.30.245.50
-北京卫视,74.91.26.218
-北京卫视,live.264788.xyz
 北京卫视,https://live.ottiptv.cc/mg/630287636.m3u8?userid=335749130&sign=e4b0820c8e3e4c6270da438421c6778ba680ee992ca00ce1e04d7cf4fec700e9b3531a8b8cb39e09f5b5f88e22007bf5548e45e01d5b357d12cbfb434622dec9d4ecf9a715d8f99f511ac5959575a0dc&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 北京卫视,https://live.ottiptv.cc/mcp/beijing.m3u8?userid=1926565337&sign=ccd19c9f51eeb04f0b2d5e7729a663c80ebd2f3927e91b0b53beb1ae0c50996d90094240faf60031469720397660b9e84c699b0dfdb7c3efca60b03eb9d86a4b25dfea5e590f5de2efdc0e582f573f&auth_token=1b419ca2389167e00ffb1a7264658820
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
@@ -847,4546 +221,352 @@ TV Brics,live.264788.xyz
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=9859ef98cc152feae0c066e8c100ad2e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山东卫视,69.30.245.50
-山东卫视,74.91.26.218
-山东卫视,live.264788.xyz
 山东卫视,https://live.ottiptv.cc/mcp/shandong.m3u8?userid=1926565337&sign=96cdec5ddf88101b5c4f77094967af3984a3bbc6b40b29e94b79902ed209c3d155bf197405c6a6f99b1e62a50923d2769494e4fc06f083d4bf0335946939220a4406bdb15e2d913836119bc269ddd62b&auth_token=1b419ca2389167e00ffb1a7264658820
 山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=17734718ddd5e6904640c72df1fe5fa8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=bf9b7f517ea933966a973fa582f07137&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 山东卫视,https://live.264788.xyz/channel/shandongweishi4k?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-重庆卫视,69.30.245.50
-重庆卫视,74.91.26.218
-重庆卫视,live.264788.xyz
 重庆卫视,https://live.ottiptv.cc/mg/738910914.m3u8?userid=335749130&sign=616cfce75da9d2f6d187d3aaa49d5b010297c159f2e87b3eb16f71fdc40a1889832a5a9309d37d5e8f3fabe55f9704f88ed5a6160203c9c27ffd86bdd394999948d6abb80e46aa67f89d7f8c288fc448&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 重庆卫视,https://live.ottiptv.cc/mcp/chongqing.m3u8?userid=1926565337&sign=8a7bc009d7c6d9656bd3ed885a92371d654315958f551bcc7828b10184a995b174a12eb9a260e0a1024d289352fac8efb25083034355308a83630a198402a331acd2b3c468037f7a48a2ebec677ad220d5&auth_token=1b419ca2389167e00ffb1a7264658820
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-辽宁卫视,69.30.245.50
-辽宁卫视,74.91.26.218
-辽宁卫视,live.264788.xyz
 辽宁卫视,https://live.ottiptv.cc/mg/630291707.m3u8?userid=335749130&sign=3b07747d64ac59d1db4f30e108e63f0d5a23f630c417cca280d864212a209bc73a8eb3677c608c9c9337b61b78bf2f5c41cbe0644e43a2cda260d9163d441c5867b219794edaf77a976426d2be517ed3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 辽宁卫视,https://live.ottiptv.cc/mcp/liaoning.m3u8?userid=1926565337&sign=db18482e7eee2f4ac5ee405addb047599241bc3dfdcbd9e07fb107b9ec4510e649e0810c3562b3590b5dda77f025bec59597ee7b8cff5cda422f9c88bdf0dc22c55d5ccc9e524b8fabb8288e125ed91a&auth_token=1b419ca2389167e00ffb1a7264658820
 辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=d1d75a84e93e19de790b38a1305b0e02&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=a5721d1b827b5abda39797171e2c1a53&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖北卫视,69.30.245.50
-湖北卫视,74.91.26.218
-湖北卫视,live.264788.xyz
 湖北卫视,https://live.ottiptv.cc/mg/947472496.m3u8?userid=335749130&sign=eb57b43673af78fb3eb003a4cedae479ea83bad4a7e3f691d57d7bc567fde8cdf9cbc2ce263943a8a6dbe81ad49f09aa183ad655a14cc51ad0f4615ee879edfe34439726b74f36727d2932610c4bb6ef&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 湖北卫视,https://live.ottiptv.cc/mcp/hubei.m3u8?userid=1926565337&sign=726c11f11748e7a8ebe5184663b6753aa7ed8e83d8e71211ebd6ba6fe22f4f9ab5dc75d8f09a59fc3497999195dec5aa48c4fcc5abe1d055fcb61305164cd6ef0613fc65378e901cfa596c8e94&auth_token=1b419ca2389167e00ffb1a7264658820
 湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=08d72c3923d4678347468aefd5ed9877&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=3178da013d951c658209016c1fb875ad&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广西卫视,69.30.245.50
-广西卫视,74.91.26.218
-广西卫视,live.264788.xyz
 广西卫视,https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=1926565337&sign=cc8d6f9319729f6860fcc05c6c9141d96afa1270d160a8af0b3e242ce9188905b9efed4ae6a5bf0b4efb8fba52460968488c1dc58c26c940ce04f4a5adcf9497de56199711ea637bfcc6f2cfe7ee5d&auth_token=1b419ca2389167e00ffb1a7264658820
 广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=c8e847a8745033edc0153656ddc62c47&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b3bc55706bd074b608a3b955fbffea4b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b8d44e8c47f0c0688b1e68b8e2c00b91&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-天津卫视,69.30.245.50
-天津卫视,74.91.26.218
-天津卫视,live.264788.xyz
 天津卫视,https://live.ottiptv.cc/mcp/tianjing.m3u8?userid=1926565337&sign=b03031c4209b14cdde2f2ad5865e8e37aed3c3bb7e48754db31fe76a7fd85ff429dad75da2e23b491d2971f138ac83439f394fdff316b13cacb5b4b2cc04b2759c6ff652adfaaaffafda1098a4d7d7c2&auth_token=1b419ca2389167e00ffb1a7264658820
 天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-四川卫视,69.30.245.50
-四川卫视,74.91.26.218
-四川卫视,live.264788.xyz
 四川卫视,https://live.ottiptv.cc/mcp/sichuan.m3u8?userid=1926565337&sign=e2878c58fe7850579774b5b4440cd8bc3740ed3f5ff33ff03486ff4751440966b255827e1c5e5de18844d80b59bcc8da2190918f8cdeb9ec84b95116338fa32911078cb32da28c502f661fc675df8e&auth_token=1b419ca2389167e00ffb1a7264658820
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=4e78b35cb55092e088d2e3abd2992b00&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-陕西卫视,69.30.245.50
-陕西卫视,74.91.26.218
-陕西卫视,live.264788.xyz
 陕西卫视,https://live.ottiptv.cc/mg/738910838.m3u8?userid=335749130&sign=3619f204d9f60827456017d0c0a6781fdda4de1b4c20f6e113298e209909e1e15f9f69fb8a913fb697f7de251026d31678bcaae06c4400fb447c5726db45080438ddd41dde7cda1b62ba741f3b5a4325&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 陕西卫视,https://live.ottiptv.cc/mcp/shanxiws.m3u8?userid=1926565337&sign=782a64a73366860c5424ecc5f14227e754138006f8b946197ce21357f2f3d169f7d4c5c01a957b2aef4fe419cc19f9b1eba9e716d62d7faa8ca3e47f80b25b554b4650cfe38a6484d9e1049268d3901b&auth_token=1b419ca2389167e00ffb1a7264658820
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=5f9339264c2e80b84332f176b74b1da5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东南卫视,69.30.245.50
-东南卫视,74.91.26.218
-东南卫视,live.264788.xyz
 东南卫视,https://live.ottiptv.cc/mg/849116810.m3u8?userid=335749130&sign=61375eedd62bbb3876699cb47d55d07fcf378baa6f9c7d558343d1d05b2c6845d28260136223993c05ab56c7e04d183205fce4c9beb13f8a4c663f06337768ffe396091ee392b1779d11cfe4fc0e4a6c&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 东南卫视,https://live.ottiptv.cc/mcp/dongnan.m3u8?userid=1926565337&sign=ffe5bae7dac2e135221383ae0544a9887391ae7dd085130470dc5d4aeade8f1fd51f8d524cae7aefef677274505a83e969b152750d92d7b86e9e7e0290ee7837becee74946392791c8ff6da83d4a80&auth_token=1b419ca2389167e00ffb1a7264658820
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=7ac1647173cac04556dbb3d5dd784331&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=413b61f1d39c255162de35c161674037&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-海南卫视,69.30.245.50
-海南卫视,74.91.26.218
-海南卫视,live.264788.xyz
 海南卫视,https://live.ottiptv.cc/mg/947472502.m3u8?userid=335749130&sign=41da454903fbb56f548dd77ef3560c80fb1400cf22177bad14266d9a76049c460b77fd020a8261fa39368fe0df6e6c8b4550f55956f121e6ffa61ae7a5c67ec528f2083e9b7362e6af6be703ca96d3d2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 海南卫视,https://live.ottiptv.cc/mcp/hainan.m3u8?userid=1926565337&sign=84e9e670ee2ff0dedddf3bbbc19e8fab47d1958b5de8887e3602d7dbc9eb70f53fae7ecc8ba0f62f145ffeac6e0199d029665b3b631080eee0969e8110e2fe965ade0f3f7adebc70b65d29bd7f11&auth_token=1b419ca2389167e00ffb1a7264658820
 海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=d80f78b33df0a139d4d22b44e645b9e8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河南卫视,69.30.245.50
-河南卫视,74.91.26.218
-河南卫视,live.264788.xyz
 河南卫视,https://live.ottiptv.cc/mg/790187291.m3u8?userid=335749130&sign=510a0158d05b47c7060915f4730eca00f89260f97aa6627a529a773e2769f931f03f856e4a1ce4b6bca05ccbcdfc4829bcb189e3d06e2ca6a0d22b7df26d7bd09edc11dd38482e0e4be83b8b2e7520fa&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 河南卫视,https://live.ottiptv.cc/mcp/henan.m3u8?userid=1926565337&sign=eaffdd53b8cf509235aab87c34d957bf0878e7b5da4432f9f06c14dfd4496348c6801f4d520353b2f17764775ca34a1653ead61d8183f0610163af2808e2da443b2d2e856022b8df5a92d44153&auth_token=1b419ca2389167e00ffb1a7264658820
 河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=ffc9cbdd1791aa15a6321452d620baff&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河北卫视,69.30.245.50
-河北卫视,74.91.26.218
-河北卫视,live.264788.xyz
 河北卫视,https://live.ottiptv.cc/mg/962042070.m3u8?userid=335749130&sign=fe6e649f9a015e1b29a5312daa8286b56e30d946c5bd5a0f34a0869da764328eea091d87d6b2a28e331e1bcf3266b57b1e72bf29c5614c72192651d29d891f726f70486c54ac5d6ea8b09f090fa8a60d&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 河北卫视,https://live.ottiptv.cc/mcp/hebei.m3u8?userid=1926565337&sign=b1ce74edd33b46c2d5f0ce86d98800623645c722a0afa7b297bbddf05c389a141c76afe47b88b057c3875175084f1b20b89244c3f69871192318eb04045b0ad5423d8ff2deca7bdff3a03f406c&auth_token=1b419ca2389167e00ffb1a7264658820
 河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=c623903495968308e1bd87ec273e46d2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=e664e97bdd2913ff29e71a8924b02712&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=dc05a5197d73d3781c8d021d081f03ac&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-贵州卫视,69.30.245.50
-贵州卫视,74.91.26.218
-贵州卫视,live.264788.xyz
 贵州卫视,https://live.ottiptv.cc/mcp/guizhou.m3u8?userid=1926565337&sign=36d8e2a1e910d4b6b327f1aaa1750ff11d0c561b7383698cee71f7e8105562724ccc83170efae4ef12a4e9777098a6af9b368621452d45b9855de42cc104435302eec071d12e823e5668b5cfd8f18c&auth_token=1b419ca2389167e00ffb1a7264658820
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=7a7c8f5c962cd93365273e438a14c334&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-甘肃卫视,69.30.245.50
-甘肃卫视,74.91.26.218
-甘肃卫视,live.264788.xyz
 甘肃卫视,https://live.ottiptv.cc/mcp/gansu.m3u8?userid=1926565337&sign=7de679dbf784dfd330c7924d444ae1e709bb46d2c8b1b6ae1cc3cc5491c3604353df1ceb7c10c03e8c1b4f2bfdbe7752ef13627b95bfce56b053d9e10ed447014e9012f2c9ad6274fe2c235ed2&auth_token=1b419ca2389167e00ffb1a7264658820
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=466083ee6981dccb38d23b5556b27f6e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=7e5725bd0fd11e1838df3be9dcf1ecc9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山西卫视,69.30.245.50
-山西卫视,74.91.26.218
-山西卫视,live.264788.xyz
 山西卫视,https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=1926565337&sign=d128f39c1d25a0974c45aef02974f39ff9eb80fde749ce9d62f720213b3a6129e80f06b59d506f68bd469cc3caffea6782397c57b8e4cd6a06a8e80166f1648924e66dc3d38b33cb221a5835f6d3&auth_token=1b419ca2389167e00ffb1a7264658820
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=d8fdbae386f631fab5659391da113957&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
-宁夏卫视,69.30.245.50
-宁夏卫视,74.91.26.218
-宁夏卫视,live.264788.xyz
 宁夏卫视,https://live.ottiptv.cc/mg/738910535.m3u8?userid=335749130&sign=513eeaf1e8373480a11122fe9204aaffc09912722a9a83c1b56d21aeef918c276f9f6a7ed603c844de1f625615cc06bee263c2a7f384c28acda7dd54978077e63720333071a73d31116a303f5224a8e2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 宁夏卫视,https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=1926565337&sign=4e79bc5d5220ac8cbfd7ce0d071134ae5370c32d2fd0e81c883823f68afc36239ae4960c21c771514726f6626b66fe73693a77f671f3a2fdad235d3f39bae7abad6933bb5ca18058dd38b55ecc6ecc&auth_token=1b419ca2389167e00ffb1a7264658820
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-内蒙古卫视,69.30.245.50
-内蒙古卫视,74.91.26.218
-内蒙古卫视,live.264788.xyz
 内蒙古卫视,https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=1926565337&sign=d498b411d68607fd0d1721d14acad598dddda5446aacbbb6b1162ff1539ba847cedea864884429f28f9ca946771c303401b1ff651cac583d6de8c03e96f476dc1afaabb0cf2f67bf305cf03c00b0b4fcdd&auth_token=1b419ca2389167e00ffb1a7264658820
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=50d587b08d9d6f642ec88593ebd51361&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=85b9865e25848d8a9860542c89e5c810&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-云南卫视,69.30.245.50
-云南卫视,74.91.26.218
-云南卫视,live.264788.xyz
 云南卫视,https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=1926565337&sign=29b542424afef284f09f8748f6ec55111244f2ee68f1935097df64ac247018fa66afa4dc188e7d3cc462765c00f25501d36d140b0d6046910b0b6fd8a35739aaa69b293ffda5197339d68317bed9&auth_token=1b419ca2389167e00ffb1a7264658820
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=22491d4d9e9620540ee58218ee249b35&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=76ef482fc0c398954c105fa4a73b21f2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-青海卫视,69.30.245.50
-青海卫视,74.91.26.218
-青海卫视,live.264788.xyz
 青海卫视,https://live.ottiptv.cc/mg/947472506.m3u8?userid=335749130&sign=ed27c9a6d2080e6473c194473efeeb431637b8ecbe05078e99a4d1e2f872e06b6daccb2f5fc49bf5eeca5c2ff8c323f9919f16a434149e03c0a872743872d2a2fb1c518b52795307e85b4e5fd5285262&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 青海卫视,https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=1926565337&sign=78be38de0705738205430c14ec3baa7aefbeacdf55857441d203447b7fdac71149d38750531dc4e43f775683eb193bdc98f955c9716c2d11fb41c0f037029bb955db307cecfdcb3f42a16d6c5a9838&auth_token=1b419ca2389167e00ffb1a7264658820
 青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dcc88f36445dfbc894756be122a0bb9b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=2e47f290dfc5832de1553e7b3710d702&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
-黑龙江卫视,69.30.245.50
-黑龙江卫视,74.91.26.218
-黑龙江卫视,live.264788.xyz
 黑龙江卫视,https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=1926565337&sign=4ae9c48fe98f8536ac86508458a3213eb2c491225c1519538232847b41c5fa2c69ed7ff66e079a2b291fbcbec2f209859c3d6688f70f6e277cc355440f1ddbfc0c92cc680a320e35952d7bb064a59f9693726a63&auth_token=1b419ca2389167e00ffb1a7264658820
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=70e7900a371f6cb721786924bfba0418&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=5bc0f34437d76466e8ce387d3b8debbd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江西卫视,69.30.245.50
-江西卫视,74.91.26.218
-江西卫视,live.264788.xyz
 江西卫视,https://live.ottiptv.cc/mg/783847495.m3u8?userid=335749130&sign=ad53e0b7af19a969e7380a0b68e3be1916923e4f2705500980a0c67ffb486ca3bb5ffec05bb4503d193ee0bade6214f576ba0f2062b62d1bfeacf2fe904f40ba1aff38f1037ec51a5c7ec4f107a2f576&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 江西卫视,https://live.ottiptv.cc/mcp/jiangxi.m3u8?userid=1926565337&sign=517ae222db2f6f3e1b2c04b3ba34a5963b13eb447971ccaec51c22043af63aa8cf28cbe27fffcf54e38ecba8aa6db7ae2a9f7331c353c91c4a04c91a38ea8b7b638784dcac620c4c5bdce4b0191617&auth_token=1b419ca2389167e00ffb1a7264658820
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=4a6eec625aac2ea37719b063f81d43b8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=fbf14331a3f027fec6c17914e6f6a8ee&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-吉林卫视,69.30.245.50
-吉林卫视,74.91.26.218
-吉林卫视,live.264788.xyz
 吉林卫视,https://live.ottiptv.cc/mg/947472500.m3u8?userid=335749130&sign=f24a2d1fea1c0d1fa028f97404a6e2c726771bbee6511482cea009a5acfcbb9f59058320e910c0bfc3d86e7edc6182d5cea086e99a0f4c849b7b5379482157a499cce7625e30d25500fece2263a186b1&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 吉林卫视,https://live.ottiptv.cc/mcp/jiling.m3u8?userid=1926565337&sign=079a64addff96d09805b5250aa237a36839b7450e46cfeb600005f687effa21fc92e72228414a934f393136900085bca7b4d68e1d9e7b5d4dee87c1219d93222d078ff0c8888e433cb58970cfe89&auth_token=1b419ca2389167e00ffb1a7264658820
 吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-海峡卫视,69.30.245.50
-海峡卫视,74.91.26.218
-海峡卫视,live.264788.xyz
 海峡卫视,https://live.ottiptv.cc/mg/849119120.m3u8?userid=335749130&sign=7126cecc42f3b908568dd6c4445c819d69a8db7226bbc4018a3c0436b7fa2fb3f9025c50a3a75addc877f648475b0edfa4ca3a6432e2d4967bf6a4008fdb5d139ba2cfb0e04a1dd242af49d7bd69da8c&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=f495ed8625aedd9e72c64fb11e6d68f2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-中国农林卫视,69.30.245.50
-中国农林卫视,74.91.26.218
-中国农林卫视,live.264788.xyz
 中国农林卫视,https://live.ottiptv.cc/mg/956904896.m3u8?userid=335749130&sign=97fdfc3eba6b0ef147a06e0acab6ff88d7c22548c7d4642315d7bee3c4ade95362ccad50897c8ba6a0d6ee24b76ec3eac38b1174653ea63aa3ecb1976ffd5bfadc6799ec5939d0460414d46aa7f98100&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-兵团卫视,69.30.245.50
-兵团卫视,74.91.26.218
-兵团卫视,live.264788.xyz
 兵团卫视,https://live.ottiptv.cc/mg/956923145.m3u8?userid=335749130&sign=529b72958c2bdec7617b26c17e3040200197e201e2015071deb0d1ce0945224f0f02b352c8ee5c7f3913b595811a57f7648f471b5158fd893b06f89986447a11f687ffa19b774b58397c602f0c66f79d&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 兵团卫视,https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=1926565337&sign=86bb51fb0248bcede45c103347cdbd25bd7eeb3c16bf00f1e95ac6cd5460a38a036e8450d84fa8ff34de9c1d7ea3a3321a0a15444e35dd2d7f97aa0e789c16a43f16ec6d5059ff2cf4a26d8a04dcf4&auth_token=1b419ca2389167e00ffb1a7264658820
 兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=b9dcd906150192bdf76f447df83f8033&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=e2ea229f09d39d7028c61aeb4f6bab56&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-大湾区卫视,69.30.245.50
-大湾区卫视,74.91.26.218
-大湾区卫视,live.264788.xyz
 大湾区卫视,https://live.ottiptv.cc/mg/608917627.m3u8?userid=335749130&sign=eac234be50e87e4a59714b7501b6cb4a92f38c095e293bb9a10db6d5c971c025e16729a9d5e9709faabb9aadc604af31f813676bd8ac4dd778616756a2a1bc0ae736e4abaabd1727d6e945cfc326b7a6&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-三沙卫视,69.30.245.50
-三沙卫视,74.91.26.218
-三沙卫视,live.264788.xyz
 三沙卫视,https://live.ottiptv.cc/mg/961023778.m3u8?userid=335749130&sign=5beb88e250e0a74daeb87438a47033d411fc6fc5d74e1010c0880d1ba96cc4c222adf95c17e38b6c7ac163c58d33a901d6f315c000fec9baf223650875a9e99d5730258d612b56bb0204f47aceba564a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=2908f08b5a176330d190b7343b1bb17d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-西藏卫视,69.30.245.50
-西藏卫视,74.91.26.218
-西藏卫视,live.264788.xyz
 西藏卫视,https://live.ottiptv.cc/mcp/xizang.m3u8?userid=1926565337&sign=4799fbd4107f15485bc6b18bba3738588b2e0055ef6488420b121dfe111feac3fdcfd906851b8acbaffaa6bd72eee5fd8e2e6d9918168b7288714bf53dd018a39c850bc301a7eba16bf870f7cfcd&auth_token=1b419ca2389167e00ffb1a7264658820
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=7df93c0d83ffb23588b9a8ed75bcf602&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-新疆卫视,69.30.245.50
-新疆卫视,74.91.26.218
-新疆卫视,live.264788.xyz
 新疆卫视,https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=1926565337&sign=69f3b05521107e08a07338e106dc64c275b654c058f32010e9500048c0239f8e772c4d2ed123e2b9ab51c8cab9993c9d4e80ca075db64b5453d101ce81c9fffffc567c3e7f0b31b519abb8d8f09a5ce1&auth_token=1b419ca2389167e00ffb1a7264658820
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 
 ☘️上海频道,#genre#
-七彩戏剧,69.30.245.50
-七彩戏剧,74.91.26.218
-七彩戏剧,live.264788.xyz
-上海外语,69.30.245.50
-上海外语,74.91.26.218
-上海外语,live.264788.xyz
-上海教育,69.30.245.50
-上海教育,74.91.26.218
-上海教育,live.264788.xyz
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海新闻综合,69.30.245.50
-上海新闻综合,74.91.26.218
-上海新闻综合,live.264788.xyz
 上海新闻综合,https://live.ottiptv.cc/mg/651632657.m3u8?userid=335749130&sign=6775499d551ab69f420b653fbcfc23cb4cdbc6ad4e3033cd4f5836bcb391a2ee23fcd3f8430bbc8c3d3943095a1d2cf6545f2624c3fdd1bd7fc4c8b2eb90a4c4600c264730015ab1600aa24de7fe1671&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海点掌财经,69.30.245.50
-上海点掌财经,74.91.26.218
-上海点掌财经,live.264788.xyz
-上海第一财经,69.30.245.50
-上海第一财经,74.91.26.218
-上海第一财经,live.264788.xyz
 上海第一财经,https://live.ottiptv.cc/mg/608780988.m3u8?userid=335749130&sign=c2cd47ede8d62ae640aa358701ef4d100e8c03e9155864f515e17517d143533f691b09dae345b5a1a86d1675ef1103b6b4273270ef10555f0b405dc6c8956780384e7d149074c5da94ed90b86cef17cf&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 上海第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 上海第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海都市,69.30.245.50
-上海都市,74.91.26.218
-上海都市,live.264788.xyz
 上海都市,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 上海都市,https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海乐游,69.30.245.50
-上海乐游,74.91.26.218
-上海乐游,live.264788.xyz
-上海魔都眼,69.30.245.50
-上海魔都眼,74.91.26.218
-上海魔都眼,live.264788.xyz
-上海金山电视台,69.30.245.50
-上海金山电视台,74.91.26.218
-上海金山电视台,live.264788.xyz
-上视外语,69.30.245.50
-上视外语,74.91.26.218
-上视外语,live.264788.xyz
-上视新闻,69.30.245.50
-上视新闻,74.91.26.218
-上视新闻,live.264788.xyz
-东方影视,69.30.245.50
-东方影视,74.91.26.218
-东方影视,live.264788.xyz
 东方影视,https://live.ottiptv.cc/mg/617290047.m3u8?userid=335749130&sign=c307bab917f4d0b4519ec09b422fbd85409dd217f36154602b2eab489912a257384883a52269594d01d89229b0b7fc38c6fb30e3448c4fa4caff9e7354d970fd844d38f9adbb4c3441c7a14dc22ea063&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方财经,69.30.245.50
-东方财经,74.91.26.218
-东方财经,live.264788.xyz
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-全纪实,69.30.245.50
-全纪实,74.91.26.218
-全纪实,live.264788.xyz
-嘉定电视台,69.30.245.50
-嘉定电视台,74.91.26.218
-嘉定电视台,live.264788.xyz
-崇明电视台,69.30.245.50
-崇明电视台,74.91.26.218
-崇明电视台,live.264788.xyz
-崇明新闻综合,69.30.245.50
-崇明新闻综合,74.91.26.218
-崇明新闻综合,live.264788.xyz
-欢笑剧场,69.30.245.50
-欢笑剧场,74.91.26.218
-欢笑剧场,live.264788.xyz
-法治天地,69.30.245.50
-法治天地,74.91.26.218
-法治天地,live.264788.xyz
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=0039922a529780d5b2709e5ccd146683&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-生活时尚,69.30.245.50
-生活时尚,74.91.26.218
-生活时尚,live.264788.xyz
 生活时尚,https://live.264788.xyz/channel/shenghuoshishang?streamid=cb8f820b65576198b4e792f919fe8a43&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 生活时尚,https://live.264788.xyz/channel/shenghuoshishang?streamid=b8d540e24d2545bc5082dcf7414eb836&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-纪实人文,69.30.245.50
-纪实人文,74.91.26.218
-纪实人文,live.264788.xyz
-都市剧场,69.30.245.50
-都市剧场,74.91.26.218
-都市剧场,live.264788.xyz
 都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 都市剧场,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 都市剧场,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-金山电视台,69.30.245.50
-金山电视台,74.91.26.218
-金山电视台,live.264788.xyz
-金色频道,69.30.245.50
-金色频道,74.91.26.218
-金色频道,live.264788.xyz
 
 ☘️广东频道,#genre#
-广东珠江,69.30.245.50
-广东珠江,74.91.26.218
-广东珠江,live.264788.xyz
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东新闻,69.30.245.50
-广东新闻,74.91.26.218
-广东新闻,live.264788.xyz
-广东民生,69.30.245.50
-广东民生,74.91.26.218
-广东民生,live.264788.xyz
-广州综合,69.30.245.50
-广州综合,74.91.26.218
-广州综合,live.264788.xyz
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-广州新闻,69.30.245.50
-广州新闻,74.91.26.218
-广州新闻,live.264788.xyz
-广州影视,69.30.245.50
-广州影视,74.91.26.218
-广州影视,live.264788.xyz
-广州法治,69.30.245.50
-广州法治,74.91.26.218
-广州法治,live.264788.xyz
-广州南国都市,69.30.245.50
-广州南国都市,74.91.26.218
-广州南国都市,live.264788.xyz
-江门综合,69.30.245.50
-江门综合,74.91.26.218
-江门综合,live.264788.xyz
-江门侨乡生活,69.30.245.50
-江门侨乡生活,74.91.26.218
-江门侨乡生活,live.264788.xyz
-佛山综合,69.30.245.50
-佛山综合,74.91.26.218
-佛山综合,live.264788.xyz
-汕头综合,69.30.245.50
-汕头综合,74.91.26.218
-汕头综合,live.264788.xyz
-汕头经济,69.30.245.50
-汕头经济,74.91.26.218
-汕头经济,live.264788.xyz
-汕头文旅,69.30.245.50
-汕头文旅,74.91.26.218
-汕头文旅,live.264788.xyz
-东莞综合,69.30.245.50
-东莞综合,74.91.26.218
-东莞综合,live.264788.xyz
-东莞生活资讯,69.30.245.50
-东莞生活资讯,74.91.26.218
-东莞生活资讯,live.264788.xyz
-茂名综合,69.30.245.50
-茂名综合,74.91.26.218
-茂名综合,live.264788.xyz
-茂名公共,69.30.245.50
-茂名公共,74.91.26.218
-茂名公共,live.264788.xyz
-河源生活,69.30.245.50
-河源生活,74.91.26.218
-河源生活,live.264788.xyz
 
 ☘️浙江频道,#genre#
-浙江钱江都市,69.30.245.50
-浙江钱江都市,74.91.26.218
-浙江钱江都市,live.264788.xyz
-浙江经济生活,69.30.245.50
-浙江经济生活,74.91.26.218
-浙江经济生活,live.264788.xyz
-浙江教科影视,69.30.245.50
-浙江教科影视,74.91.26.218
-浙江教科影视,live.264788.xyz
-浙江影视娱乐,69.30.245.50
-浙江影视娱乐,74.91.26.218
-浙江影视娱乐,live.264788.xyz
-浙江民生休闲,69.30.245.50
-浙江民生休闲,74.91.26.218
-浙江民生休闲,live.264788.xyz
-浙江公共新闻,69.30.245.50
-浙江公共新闻,74.91.26.218
-浙江公共新闻,live.264788.xyz
-浙江留学,69.30.245.50
-浙江留学,74.91.26.218
-浙江留学,live.264788.xyz
-浙江国际,69.30.245.50
-浙江国际,74.91.26.218
-浙江国际,live.264788.xyz
-之江纪录,69.30.245.50
-之江纪录,74.91.26.218
-之江纪录,live.264788.xyz
-杭州综合,69.30.245.50
-杭州综合,74.91.26.218
-杭州综合,live.264788.xyz
-杭州明珠,69.30.245.50
-杭州明珠,74.91.26.218
-杭州明珠,live.264788.xyz
-杭州西湖明珠,69.30.245.50
-杭州西湖明珠,74.91.26.218
-杭州西湖明珠,live.264788.xyz
-杭州生活,69.30.245.50
-杭州生活,74.91.26.218
-杭州生活,live.264788.xyz
-杭州影视,69.30.245.50
-杭州影视,74.91.26.218
-杭州影视,live.264788.xyz
-杭州青少,69.30.245.50
-杭州青少,74.91.26.218
-杭州青少,live.264788.xyz
-杭州少体,69.30.245.50
-杭州少体,74.91.26.218
-杭州少体,live.264788.xyz
-杭州导视,69.30.245.50
-杭州导视,74.91.26.218
-杭州导视,live.264788.xyz
-宁波TV1,69.30.245.50
-宁波TV1,74.91.26.218
-宁波TV1,live.264788.xyz
-宁波TV2,69.30.245.50
-宁波TV2,74.91.26.218
-宁波TV2,live.264788.xyz
-宁波TV3,69.30.245.50
-宁波TV3,74.91.26.218
-宁波TV3,live.264788.xyz
-宁波TV4,69.30.245.50
-宁波TV4,74.91.26.218
-宁波TV4,live.264788.xyz
-宁波TV5,69.30.245.50
-宁波TV5,74.91.26.218
-宁波TV5,live.264788.xyz
-宁波电视台1套,69.30.245.50
-宁波电视台1套,74.91.26.218
-宁波电视台1套,live.264788.xyz
-宁波电视台2套,69.30.245.50
-宁波电视台2套,74.91.26.218
-宁波电视台2套,live.264788.xyz
-宁波电视台3套,69.30.245.50
-宁波电视台3套,74.91.26.218
-宁波电视台3套,live.264788.xyz
-宁波电视台4套,69.30.245.50
-宁波电视台4套,74.91.26.218
-宁波电视台4套,live.264788.xyz
-宁波4套影视,69.30.245.50
-宁波4套影视,74.91.26.218
-宁波4套影视,live.264788.xyz
-NBTV-1,69.30.245.50
-NBTV-1,74.91.26.218
-NBTV-1,live.264788.xyz
-NBTV-2,69.30.245.50
-NBTV-2,74.91.26.218
-NBTV-2,live.264788.xyz
-NBTV-3,69.30.245.50
-NBTV-3,74.91.26.218
-NBTV-3,live.264788.xyz
-NBTV-4,69.30.245.50
-NBTV-4,74.91.26.218
-NBTV-4,live.264788.xyz
-嘉兴新闻综合,69.30.245.50
-嘉兴新闻综合,74.91.26.218
-嘉兴新闻综合,live.264788.xyz
-嘉兴公共,69.30.245.50
-嘉兴公共,74.91.26.218
-嘉兴公共,live.264788.xyz
-嘉兴文化影视,69.30.245.50
-嘉兴文化影视,74.91.26.218
-嘉兴文化影视,live.264788.xyz
-丽水公共,69.30.245.50
-丽水公共,74.91.26.218
-丽水公共,live.264788.xyz
-丽水新闻,69.30.245.50
-丽水新闻,74.91.26.218
-丽水新闻,live.264788.xyz
-湖州公共,69.30.245.50
-湖州公共,74.91.26.218
-湖州公共,live.264788.xyz
-湖州新闻综合,69.30.245.50
-湖州新闻综合,74.91.26.218
-湖州新闻综合,live.264788.xyz
-湖州文化娱乐,69.30.245.50
-湖州文化娱乐,74.91.26.218
-湖州文化娱乐,live.264788.xyz
-衢州公共,69.30.245.50
-衢州公共,74.91.26.218
-衢州公共,live.264788.xyz
-衢州新闻综合,69.30.245.50
-衢州新闻综合,74.91.26.218
-衢州新闻综合,live.264788.xyz
-金华教育科技,69.30.245.50
-金华教育科技,74.91.26.218
-金华教育科技,live.264788.xyz
-金华新闻综合,69.30.245.50
-金华新闻综合,74.91.26.218
-金华新闻综合,live.264788.xyz
-金华公共,69.30.245.50
-金华公共,74.91.26.218
-金华公共,live.264788.xyz
-温州新闻综合,69.30.245.50
-温州新闻综合,74.91.26.218
-温州新闻综合,live.264788.xyz
-浙江松阳,69.30.245.50
-浙江松阳,74.91.26.218
-浙江松阳,live.264788.xyz
-浙江龙泉,69.30.245.50
-浙江龙泉,74.91.26.218
-浙江龙泉,live.264788.xyz
-青田电视台,69.30.245.50
-青田电视台,74.91.26.218
-青田电视台,live.264788.xyz
-浙江遂昌,69.30.245.50
-浙江遂昌,74.91.26.218
-浙江遂昌,live.264788.xyz
-诸暨新闻综合,69.30.245.50
-诸暨新闻综合,74.91.26.218
-诸暨新闻综合,live.264788.xyz
-龙游生活娱乐,69.30.245.50
-龙游生活娱乐,74.91.26.218
-龙游生活娱乐,live.264788.xyz
-龙游新闻综合,69.30.245.50
-龙游新闻综合,74.91.26.218
-龙游新闻综合,live.264788.xyz
-龙泉新闻综合,69.30.245.50
-龙泉新闻综合,74.91.26.218
-龙泉新闻综合,live.264788.xyz
-镇海先锋影院,69.30.245.50
-镇海先锋影院,74.91.26.218
-镇海先锋影院,live.264788.xyz
-金华都市农村,69.30.245.50
-金华都市农村,74.91.26.218
-金华都市农村,live.264788.xyz
-鄞州二套,69.30.245.50
-鄞州二套,74.91.26.218
-鄞州二套,live.264788.xyz
-鄞州一套,69.30.245.50
-鄞州一套,74.91.26.218
-鄞州一套,live.264788.xyz
-遂昌综合,69.30.245.50
-遂昌综合,74.91.26.218
-遂昌综合,live.264788.xyz
-遂昌新闻综合,69.30.245.50
-遂昌新闻综合,74.91.26.218
-遂昌新闻综合,live.264788.xyz
-象山新闻综合,69.30.245.50
-象山新闻综合,74.91.26.218
-象山新闻综合,live.264788.xyz
-衢江新闻综合,69.30.245.50
-衢江新闻综合,74.91.26.218
-衢江新闻综合,live.264788.xyz
-萧山生活,69.30.245.50
-萧山生活,74.91.26.218
-萧山生活,live.264788.xyz
-萧山新闻综合,69.30.245.50
-萧山新闻综合,74.91.26.218
-萧山新闻综合,live.264788.xyz
-苍南新闻综合,69.30.245.50
-苍南新闻综合,74.91.26.218
-苍南新闻综合,live.264788.xyz
-缙云新闻综合,69.30.245.50
-缙云新闻综合,74.91.26.218
-缙云新闻综合,live.264788.xyz
-绍兴公共,69.30.245.50
-绍兴公共,74.91.26.218
-绍兴公共,live.264788.xyz
-绍兴新闻综合,69.30.245.50
-绍兴新闻综合,74.91.26.218
-绍兴新闻综合,live.264788.xyz
-绍兴文化影院,69.30.245.50
-绍兴文化影院,74.91.26.218
-绍兴文化影院,live.264788.xyz
-绍兴文化影视,69.30.245.50
-绍兴文化影视,74.91.26.218
-绍兴文化影视,live.264788.xyz
-温州都市生活,69.30.245.50
-温州都市生活,74.91.26.218
-温州都市生活,live.264788.xyz
-温州经济科教,69.30.245.50
-温州经济科教,74.91.26.218
-温州经济科教,live.264788.xyz
-淳安电视台,69.30.245.50
-淳安电视台,74.91.26.218
-淳安电视台,live.264788.xyz
-海盐新闻,69.30.245.50
-海盐新闻,74.91.26.218
-海盐新闻,live.264788.xyz
-海宁生活服务,69.30.245.50
-海宁生活服务,74.91.26.218
-海宁生活服务,live.264788.xyz
-海宁新闻综合,69.30.245.50
-海宁新闻综合,74.91.26.218
-海宁新闻综合,live.264788.xyz
-洞头综合,69.30.245.50
-洞头综合,74.91.26.218
-洞头综合,live.264788.xyz
-永嘉新闻综合,69.30.245.50
-永嘉新闻综合,74.91.26.218
-永嘉新闻综合,live.264788.xyz
-武义新闻综合,69.30.245.50
-武义新闻综合,74.91.26.218
-武义新闻综合,live.264788.xyz
-桐庐综合,69.30.245.50
-桐庐综合,74.91.26.218
-桐庐综合,live.264788.xyz
-桐乡新闻综合,69.30.245.50
-桐乡新闻综合,74.91.26.218
-桐乡新闻综合,live.264788.xyz
-松阳新闻综合,69.30.245.50
-松阳新闻综合,74.91.26.218
-松阳新闻综合,live.264788.xyz
-普陀电视台,69.30.245.50
-普陀电视台,74.91.26.218
-普陀电视台,live.264788.xyz
-新昌生活,69.30.245.50
-新昌生活,74.91.26.218
-新昌生活,live.264788.xyz
-新昌新闻综合,69.30.245.50
-新昌新闻综合,74.91.26.218
-新昌新闻综合,live.264788.xyz
-文成综合,69.30.245.50
-文成综合,74.91.26.218
-文成综合,live.264788.xyz
-德清新闻综合,69.30.245.50
-德清新闻综合,74.91.26.218
-德清新闻综合,live.264788.xyz
-德清文化生活,69.30.245.50
-德清文化生活,74.91.26.218
-德清文化生活,live.264788.xyz
-开化新闻综合,69.30.245.50
-开化新闻综合,74.91.26.218
-开化新闻综合,live.264788.xyz
-开化国家公园,69.30.245.50
-开化国家公园,74.91.26.218
-开化国家公园,live.264788.xyz
-庆元综合,69.30.245.50
-庆元综合,74.91.26.218
-庆元综合,live.264788.xyz
-平湖新闻综合,69.30.245.50
-平湖新闻综合,74.91.26.218
-平湖新闻综合,live.264788.xyz
-嵊泗综合,69.30.245.50
-嵊泗综合,74.91.26.218
-嵊泗综合,live.264788.xyz
-嵊州新闻综合,69.30.245.50
-嵊州新闻综合,74.91.26.218
-嵊州新闻综合,live.264788.xyz
-北仑电视台,69.30.245.50
-北仑电视台,74.91.26.218
-北仑电视台,live.264788.xyz
-兰溪新闻综合,69.30.245.50
-兰溪新闻综合,74.91.26.218
-兰溪新闻综合,live.264788.xyz
-余杭新闻频道,69.30.245.50
-余杭新闻频道,74.91.26.218
-余杭新闻频道,live.264788.xyz
-余杭未来频道,69.30.245.50
-余杭未来频道,74.91.26.218
-余杭未来频道,live.264788.xyz
-余姚新闻综合,69.30.245.50
-余姚新闻综合,74.91.26.218
-余姚新闻综合,live.264788.xyz
-余姚姚江文化,69.30.245.50
-余姚姚江文化,74.91.26.218
-余姚姚江文化,live.264788.xyz
-云和新闻综合,69.30.245.50
-云和新闻综合,74.91.26.218
-云和新闻综合,live.264788.xyz
-义乌新闻综合,69.30.245.50
-义乌新闻综合,74.91.26.218
-义乌新闻综合,live.264788.xyz
-东阳影视生活,69.30.245.50
-东阳影视生活,74.91.26.218
-东阳影视生活,live.264788.xyz
-上虞新闻综合,69.30.245.50
-上虞新闻综合,74.91.26.218
-上虞新闻综合,live.264788.xyz
-上虞新商都,69.30.245.50
-上虞新商都,74.91.26.218
-上虞新商都,live.264788.xyz
-上虞文化影视,69.30.245.50
-上虞文化影视,74.91.26.218
-上虞文化影视,live.264788.xyz
-舟山公共生活,69.30.245.50
-舟山公共生活,74.91.26.218
-舟山公共生活,live.264788.xyz
-舟山新闻综合,69.30.245.50
-舟山新闻综合,74.91.26.218
-舟山新闻综合,live.264788.xyz
-舟山群岛旅游,69.30.245.50
-舟山群岛旅游,74.91.26.218
-舟山群岛旅游,live.264788.xyz
-中国蓝新闻,69.30.245.50
-中国蓝新闻,74.91.26.218
-中国蓝新闻,live.264788.xyz
 
 ☘️江苏频道,#genre#
-江苏公共,69.30.245.50
-江苏公共,74.91.26.218
-江苏公共,live.264788.xyz
 江苏公共,https://live.ottiptv.cc/mg/626064693.m3u8?userid=335749130&sign=cd2df221a09650696147b4c22fceda6404617859186df3b4916c16d51f6160995db8d2aa6154ce3116a890fbc8021392672ceb6218d2a009b986a4aa33aedf06cee03c92b1789678bd108fc7f60cdc37&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏城市,69.30.245.50
-江苏城市,74.91.26.218
-江苏城市,live.264788.xyz
 江苏城市,https://live.ottiptv.cc/mg/626064714.m3u8?userid=335749130&sign=f9bcecc8f11185980213fde608fa0216bed380324c42f9d8cc269f51912685d394f6334c4ec1ab2e0c29bea6692e2a96796a5969a652272b59978dc6cbe041592c666448b90baaa90f48ed4d294a83e6&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏影视,69.30.245.50
-江苏影视,74.91.26.218
-江苏影视,live.264788.xyz
 江苏影视,https://live.ottiptv.cc/mg/626064697.m3u8?userid=335749130&sign=e7fbe5e6ea47147e11cda37d6f4c1a77952b1725faf963608c2203f78a9ad5677f9085a289331f6e79620d1c7e0e1b043fc88e81e20c5443fa2a3fb4fcc55f9ae2e48f612ab31070b0b40d2ba3798863&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏教育,69.30.245.50
-江苏教育,74.91.26.218
-江苏教育,live.264788.xyz
 江苏教育,https://live.ottiptv.cc/mg/628008321.m3u8?userid=335749130&sign=d9c175d3fb3650ce29f276b43f226ff447ec745ddd558d6c2d39541b9bc0424cdcbf9f44615508f1c7e13e843b925445f7668d482fc49010a7bc29b0303599527b6cf409b420d2db7a1d9343afdfd610&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏国际,69.30.245.50
-江苏国际,74.91.26.218
-江苏国际,live.264788.xyz
 江苏国际,https://live.ottiptv.cc/mg/626064674.m3u8?userid=335749130&sign=1db7ed9d1f989df2d3d6ad8d2c1edc28e8821c3b5d3df9107c8dc80543dac0414f683cdbe58495b5b783ea033a8618b77cb9fbb286d0deb93c4f7670e5d863503c9b5e9cc99d8d774b5a59cb0762d697&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏综艺,69.30.245.50
-江苏综艺,74.91.26.218
-江苏综艺,live.264788.xyz
 江苏综艺,https://live.ottiptv.cc/mg/626065193.m3u8?userid=335749130&sign=8a287a697d41d5e1df2122f8f9071bfa937989e36fbe7c426c7c1cfa267ed4dd6cdb4ec557e69c22e3af9af7cbe63e3508a1da589d7299c683fb528a6dfcd06a562eb7858a2b7e83303487a6993327c6&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京信息,69.30.245.50
-南京信息,74.91.26.218
-南京信息,live.264788.xyz
-南京十八,69.30.245.50
-南京十八,74.91.26.218
-南京十八,live.264788.xyz
 南京十八,https://live.ottiptv.cc/mg/838151753.m3u8?userid=335749130&sign=6f910e397e8fff69102b350ee10646f6dda991b65f422a58a31fa86a13adb603205565cf130dc2353564c712bf6dbc455bc914692f64e9790b427bf4bc3ed15c7a6a07e874eccecfffaaf85c0e8f761a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京娱乐,69.30.245.50
-南京娱乐,74.91.26.218
-南京娱乐,live.264788.xyz
-南京少儿,69.30.245.50
-南京少儿,74.91.26.218
-南京少儿,live.264788.xyz
-南京教科,69.30.245.50
-南京教科,74.91.26.218
-南京教科,live.264788.xyz
 南京教科,https://live.ottiptv.cc/mg/838153729.m3u8?userid=335749130&sign=0d23745d8eec618574140e94ec363972f9737b261bc8434f13159e6577a07513b244643d8f9b1a65fc443a397d30d1a74667485912dd0f85c566166c8f2c02b2b0ac7535ec63d8f37c8e2e02524cb37f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京新闻综合,69.30.245.50
-南京新闻综合,74.91.26.218
-南京新闻综合,live.264788.xyz
 南京新闻综合,https://live.ottiptv.cc/mg/838109047.m3u8?userid=335749130&sign=0015a6655931c43b5ebd3dc9ba0af1616a6697ef85f7f929147f107667f6a942b329b60bcee3b16fa1a78ef3ab3099d8d6c12a0bdea8a914f6aad9686bfe803ae1bf497712ed2ac4627edd18fff415a3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京生活,69.30.245.50
-南京生活,74.91.26.218
-南京生活,live.264788.xyz
-淮安公共,69.30.245.50
-淮安公共,74.91.26.218
-淮安公共,live.264788.xyz
-淮安影院娱乐,69.30.245.50
-淮安影院娱乐,74.91.26.218
-淮安影院娱乐,live.264788.xyz
-淮安新闻综合,69.30.245.50
-淮安新闻综合,74.91.26.218
-淮安新闻综合,live.264788.xyz
 淮安新闻综合,https://live.ottiptv.cc/mg/639731826.m3u8?userid=335749130&sign=377fee6b7821cbe1fb40dbf776b4d6bce5e87566a687a0390137b0f26050bcc72b42e9db12fa15b806a47c1cd50a5e54f1921ca209c731a75619621d54e7bfa3e29b15103f8e92d9d271b7f4a22d4ef8&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-苏州4k,69.30.245.50
-苏州4k,74.91.26.218
-苏州4k,live.264788.xyz
-苏州文化生活,69.30.245.50
-苏州文化生活,74.91.26.218
-苏州文化生活,live.264788.xyz
-苏州新闻综合,69.30.245.50
-苏州新闻综合,74.91.26.218
-苏州新闻综合,live.264788.xyz
-苏州生活资讯,69.30.245.50
-苏州生活资讯,74.91.26.218
-苏州生活资讯,live.264788.xyz
-苏州电影娱乐,69.30.245.50
-苏州电影娱乐,74.91.26.218
-苏州电影娱乐,live.264788.xyz
-苏州社会经济,69.30.245.50
-苏州社会经济,74.91.26.218
-苏州社会经济,live.264788.xyz
-东台综合,69.30.245.50
-东台综合,74.91.26.218
-东台综合,live.264788.xyz
-东海新闻,69.30.245.50
-东海新闻,74.91.26.218
-东海新闻,live.264788.xyz
-仪征新闻综合,69.30.245.50
-仪征新闻综合,74.91.26.218
-仪征新闻综合,live.264788.xyz
-仪征生活,69.30.245.50
-仪征生活,74.91.26.218
-仪征生活,live.264788.xyz
-六合新闻综合,69.30.245.50
-六合新闻综合,74.91.26.218
-六合新闻综合,live.264788.xyz
-南通三套公共,69.30.245.50
-南通三套公共,74.91.26.218
-南通三套公共,live.264788.xyz
-南通二套社教,69.30.245.50
-南通二套社教,74.91.26.218
-南通二套社教,live.264788.xyz
-南通崇川综合,69.30.245.50
-南通崇川综合,74.91.26.218
-南通崇川综合,live.264788.xyz
-南通影院娱乐,69.30.245.50
-南通影院娱乐,74.91.26.218
-南通影院娱乐,live.264788.xyz
-南通新闻综合,69.30.245.50
-南通新闻综合,74.91.26.218
-南通新闻综合,live.264788.xyz
 南通新闻综合,https://live.ottiptv.cc/mg/955227985.m3u8?userid=335749130&sign=55372a518a7096cb4099ea0cdef1384c44721838808bf6b5e6daa89c89a128abd3a6b1746105139498a4378ad2f3a8d7dd18cd2bf71dcb40a8f3f6626b677ad11d1dfdfe76dbe0282e625cc46fd8d473&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南通电视台一套,69.30.245.50
-南通电视台一套,74.91.26.218
-南通电视台一套,live.264788.xyz
-南通都市生活,69.30.245.50
-南通都市生活,74.91.26.218
-南通都市生活,live.264788.xyz
-句容党建,69.30.245.50
-句容党建,74.91.26.218
-句容党建,live.264788.xyz
-句容影院,69.30.245.50
-句容影院,74.91.26.218
-句容影院,live.264788.xyz
-句容新闻综合,69.30.245.50
-句容新闻综合,74.91.26.218
-句容新闻综合,live.264788.xyz
-句容生活,69.30.245.50
-句容生活,74.91.26.218
-句容生活,live.264788.xyz
-大丰公共,69.30.245.50
-大丰公共,74.91.26.218
-大丰公共,live.264788.xyz
-如东一套新闻综合,69.30.245.50
-如东一套新闻综合,74.91.26.218
-如东一套新闻综合,live.264788.xyz
-如东新闻综合,69.30.245.50
-如东新闻综合,74.91.26.218
-如东新闻综合,live.264788.xyz
-姜堰新闻综合,69.30.245.50
-姜堰新闻综合,74.91.26.218
-姜堰新闻综合,live.264788.xyz
-宜兴新闻,69.30.245.50
-宜兴新闻,74.91.26.218
-宜兴新闻,live.264788.xyz
-宿迁公共,69.30.245.50
-宿迁公共,74.91.26.218
-宿迁公共,live.264788.xyz
-常州公共,69.30.245.50
-常州公共,74.91.26.218
-常州公共,live.264788.xyz
-常州新闻综合,69.30.245.50
-常州新闻综合,74.91.26.218
-常州新闻综合,live.264788.xyz
-常州生活,69.30.245.50
-常州生活,74.91.26.218
-常州生活,live.264788.xyz
-常州都市,69.30.245.50
-常州都市,74.91.26.218
-常州都市,live.264788.xyz
-常熟新闻,69.30.245.50
-常熟新闻,74.91.26.218
-常熟新闻,live.264788.xyz
-张家港新闻综合,69.30.245.50
-张家港新闻综合,74.91.26.218
-张家港新闻综合,live.264788.xyz
-张家港民生,69.30.245.50
-张家港民生,74.91.26.218
-张家港民生,live.264788.xyz
-徐州-1,69.30.245.50
-徐州-1,74.91.26.218
-徐州-1,live.264788.xyz
-徐州-3,69.30.245.50
-徐州-3,74.91.26.218
-徐州-3,live.264788.xyz
-徐州-4,69.30.245.50
-徐州-4,74.91.26.218
-徐州-4,live.264788.xyz
-徐州公共頻道,69.30.245.50
-徐州公共頻道,74.91.26.218
-徐州公共頻道,live.264788.xyz
-徐州公共,69.30.245.50
-徐州公共,74.91.26.218
-徐州公共,live.264788.xyz
-徐州文艺影院,69.30.245.50
-徐州文艺影院,74.91.26.218
-徐州文艺影院,live.264788.xyz
-徐州新聞綜合,69.30.245.50
-徐州新聞綜合,74.91.26.218
-徐州新聞綜合,live.264788.xyz
-徐州經濟生活,69.30.245.50
-徐州經濟生活,74.91.26.218
-徐州經濟生活,live.264788.xyz
-徐州贾汪旅游,69.30.245.50
-徐州贾汪旅游,74.91.26.218
-徐州贾汪旅游,live.264788.xyz
-扬中党建民生,69.30.245.50
-扬中党建民生,74.91.26.218
-扬中党建民生,live.264788.xyz
-扬中新闻,69.30.245.50
-扬中新闻,74.91.26.218
-扬中新闻,live.264788.xyz
-扬州城市,69.30.245.50
-扬州城市,74.91.26.218
-扬州城市,live.264788.xyz
-扬州新闻,69.30.245.50
-扬州新闻,74.91.26.218
-扬州新闻,live.264788.xyz
-扬州生活,69.30.245.50
-扬州生活,74.91.26.218
-扬州生活,live.264788.xyz
-扬州邗江,69.30.245.50
-扬州邗江,74.91.26.218
-扬州邗江,live.264788.xyz
-新沂新闻,69.30.245.50
-新沂新闻,74.91.26.218
-新沂新闻,live.264788.xyz
-新沂生活,69.30.245.50
-新沂生活,74.91.26.218
-新沂生活,live.264788.xyz
-无锡娱乐,69.30.245.50
-无锡娱乐,74.91.26.218
-无锡娱乐,live.264788.xyz
-无锡新闻综合,69.30.245.50
-无锡新闻综合,74.91.26.218
-无锡新闻综合,live.264788.xyz
-无锡生活,69.30.245.50
-无锡生活,74.91.26.218
-无锡生活,live.264788.xyz
-无锡经济,69.30.245.50
-无锡经济,74.91.26.218
-无锡经济,live.264788.xyz
-无锡都市资讯,69.30.245.50
-无锡都市资讯,74.91.26.218
-无锡都市资讯,live.264788.xyz
-武进新闻,69.30.245.50
-武进新闻,74.91.26.218
-武进新闻,live.264788.xyz
-武进生活,69.30.245.50
-武进生活,74.91.26.218
-武进生活,live.264788.xyz
-江宁新闻,69.30.245.50
-江宁新闻,74.91.26.218
-江宁新闻,live.264788.xyz
-江宁电视台综合,69.30.245.50
-江宁电视台综合,74.91.26.218
-江宁电视台综合,live.264788.xyz
-沛县新闻综合,69.30.245.50
-沛县新闻综合,74.91.26.218
-沛县新闻综合,live.264788.xyz
-沭阳综合,69.30.245.50
-沭阳综合,74.91.26.218
-沭阳综合,live.264788.xyz
-泗洪新闻综合,69.30.245.50
-泗洪新闻综合,74.91.26.218
-泗洪新闻综合,live.264788.xyz
-泗阳综合,69.30.245.50
-泗阳综合,74.91.26.218
-泗阳综合,live.264788.xyz
-泗阳资讯,69.30.245.50
-泗阳资讯,74.91.26.218
-泗阳资讯,live.264788.xyz
-泰州一套新闻综合,69.30.245.50
-泰州一套新闻综合,74.91.26.218
-泰州一套新闻综合,live.264788.xyz
-泰州三套影视娱乐,69.30.245.50
-泰州三套影视娱乐,74.91.26.218
-泰州三套影视娱乐,live.264788.xyz
-海安新闻综合,69.30.245.50
-海安新闻综合,74.91.26.218
-海安新闻综合,live.264788.xyz
-涟水电视台综合,69.30.245.50
-涟水电视台综合,74.91.26.218
-涟水电视台综合,live.264788.xyz
-涟水综合,69.30.245.50
-涟水综合,74.91.26.218
-涟水综合,live.264788.xyz
-淮阴影院,69.30.245.50
-淮阴影院,74.91.26.218
-淮阴影院,live.264788.xyz
-淮阴综合,69.30.245.50
-淮阴综合,74.91.26.218
-淮阴综合,live.264788.xyz
-溧水影视娱乐,69.30.245.50
-溧水影视娱乐,74.91.26.218
-溧水影视娱乐,live.264788.xyz
-溧水新闻综合,69.30.245.50
-溧水新闻综合,74.91.26.218
-溧水新闻综合,live.264788.xyz
 溧水新闻综合,https://live.ottiptv.cc/mg/639737327.m3u8?userid=335749130&sign=6b97d894ac3247f1e8d46431274780c7934d6204f5d2018e0409752d1a936b6ceb9b57348ae259a8facbc65f846cf90590308137da8a99d4ea1cc4d87305c97f56be2d4704a1b153fc73d4fa9d911b1a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-滨海新闻综合,69.30.245.50
-滨海新闻综合,74.91.26.218
-滨海新闻综合,live.264788.xyz
-盐都综合,69.30.245.50
-盐都综合,74.91.26.218
-盐都综合,live.264788.xyz
-睢宁三农,69.30.245.50
-睢宁三农,74.91.26.218
-睢宁三农,live.264788.xyz
-睢宁生活教育,69.30.245.50
-睢宁生活教育,74.91.26.218
-睢宁生活教育,live.264788.xyz
-睢宁资讯,69.30.245.50
-睢宁资讯,74.91.26.218
-睢宁资讯,live.264788.xyz
-贾汪新闻,69.30.245.50
-贾汪新闻,74.91.26.218
-贾汪新闻,live.264788.xyz
-贾汪旅游,69.30.245.50
-贾汪旅游,74.91.26.218
-贾汪旅游,live.264788.xyz
-赣榆新闻综合,69.30.245.50
-赣榆新闻综合,74.91.26.218
-赣榆新闻综合,live.264788.xyz
-连云港公共,69.30.245.50
-连云港公共,74.91.26.218
-连云港公共,live.264788.xyz
-连云港新闻综合,69.30.245.50
-连云港新闻综合,74.91.26.218
-连云港新闻综合,live.264788.xyz
 连云港新闻综合,https://live.ottiptv.cc/mg/639731715.m3u8?userid=335749130&sign=f0f113a5348cd526b652195d0cbca7191e87ca504fd67a0bf215acd9069ca5b5ac04e19433cb9512419a6cf6e6cb050e69be3d442b225e765827b3c371bef3efe63e43e9f98998ab71485de3d8210331&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-金坛新闻,69.30.245.50
-金坛新闻,74.91.26.218
-金坛新闻,live.264788.xyz
-镇江二套社会民生,69.30.245.50
-镇江二套社会民生,74.91.26.218
-镇江二套社会民生,live.264788.xyz
-镇江新闻综合,69.30.245.50
-镇江新闻综合,74.91.26.218
-镇江新闻综合,live.264788.xyz
 镇江新闻综合,https://live.ottiptv.cc/mg/639731783.m3u8?userid=335749130&sign=142959c4de7335953d451c987c9f3d4563a5239c691382db87d7f5eafb84674599fad87bfd6412045667fb52729919df374a9895018f902f6dacd0e343ce31ed62e23f7f273ebf36687bfe641f2e30d1&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-靖江新闻综合,69.30.245.50
-靖江新闻综合,74.91.26.218
-靖江新闻综合,live.264788.xyz
-高邮一套新闻综合,69.30.245.50
-高邮一套新闻综合,74.91.26.218
-高邮一套新闻综合,live.264788.xyz
-高邮综合,69.30.245.50
-高邮综合,74.91.26.218
-高邮综合,live.264788.xyz
 
 ☘️安徽频道,#genre#
-安徽国际,69.30.245.50
-安徽国际,74.91.26.218
-安徽国际,live.264788.xyz
-安徽影视,69.30.245.50
-安徽影视,74.91.26.218
-安徽影视,live.264788.xyz
-安徽经济生活,69.30.245.50
-安徽经济生活,74.91.26.218
-安徽经济生活,live.264788.xyz
-安徽导视,69.30.245.50
-安徽导视,74.91.26.218
-安徽导视,live.264788.xyz
-芜湖生活,69.30.245.50
-芜湖生活,74.91.26.218
-芜湖生活,live.264788.xyz
-芜湖新闻综合,69.30.245.50
-芜湖新闻综合,74.91.26.218
-芜湖新闻综合,live.264788.xyz
-芜湖公共,69.30.245.50
-芜湖公共,74.91.26.218
-芜湖公共,live.264788.xyz
-合肥公共,69.30.245.50
-合肥公共,74.91.26.218
-合肥公共,live.264788.xyz
-合肥新闻,69.30.245.50
-合肥新闻,74.91.26.218
-合肥新闻,live.264788.xyz
-歙县综合,69.30.245.50
-歙县综合,74.91.26.218
-歙县综合,live.264788.xyz
-肥西新闻,69.30.245.50
-肥西新闻,74.91.26.218
-肥西新闻,live.264788.xyz
-肥西综合,69.30.245.50
-肥西综合,74.91.26.218
-肥西综合,live.264788.xyz
-黟县综合,69.30.245.50
-黟县综合,74.91.26.218
-黟县综合,live.264788.xyz
-黄山新闻综合,69.30.245.50
-黄山新闻综合,74.91.26.218
-黄山新闻综合,live.264788.xyz
-黄山公共生活,69.30.245.50
-黄山公共生活,74.91.26.218
-黄山公共生活,live.264788.xyz
-霍邱新闻综合,69.30.245.50
-霍邱新闻综合,74.91.26.218
-霍邱新闻综合,live.264788.xyz
-霍山综合,69.30.245.50
-霍山综合,74.91.26.218
-霍山综合,live.264788.xyz
-阜南新闻综合,69.30.245.50
-阜南新闻综合,74.91.26.218
-阜南新闻综合,live.264788.xyz
-铜陵新闻综合,69.30.245.50
-铜陵新闻综合,74.91.26.218
-铜陵新闻综合,live.264788.xyz
-金寨综合,69.30.245.50
-金寨综合,74.91.26.218
-金寨综合,live.264788.xyz
-肥东经济生活,69.30.245.50
-肥东经济生活,74.91.26.218
-肥东经济生活,live.264788.xyz
-繁昌新闻综合,69.30.245.50
-繁昌新闻综合,74.91.26.218
-繁昌新闻综合,live.264788.xyz
-繁昌文体娱乐,69.30.245.50
-繁昌文体娱乐,74.91.26.218
-繁昌文体娱乐,live.264788.xyz
-石台综合,69.30.245.50
-石台综合,74.91.26.218
-石台综合,live.264788.xyz
-灵璧综合,69.30.245.50
-灵璧综合,74.91.26.218
-灵璧综合,live.264788.xyz
-潜山新闻综合,69.30.245.50
-潜山新闻综合,74.91.26.218
-潜山新闻综合,live.264788.xyz
-滁州科教,69.30.245.50
-滁州科教,74.91.26.218
-滁州科教,live.264788.xyz
-滁州新闻综合,69.30.245.50
-滁州新闻综合,74.91.26.218
-滁州新闻综合,live.264788.xyz
-滁州市广播电视台 科教,69.30.245.50
-滁州市广播电视台 科教,74.91.26.218
-滁州市广播电视台 科教,live.264788.xyz
-滁州市广播电视台 新闻综合,69.30.245.50
-滁州市广播电视台 新闻综合,74.91.26.218
-滁州市广播电视台 新闻综合,live.264788.xyz
-滁州市广播电视台 公共,69.30.245.50
-滁州市广播电视台 公共,74.91.26.218
-滁州市广播电视台 公共,live.264788.xyz
-滁州公共,69.30.245.50
-滁州公共,74.91.26.218
-滁州公共,live.264788.xyz
-湾沚区新闻综合,69.30.245.50
-湾沚区新闻综合,74.91.26.218
-湾沚区新闻综合,live.264788.xyz
-淮南新闻综合,69.30.245.50
-淮南新闻综合,74.91.26.218
-淮南新闻综合,live.264788.xyz
-淮南公共,69.30.245.50
-淮南公共,74.91.26.218
-淮南公共,live.264788.xyz
-涡阳新闻综合,69.30.245.50
-涡阳新闻综合,74.91.26.218
-涡阳新闻综合,live.264788.xyz
-池州新闻综合,69.30.245.50
-池州新闻综合,74.91.26.218
-池州新闻综合,live.264788.xyz
-池州公共,69.30.245.50
-池州公共,74.91.26.218
-池州公共,live.264788.xyz
-桐城新闻,69.30.245.50
-桐城新闻,74.91.26.218
-桐城新闻,live.264788.xyz
-枞阳综合,69.30.245.50
-枞阳综合,74.91.26.218
-枞阳综合,live.264788.xyz
-当涂新闻综合,69.30.245.50
-当涂新闻综合,74.91.26.218
-当涂新闻综合,live.264788.xyz
-广德生活,69.30.245.50
-广德生活,74.91.26.218
-广德生活,live.264788.xyz
-广德新闻综合,69.30.245.50
-广德新闻综合,74.91.26.218
-广德新闻综合,live.264788.xyz
-岳西综合,69.30.245.50
-岳西综合,74.91.26.218
-岳西综合,live.264788.xyz
-屯溪融媒,69.30.245.50
-屯溪融媒,74.91.26.218
-屯溪融媒,live.264788.xyz
-宿松新闻综合,69.30.245.50
-宿松新闻综合,74.91.26.218
-宿松新闻综合,live.264788.xyz
-宿州科教,69.30.245.50
-宿州科教,74.91.26.218
-宿州科教,live.264788.xyz
-宿州新闻综合,69.30.245.50
-宿州新闻综合,74.91.26.218
-宿州新闻综合,live.264788.xyz
-定远综合,69.30.245.50
-定远综合,74.91.26.218
-定远综合,live.264788.xyz
-定远新闻综合,69.30.245.50
-定远新闻综合,74.91.26.218
-定远新闻综合,live.264788.xyz
-安徽影院,69.30.245.50
-安徽影院,74.91.26.218
-安徽影院,live.264788.xyz
-铜陵综合,69.30.245.50
-铜陵综合,74.91.26.218
-铜陵综合,live.264788.xyz
-铜陵公共,69.30.245.50
-铜陵公共,74.91.26.218
-铜陵公共,live.264788.xyz
-郎溪综合台,69.30.245.50
-郎溪综合台,74.91.26.218
-郎溪综合台,live.264788.xyz
-淮北综合,69.30.245.50
-淮北综合,74.91.26.218
-淮北综合,live.264788.xyz
-淮北公共,69.30.245.50
-淮北公共,74.91.26.218
-淮北公共,live.264788.xyz
-安庆教育,69.30.245.50
-安庆教育,74.91.26.218
-安庆教育,live.264788.xyz
-安庆公共,69.30.245.50
-安庆公共,74.91.26.218
-安庆公共,live.264788.xyz
-太和新闻综合,69.30.245.50
-太和新闻综合,74.91.26.218
-太和新闻综合,live.264788.xyz
-固镇新闻,69.30.245.50
-固镇新闻,74.91.26.218
-固镇新闻,live.264788.xyz
-南陵新闻综合,69.30.245.50
-南陵新闻综合,74.91.26.218
-南陵新闻综合,live.264788.xyz
-利辛综合,69.30.245.50
-利辛综合,74.91.26.218
-利辛综合,live.264788.xyz
-利辛影,69.30.245.50
-利辛影,74.91.26.218
-利辛影,live.264788.xyz
-凤台综合,69.30.245.50
-凤台综合,74.91.26.218
-凤台综合,live.264788.xyz
-凤台文化生活,69.30.245.50
-凤台文化生活,74.91.26.218
-凤台文化生活,live.264788.xyz
-六安新闻综合,69.30.245.50
-六安新闻综合,74.91.26.218
-六安新闻综合,live.264788.xyz
-六安公共,69.30.245.50
-六安公共,74.91.26.218
-六安公共,live.264788.xyz
-全椒综合,69.30.245.50
-全椒综合,74.91.26.218
-全椒综合,live.264788.xyz
-全椒生活,69.30.245.50
-全椒生活,74.91.26.218
-全椒生活,live.264788.xyz
-休宁新闻综合,69.30.245.50
-休宁新闻综合,74.91.26.218
-休宁新闻综合,live.264788.xyz
-亳州新闻,69.30.245.50
-亳州新闻,74.91.26.218
-亳州新闻,live.264788.xyz
-亳州农村,69.30.245.50
-亳州农村,74.91.26.218
-亳州农村,live.264788.xyz
-临泉新闻,69.30.245.50
-临泉新闻,74.91.26.218
-临泉新闻,live.264788.xyz
-东至新闻综合,69.30.245.50
-东至新闻综合,74.91.26.218
-东至新闻综合,live.264788.xyz
 
 ☘️北京频道,#genre#
-北京影院,69.30.245.50
-北京影院,74.91.26.218
-北京影院,live.264788.xyz
-北京新闻,69.30.245.50
-北京新闻,74.91.26.218
-北京新闻,live.264788.xyz
-北京生活,69.30.245.50
-北京生活,74.91.26.218
-北京生活,live.264788.xyz
-北京科教,69.30.245.50
-北京科教,74.91.26.218
-北京科教,live.264788.xyz
-北京财经,69.30.245.50
-北京财经,74.91.26.218
-北京财经,live.264788.xyz
-北京青年,69.30.245.50
-北京青年,74.91.26.218
-北京青年,live.264788.xyz
-BTV纪实,69.30.245.50
-BTV纪实,74.91.26.218
-BTV纪实,live.264788.xyz
-清华大学电视台,69.30.245.50
-清华大学电视台,74.91.26.218
-清华大学电视台,live.264788.xyz
-石景山有线,69.30.245.50
-石景山有线,74.91.26.218
-石景山有线,live.264788.xyz
-通州电视台,69.30.245.50
-通州电视台,74.91.26.218
-通州电视台,live.264788.xyz
 
 ☘️山东频道,#genre#
-山东少儿,69.30.245.50
-山东少儿,74.91.26.218
-山东少儿,live.264788.xyz
-山东新闻,69.30.245.50
-山东新闻,74.91.26.218
-山东新闻,live.264788.xyz
-山东国际,69.30.245.50
-山东国际,74.91.26.218
-山东国际,live.264788.xyz
-山东教育,69.30.245.50
-山东教育,74.91.26.218
-山东教育,live.264788.xyz
 山东教育,https://live.ottiptv.cc/mg/609154353.m3u8?userid=335749130&sign=621f75c4dfa36a05d0257a77c7d3d8cd4b15892d6859d3154e27570f8456fcc4bb8a42d464620c53a28a26fa2873d05782153227542aa16560e9ae0ff43c216824378ed39a5b7d69d8f6252fb728bc7a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-山东农科,69.30.245.50
-山东农科,74.91.26.218
-山东农科,live.264788.xyz
-山东齐鲁,69.30.245.50
-山东齐鲁,74.91.26.218
-山东齐鲁,live.264788.xyz
-山东生活,69.30.245.50
-山东生活,74.91.26.218
-山东生活,live.264788.xyz
-山东文旅,69.30.245.50
-山东文旅,74.91.26.218
-山东文旅,live.264788.xyz
-山东综艺,69.30.245.50
-山东综艺,74.91.26.218
-山东综艺,live.264788.xyz
-济南综合,69.30.245.50
-济南综合,74.91.26.218
-济南综合,live.264788.xyz
-济南新闻综合,69.30.245.50
-济南新闻综合,74.91.26.218
-济南新闻综合,live.264788.xyz
-济南都市,69.30.245.50
-济南都市,74.91.26.218
-济南都市,live.264788.xyz
-济南生活,69.30.245.50
-济南生活,74.91.26.218
-济南生活,live.264788.xyz
-济南影视,69.30.245.50
-济南影视,74.91.26.218
-济南影视,live.264788.xyz
-济南娱乐,69.30.245.50
-济南娱乐,74.91.26.218
-济南娱乐,live.264788.xyz
-济南少儿,69.30.245.50
-济南少儿,74.91.26.218
-济南少儿,live.264788.xyz
-济南商务,69.30.245.50
-济南商务,74.91.26.218
-济南商务,live.264788.xyz
-济南教育,69.30.245.50
-济南教育,74.91.26.218
-济南教育,live.264788.xyz
-济南鲁中,69.30.245.50
-济南鲁中,74.91.26.218
-济南鲁中,live.264788.xyz
-青岛城阳,69.30.245.50
-青岛城阳,74.91.26.218
-青岛城阳,live.264788.xyz
-青州电视台文化旅游,69.30.245.50
-青州电视台文化旅游,74.91.26.218
-青州电视台文化旅游,live.264788.xyz
-青州电视台新闻综合,69.30.245.50
-青州电视台新闻综合,74.91.26.218
-青州电视台新闻综合,live.264788.xyz
-青州电视台生活,69.30.245.50
-青州电视台生活,74.91.26.218
-青州电视台生活,live.264788.xyz
-青州综合,69.30.245.50
-青州综合,74.91.26.218
-青州综合,live.264788.xyz
-济宁公共,69.30.245.50
-济宁公共,74.91.26.218
-济宁公共,live.264788.xyz
-济宁图文,69.30.245.50
-济宁图文,74.91.26.218
-济宁图文,live.264788.xyz
-济宁教育,69.30.245.50
-济宁教育,74.91.26.218
-济宁教育,live.264788.xyz
-济宁新闻综合,69.30.245.50
-济宁新闻综合,74.91.26.218
-济宁新闻综合,live.264788.xyz
-济宁综合,69.30.245.50
-济宁综合,74.91.26.218
-济宁综合,live.264788.xyz
-威海一套新闻综合,69.30.245.50
-威海一套新闻综合,74.91.26.218
-威海一套新闻综合,live.264788.xyz
-威海二套公共,69.30.245.50
-威海二套公共,74.91.26.218
-威海二套公共,live.264788.xyz
-威海三套海洋,69.30.245.50
-威海三套海洋,74.91.26.218
-威海三套海洋,live.264788.xyz
-东营综合,69.30.245.50
-东营综合,74.91.26.218
-东营综合,live.264788.xyz
-中华美食,69.30.245.50
-中华美食,74.91.26.218
-中华美食,live.264788.xyz
-临沂公共,69.30.245.50
-临沂公共,74.91.26.218
-临沂公共,live.264788.xyz
-临沂农科,69.30.245.50
-临沂农科,74.91.26.218
-临沂农科,live.264788.xyz
-临沂新闻综合,69.30.245.50
-临沂新闻综合,74.91.26.218
-临沂新闻综合,live.264788.xyz
-垦利新闻,69.30.245.50
-垦利新闻,74.91.26.218
-垦利新闻,live.264788.xyz
-岱岳综合,69.30.245.50
-岱岳综合,74.91.26.218
-岱岳综合,live.264788.xyz
-日照公共,69.30.245.50
-日照公共,74.91.26.218
-日照公共,live.264788.xyz
-日照新闻综合,69.30.245.50
-日照新闻综合,74.91.26.218
-日照新闻综合,live.264788.xyz
-日照科教,69.30.245.50
-日照科教,74.91.26.218
-日照科教,live.264788.xyz
-枣庄公共,69.30.245.50
-枣庄公共,74.91.26.218
-枣庄公共,live.264788.xyz
-枣庄教育,69.30.245.50
-枣庄教育,74.91.26.218
-枣庄教育,live.264788.xyz
-枣庄新闻综合,69.30.245.50
-枣庄新闻综合,74.91.26.218
-枣庄新闻综合,live.264788.xyz
-泰安新闻综合,69.30.245.50
-泰安新闻综合,74.91.26.218
-泰安新闻综合,live.264788.xyz
-淄博生活,69.30.245.50
-淄博生活,74.91.26.218
-淄博生活,live.264788.xyz
-淄博都市,69.30.245.50
-淄博都市,74.91.26.218
-淄博都市,live.264788.xyz
-滨州公共,69.30.245.50
-滨州公共,74.91.26.218
-滨州公共,live.264788.xyz
-滨州新闻综合,69.30.245.50
-滨州新闻综合,74.91.26.218
-滨州新闻综合,live.264788.xyz
-潍坊三套公共,69.30.245.50
-潍坊三套公共,74.91.26.218
-潍坊三套公共,live.264788.xyz
-潍坊二套经济生活,69.30.245.50
-潍坊二套经济生活,74.91.26.218
-潍坊二套经济生活,live.264788.xyz
-潍坊公共,69.30.245.50
-潍坊公共,74.91.26.218
-潍坊公共,live.264788.xyz
-潍坊四套科教,69.30.245.50
-潍坊四套科教,74.91.26.218
-潍坊四套科教,live.264788.xyz
-潍坊新闻综合,69.30.245.50
-潍坊新闻综合,74.91.26.218
-潍坊新闻综合,live.264788.xyz
-潍坊滨海新闻综合,69.30.245.50
-潍坊滨海新闻综合,74.91.26.218
-潍坊滨海新闻综合,live.264788.xyz
-烟台公共,69.30.245.50
-烟台公共,74.91.26.218
-烟台公共,live.264788.xyz
-烟台新闻综合,69.30.245.50
-烟台新闻综合,74.91.26.218
-烟台新闻综合,live.264788.xyz
-烟台经济科技,69.30.245.50
-烟台经济科技,74.91.26.218
-烟台经济科技,live.264788.xyz
-菏泽一套新闻综合,69.30.245.50
-菏泽一套新闻综合,74.91.26.218
-菏泽一套新闻综合,live.264788.xyz
-菏泽二套经济生活,69.30.245.50
-菏泽二套经济生活,74.91.26.218
-菏泽二套经济生活,live.264788.xyz
-菏泽三套影视,69.30.245.50
-菏泽三套影视,74.91.26.218
-菏泽三套影视,live.264788.xyz
-菏泽影,69.30.245.50
-菏泽影,74.91.26.218
-菏泽影,live.264788.xyz
-菏泽新闻综合,69.30.245.50
-菏泽新闻综合,74.91.26.218
-菏泽新闻综合,live.264788.xyz
-菏泽经济生活,69.30.245.50
-菏泽经济生活,74.91.26.218
-菏泽经济生活,live.264788.xyz
 
 ☘️重庆频道,#genre#
-铜梁综合,69.30.245.50
-铜梁综合,74.91.26.218
-铜梁综合,live.264788.xyz
-重庆新闻,69.30.245.50
-重庆新闻,74.91.26.218
-重庆新闻,live.264788.xyz
-重庆时尚购物,69.30.245.50
-重庆时尚购物,74.91.26.218
-重庆时尚购物,live.264788.xyz
-重庆汽摩,69.30.245.50
-重庆汽摩,74.91.26.218
-重庆汽摩,live.264788.xyz
-荣昌综合,69.30.245.50
-荣昌综合,74.91.26.218
-荣昌综合,live.264788.xyz
-璧山综合,69.30.245.50
-璧山综合,74.91.26.218
-璧山综合,live.264788.xyz
-潼南综合,69.30.245.50
-潼南综合,74.91.26.218
-潼南综合,live.264788.xyz
-涪陵电视台,69.30.245.50
-涪陵电视台,74.91.26.218
-涪陵电视台,live.264788.xyz
-江津新闻综合,69.30.245.50
-江津新闻综合,74.91.26.218
-江津新闻综合,live.264788.xyz
-武隆综合,69.30.245.50
-武隆综合,74.91.26.218
-武隆综合,live.264788.xyz
-大足综合,69.30.245.50
-大足综合,74.91.26.218
-大足综合,live.264788.xyz
-垫江综合,69.30.245.50
-垫江综合,74.91.26.218
-垫江综合,live.264788.xyz
-北碚综合,69.30.245.50
-北碚综合,74.91.26.218
-北碚综合,live.264788.xyz
-中国交通重庆,69.30.245.50
-中国交通重庆,74.91.26.218
-中国交通重庆,live.264788.xyz
-万州综合,69.30.245.50
-万州综合,74.91.26.218
-万州综合,live.264788.xyz
-万州三峡移民,69.30.245.50
-万州三峡移民,74.91.26.218
-万州三峡移民,live.264788.xyz
 
 ☘️辽宁频道,#genre#
-朝阳教育,69.30.245.50
-朝阳教育,74.91.26.218
-朝阳教育,live.264788.xyz
-朝阳新闻综合,69.30.245.50
-朝阳新闻综合,74.91.26.218
-朝阳新闻综合,live.264788.xyz
-辽宁北方,69.30.245.50
-辽宁北方,74.91.26.218
-辽宁北方,live.264788.xyz
-辽宁影视剧,69.30.245.50
-辽宁影视剧,74.91.26.218
-辽宁影视剧,live.264788.xyz
-辽宁教育青少,69.30.245.50
-辽宁教育青少,74.91.26.218
-辽宁教育青少,live.264788.xyz
-辽宁生活,69.30.245.50
-辽宁生活,74.91.26.218
-辽宁生活,live.264788.xyz
-辽宁经济,69.30.245.50
-辽宁经济,74.91.26.218
-辽宁经济,live.264788.xyz
-辽宁都市,69.30.245.50
-辽宁都市,74.91.26.218
-辽宁都市,live.264788.xyz
-锦州一套新闻综合,69.30.245.50
-锦州一套新闻综合,74.91.26.218
-锦州一套新闻综合,live.264788.xyz
-锦州二套教育,69.30.245.50
-锦州二套教育,74.91.26.218
-锦州二套教育,live.264788.xyz
 
 ☘️湖南频道,#genre#
-湖南都市,69.30.245.50
-湖南都市,74.91.26.218
-湖南都市,live.264788.xyz
-湖南视剧,69.30.245.50
-湖南视剧,74.91.26.218
-湖南视剧,live.264788.xyz
-湖南经视,69.30.245.50
-湖南经视,74.91.26.218
-湖南经视,live.264788.xyz
-湖南电视剧,69.30.245.50
-湖南电视剧,74.91.26.218
-湖南电视剧,live.264788.xyz
-湖南电影,69.30.245.50
-湖南电影,74.91.26.218
-湖南电影,live.264788.xyz
-湖南爱晚,69.30.245.50
-湖南爱晚,74.91.26.218
-湖南爱晚,live.264788.xyz
-湖南教育,69.30.245.50
-湖南教育,74.91.26.218
-湖南教育,live.264788.xyz
-湖南娱乐,69.30.245.50
-湖南娱乐,74.91.26.218
-湖南娱乐,live.264788.xyz
-湖南国际,69.30.245.50
-湖南国际,74.91.26.218
-湖南国际,live.264788.xyz
-湖南公共,69.30.245.50
-湖南公共,74.91.26.218
-湖南公共,live.264788.xyz
-湖南金鹰纪实,69.30.245.50
-湖南金鹰纪实,74.91.26.218
-湖南金鹰纪实,live.264788.xyz
 湖南金鹰纪实,https://live.264788.xyz/channel/jinyingjishi?streamid=b33f7690b2ce36708f54588c53a20742&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 湖南金鹰纪实,https://live.264788.xyz/channel/jinyingjishi?streamid=3680a1c0ad58417e29641bb984685a5b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南4k,69.30.245.50
-湖南4k,74.91.26.218
-湖南4k,live.264788.xyz
-长沙新闻综合,69.30.245.50
-长沙新闻综合,74.91.26.218
-长沙新闻综合,live.264788.xyz
-长沙新闻,69.30.245.50
-长沙新闻,74.91.26.218
-长沙新闻,live.264788.xyz
-长沙政法,69.30.245.50
-长沙政法,74.91.26.218
-长沙政法,live.264788.xyz
-长沙影视,69.30.245.50
-长沙影视,74.91.26.218
-长沙影视,live.264788.xyz
-长沙女性,69.30.245.50
-长沙女性,74.91.26.218
-长沙女性,live.264788.xyz
-醴陵综合,69.30.245.50
-醴陵综合,74.91.26.218
-醴陵综合,live.264788.xyz
-衡阳新闻综合,69.30.245.50
-衡阳新闻综合,74.91.26.218
-衡阳新闻综合,live.264788.xyz
-衡阳公共,69.30.245.50
-衡阳公共,74.91.26.218
-衡阳公共,live.264788.xyz
-茶陵新闻综合,69.30.245.50
-茶陵新闻综合,74.91.26.218
-茶陵新闻综合,live.264788.xyz
-益阳新闻综合,69.30.245.50
-益阳新闻综合,74.91.26.218
-益阳新闻综合,live.264788.xyz
-益阳教育,69.30.245.50
-益阳教育,74.91.26.218
-益阳教育,live.264788.xyz
-益阳公共,69.30.245.50
-益阳公共,74.91.26.218
-益阳公共,live.264788.xyz
-湘潭新闻综合,69.30.245.50
-湘潭新闻综合,74.91.26.218
-湘潭新闻综合,live.264788.xyz
-湘潭县综合,69.30.245.50
-湘潭县综合,74.91.26.218
-湘潭县综合,live.264788.xyz
-湘潭公共,69.30.245.50
-湘潭公共,74.91.26.218
-湘潭公共,live.264788.xyz
-湘潭公共都市,69.30.245.50
-湘潭公共都市,74.91.26.218
-湘潭公共都市,live.264788.xyz
-洪江市综合,69.30.245.50
-洪江市综合,74.91.26.218
-洪江市综合,live.264788.xyz
-泸溪电视台,69.30.245.50
-泸溪电视台,74.91.26.218
-泸溪电视台,live.264788.xyz
-汨罗新闻综合,69.30.245.50
-汨罗新闻综合,74.91.26.218
-汨罗新闻综合,live.264788.xyz
-江华综合,69.30.245.50
-江华综合,74.91.26.218
-江华综合,live.264788.xyz
-汝城综合,69.30.245.50
-汝城综合,74.91.26.218
-汝城综合,live.264788.xyz
-永顺综合,69.30.245.50
-永顺综合,74.91.26.218
-永顺综合,live.264788.xyz
-桑植新闻综合,69.30.245.50
-桑植新闻综合,74.91.26.218
-桑植新闻综合,live.264788.xyz
-新化新闻综合,69.30.245.50
-新化新闻综合,74.91.26.218
-新化新闻综合,live.264788.xyz
-屈原综合,69.30.245.50
-屈原综合,74.91.26.218
-屈原综合,live.264788.xyz
-宁乡综合,69.30.245.50
-宁乡综合,74.91.26.218
-宁乡综合,live.264788.xyz
-娄底综合,69.30.245.50
-娄底综合,74.91.26.218
-娄底综合,live.264788.xyz
-保靖时政,69.30.245.50
-保靖时政,74.91.26.218
-保靖时政,live.264788.xyz
-云溪新闻综合,69.30.245.50
-云溪新闻综合,74.91.26.218
-云溪新闻综合,live.264788.xyz
 
 ☘️湖北频道,#genre#
-湖北新闻综合,69.30.245.50
-湖北新闻综合,74.91.26.218
-湖北新闻综合,live.264788.xyz
-湖北综合,69.30.245.50
-湖北综合,74.91.26.218
-湖北综合,live.264788.xyz
-湖北经视,69.30.245.50
-湖北经视,74.91.26.218
-湖北经视,live.264788.xyz
-湖北生活,69.30.245.50
-湖北生活,74.91.26.218
-湖北生活,live.264788.xyz
-湖北教育,69.30.245.50
-湖北教育,74.91.26.218
-湖北教育,live.264788.xyz
-湖北影视,69.30.245.50
-湖北影视,74.91.26.218
-湖北影视,live.264788.xyz
-湖北公共新闻,69.30.245.50
-湖北公共新闻,74.91.26.218
-湖北公共新闻,live.264788.xyz
-湖北公共,69.30.245.50
-湖北公共,74.91.26.218
-湖北公共,live.264788.xyz
-湖北经济,69.30.245.50
-湖北经济,74.91.26.218
-湖北经济,live.264788.xyz
-湖北垄上,69.30.245.50
-湖北垄上,74.91.26.218
-湖北垄上,live.264788.xyz
-武汉一台新闻综合,69.30.245.50
-武汉一台新闻综合,74.91.26.218
-武汉一台新闻综合,live.264788.xyz
-武汉二台电视剧,69.30.245.50
-武汉二台电视剧,74.91.26.218
-武汉二台电视剧,live.264788.xyz
-武汉三台科技生活,69.30.245.50
-武汉三台科技生活,74.91.26.218
-武汉三台科技生活,live.264788.xyz
-武汉四台经济,69.30.245.50
-武汉四台经济,74.91.26.218
-武汉四台经济,live.264788.xyz
-武汉五台文体,69.30.245.50
-武汉五台文体,74.91.26.218
-武汉五台文体,live.264788.xyz
-武汉六台外语,69.30.245.50
-武汉六台外语,74.91.26.218
-武汉六台外语,live.264788.xyz
-武汉1新闻综合,69.30.245.50
-武汉1新闻综合,74.91.26.218
-武汉1新闻综合,live.264788.xyz
-武汉2电视剧,69.30.245.50
-武汉2电视剧,74.91.26.218
-武汉2电视剧,live.264788.xyz
-武汉3科技生活,69.30.245.50
-武汉3科技生活,74.91.26.218
-武汉3科技生活,live.264788.xyz
-武汉教育,69.30.245.50
-武汉教育,74.91.26.218
-武汉教育,live.264788.xyz
-湖北武汉教育,69.30.245.50
-湖北武汉教育,74.91.26.218
-湖北武汉教育,live.264788.xyz
-武汉经济,69.30.245.50
-武汉经济,74.91.26.218
-武汉经济,live.264788.xyz
-武汉新闻综合,69.30.245.50
-武汉新闻综合,74.91.26.218
-武汉新闻综合,live.264788.xyz
-武汉文体,69.30.245.50
-武汉文体,74.91.26.218
-武汉文体,live.264788.xyz
-武汉外语,69.30.245.50
-武汉外语,74.91.26.218
-武汉外语,live.264788.xyz
-江夏经济生活,69.30.245.50
-江夏经济生活,74.91.26.218
-江夏经济生活,live.264788.xyz
-江夏新闻综合,69.30.245.50
-江夏新闻综合,74.91.26.218
-江夏新闻综合,live.264788.xyz
-建始综合,69.30.245.50
-建始综合,74.91.26.218
-建始综合,live.264788.xyz
-崇阳新闻综合,69.30.245.50
-崇阳新闻综合,74.91.26.218
-崇阳新闻综合,live.264788.xyz
-十堰新闻,69.30.245.50
-十堰新闻,74.91.26.218
-十堰新闻,live.264788.xyz
-十堰公共,69.30.245.50
-十堰公共,74.91.26.218
-十堰公共,live.264788.xyz
-保康新闻综合,69.30.245.50
-保康新闻综合,74.91.26.218
-保康新闻综合,live.264788.xyz
-仙桃生活文体,69.30.245.50
-仙桃生活文体,74.91.26.218
-仙桃生活文体,live.264788.xyz
-仙桃新闻综合,69.30.245.50
-仙桃新闻综合,74.91.26.218
-仙桃新闻综合,live.264788.xyz
-麻城综合,69.30.245.50
-麻城综合,74.91.26.218
-麻城综合,live.264788.xyz
-郧阳新闻综合,69.30.245.50
-郧阳新闻综合,74.91.26.218
-郧阳新闻综合,live.264788.xyz
-荆门新闻综合,69.30.245.50
-荆门新闻综合,74.91.26.218
-荆门新闻综合,live.264788.xyz
-云梦综合,69.30.245.50
-云梦综合,74.91.26.218
-云梦综合,live.264788.xyz
-云梦党建农业,69.30.245.50
-云梦党建农业,74.91.26.218
-云梦党建农业,live.264788.xyz
-武汉生活,69.30.245.50
-武汉生活,74.91.26.218
-武汉生活,live.264788.xyz
-武汉新闻,69.30.245.50
-武汉新闻,74.91.26.218
-武汉新闻,live.264788.xyz
-崇阳综合,69.30.245.50
-崇阳综合,74.91.26.218
-崇阳综合,live.264788.xyz
-潜江综合,69.30.245.50
-潜江综合,74.91.26.218
-潜江综合,live.264788.xyz
 
 ☘️广西频道,#genre#
-乐业综合,69.30.245.50
-乐业综合,74.91.26.218
-乐业综合,live.264788.xyz
-凌云综合,69.30.245.50
-凌云综合,74.91.26.218
-凌云综合,live.264788.xyz
-凭祥综合,69.30.245.50
-凭祥综合,74.91.26.218
-凭祥综合,live.264788.xyz
-北海新闻综合,69.30.245.50
-北海新闻综合,74.91.26.218
-北海新闻综合,live.264788.xyz
-北海经济科教,69.30.245.50
-北海经济科教,74.91.26.218
-北海经济科教,live.264788.xyz
-南宁公共,69.30.245.50
-南宁公共,74.91.26.218
-南宁公共,live.264788.xyz
-南宁新闻综合,69.30.245.50
-南宁新闻综合,74.91.26.218
-南宁新闻综合,live.264788.xyz
-南宁都市生活,69.30.245.50
-南宁都市生活,74.91.26.218
-南宁都市生活,live.264788.xyz
-南宁影视娱乐,69.30.245.50
-南宁影视娱乐,74.91.26.218
-南宁影视娱乐,live.264788.xyz
-博白综合,69.30.245.50
-博白综合,74.91.26.218
-博白综合,live.264788.xyz
-天等综合,69.30.245.50
-天等综合,74.91.26.218
-天等综合,live.264788.xyz
-宾阳综合,69.30.245.50
-宾阳综合,74.91.26.218
-宾阳综合,live.264788.xyz
-岑溪综合,69.30.245.50
-岑溪综合,74.91.26.218
-岑溪综合,live.264788.xyz
-崇左综合,69.30.245.50
-崇左综合,74.91.26.218
-崇左综合,live.264788.xyz
-巴马综合,69.30.245.50
-巴马综合,74.91.26.218
-巴马综合,live.264788.xyz
-昭平综合,69.30.245.50
-昭平综合,74.91.26.218
-昭平综合,live.264788.xyz
-来宾综合,69.30.245.50
-来宾综合,74.91.26.218
-来宾综合,live.264788.xyz
-桂平综合,69.30.245.50
-桂平综合,74.91.26.218
-桂平综合,live.264788.xyz
-灌阳新闻综合,69.30.245.50
-灌阳新闻综合,74.91.26.218
-灌阳新闻综合,live.264788.xyz
-灵川综合,69.30.245.50
-灵川综合,74.91.26.218
-灵川综合,live.264788.xyz
-田东综合,69.30.245.50
-田东综合,74.91.26.218
-田东综合,live.264788.xyz
-田阳综合,69.30.245.50
-田阳综合,74.91.26.218
-田阳综合,live.264788.xyz
-罗城综合,69.30.245.50
-罗城综合,74.91.26.218
-罗城综合,live.264788.xyz
-融水综合,69.30.245.50
-融水综合,74.91.26.218
-融水综合,live.264788.xyz
-西林综合,69.30.245.50
-西林综合,74.91.26.218
-西林综合,live.264788.xyz
-贺州综合,69.30.245.50
-贺州综合,74.91.26.218
-贺州综合,live.264788.xyz
-资源电视台,69.30.245.50
-资源电视台,74.91.26.218
-资源电视台,live.264788.xyz
-那坡综合,69.30.245.50
-那坡综合,74.91.26.218
-那坡综合,live.264788.xyz
-都安综合,69.30.245.50
-都安综合,74.91.26.218
-都安综合,live.264788.xyz
-钦州公共,69.30.245.50
-钦州公共,74.91.26.218
-钦州公共,live.264788.xyz
-钦州综合,69.30.245.50
-钦州综合,74.91.26.218
-钦州综合,live.264788.xyz
-靖西综合,69.30.245.50
-靖西综合,74.91.26.218
-靖西综合,live.264788.xyz
-龙州综合,69.30.245.50
-龙州综合,74.91.26.218
-龙州综合,live.264788.xyz
-广西新闻,69.30.245.50
-广西新闻,74.91.26.218
-广西新闻,live.264788.xyz
-北海新闻,69.30.245.50
-北海新闻,74.91.26.218
-北海新闻,live.264788.xyz
-桂林新闻,69.30.245.50
-桂林新闻,74.91.26.218
-桂林新闻,live.264788.xyz
-广西贺州,69.30.245.50
-广西贺州,74.91.26.218
-广西贺州,live.264788.xyz
-广西国际,69.30.245.50
-广西国际,74.91.26.218
-广西国际,live.264788.xyz
-广西乐思购,69.30.245.50
-广西乐思购,74.91.26.218
-广西乐思购,live.264788.xyz
 
 ☘️天津频道,#genre#
-宁河新闻,69.30.245.50
-宁河新闻,74.91.26.218
-宁河新闻,live.264788.xyz
-滨海新闻,69.30.245.50
-滨海新闻,74.91.26.218
-滨海新闻,live.264788.xyz
-滨海综艺,69.30.245.50
-滨海综艺,74.91.26.218
-滨海综艺,live.264788.xyz
-滨海影院,69.30.245.50
-滨海影院,74.91.26.218
-滨海影院,live.264788.xyz
-津南一套,69.30.245.50
-津南一套,74.91.26.218
-津南一套,live.264788.xyz
-武清综合,69.30.245.50
-武清综合,74.91.26.218
-武清综合,live.264788.xyz
-天津都市,69.30.245.50
-天津都市,74.91.26.218
-天津都市,live.264788.xyz
-天津新闻,69.30.245.50
-天津新闻,74.91.26.218
-天津新闻,live.264788.xyz
-天津文艺,69.30.245.50
-天津文艺,74.91.26.218
-天津文艺,live.264788.xyz
 
 ☘️四川频道,#genre#
-四川科教,69.30.245.50
-四川科教,74.91.26.218
-四川科教,live.264788.xyz
-康巴卫视,69.30.245.50
-康巴卫视,74.91.26.218
-康巴卫视,live.264788.xyz
-万源新闻综合,69.30.245.50
-万源新闻综合,74.91.26.218
-万源新闻综合,live.264788.xyz
-东兴综合,69.30.245.50
-东兴综合,74.91.26.218
-东兴综合,live.264788.xyz
-乐山公共,69.30.245.50
-乐山公共,74.91.26.218
-乐山公共,live.264788.xyz
-乐山新闻综合,69.30.245.50
-乐山新闻综合,74.91.26.218
-乐山新闻综合,live.264788.xyz
-乐至综合,69.30.245.50
-乐至综合,74.91.26.218
-乐至综合,live.264788.xyz
-九寨沟新闻综合,69.30.245.50
-九寨沟新闻综合,74.91.26.218
-九寨沟新闻综合,live.264788.xyz
-井研综合,69.30.245.50
-井研综合,74.91.26.218
-井研综合,live.264788.xyz
-什邡新闻,69.30.245.50
-什邡新闻,74.91.26.218
-什邡新闻,live.264788.xyz
-仁和综合,69.30.245.50
-仁和综合,74.91.26.218
-仁和综合,live.264788.xyz
-仁寿综合,69.30.245.50
-仁寿综合,74.91.26.218
-仁寿综合,live.264788.xyz
-凉山语,69.30.245.50
-凉山语,74.91.26.218
-凉山语,live.264788.xyz
-利州综合,69.30.245.50
-利州综合,74.91.26.218
-利州综合,live.264788.xyz
-前锋电视台,69.30.245.50
-前锋电视台,74.91.26.218
-前锋电视台,live.264788.xyz
-剑阁综合,69.30.245.50
-剑阁综合,74.91.26.218
-剑阁综合,live.264788.xyz
-北川电视一套,69.30.245.50
-北川电视一套,74.91.26.218
-北川电视一套,live.264788.xyz
-南充公共,69.30.245.50
-南充公共,74.91.26.218
-南充公共,live.264788.xyz
-南充新闻,69.30.245.50
-南充新闻,74.91.26.218
-南充新闻,live.264788.xyz
-南充科教,69.30.245.50
-南充科教,74.91.26.218
-南充科教,live.264788.xyz
-双流综合,69.30.245.50
-双流综合,74.91.26.218
-双流综合,live.264788.xyz
-叙州新闻综合,69.30.245.50
-叙州新闻综合,74.91.26.218
-叙州新闻综合,live.264788.xyz
-叙永综合,69.30.245.50
-叙永综合,74.91.26.218
-叙永综合,live.264788.xyz
-大竹新闻综合,69.30.245.50
-大竹新闻综合,74.91.26.218
-大竹新闻综合,live.264788.xyz
-大竹阳光政务,69.30.245.50
-大竹阳光政务,74.91.26.218
-大竹阳光政务,live.264788.xyz
-夹江新闻综合,69.30.245.50
-夹江新闻综合,74.91.26.218
-夹江新闻综合,live.264788.xyz
-威远新闻综合,69.30.245.50
-威远新闻综合,74.91.26.218
-威远新闻综合,live.264788.xyz
-宁南综合,69.30.245.50
-宁南综合,74.91.26.218
-宁南综合,live.264788.xyz
-安岳综合,69.30.245.50
-安岳综合,74.91.26.218
-安岳综合,live.264788.xyz
-宜宾公共,69.30.245.50
-宜宾公共,74.91.26.218
-宜宾公共,live.264788.xyz
-宜宾新闻综合,69.30.245.50
-宜宾新闻综合,74.91.26.218
-宜宾新闻综合,live.264788.xyz
-宝兴综合,69.30.245.50
-宝兴综合,74.91.26.218
-宝兴综合,live.264788.xyz
-小金综合,69.30.245.50
-小金综合,74.91.26.218
-小金综合,live.264788.xyz
-岳池新闻综合,69.30.245.50
-岳池新闻综合,74.91.26.218
-岳池新闻综合,live.264788.xyz
-峨边电视台,69.30.245.50
-峨边电视台,74.91.26.218
-峨边电视台,live.264788.xyz
-平昌新闻综合,69.30.245.50
-平昌新闻综合,74.91.26.218
-平昌新闻综合,live.264788.xyz
-平武综合,69.30.245.50
-平武综合,74.91.26.218
-平武综合,live.264788.xyz
-广元文化生活,69.30.245.50
-广元文化生活,74.91.26.218
-广元文化生活,live.264788.xyz
-广元综合,69.30.245.50
-广元综合,74.91.26.218
-广元综合,live.264788.xyz
-广安公共,69.30.245.50
-广安公共,74.91.26.218
-广安公共,live.264788.xyz
-康定综合,69.30.245.50
-康定综合,74.91.26.218
-康定综合,live.264788.xyz
-开江新闻综合,69.30.245.50
-开江新闻综合,74.91.26.218
-开江新闻综合,live.264788.xyz
-德阳新闻综合,69.30.245.50
-德阳新闻综合,74.91.26.218
-德阳新闻综合,live.264788.xyz
-成都高新电视,69.30.245.50
-成都高新电视,74.91.26.218
-成都高新电视,live.264788.xyz
-攀枝花新闻综合,69.30.245.50
-攀枝花新闻综合,74.91.26.218
-攀枝花新闻综合,live.264788.xyz
-新都综合,69.30.245.50
-新都综合,74.91.26.218
-新都综合,live.264788.xyz
-旺苍新闻综合,69.30.245.50
-旺苍新闻综合,74.91.26.218
-旺苍新闻综合,live.264788.xyz
-昭化综合,69.30.245.50
-昭化综合,74.91.26.218
-昭化综合,live.264788.xyz
-朝天综合,69.30.245.50
-朝天综合,74.91.26.218
-朝天综合,live.264788.xyz
-松潘新闻综合,69.30.245.50
-松潘新闻综合,74.91.26.218
-松潘新闻综合,live.264788.xyz
-梓潼新闻综合,69.30.245.50
-梓潼新闻综合,74.91.26.218
-梓潼新闻综合,live.264788.xyz
-武胜综合,69.30.245.50
-武胜综合,74.91.26.218
-武胜综合,live.264788.xyz
-汉源综合,69.30.245.50
-汉源综合,74.91.26.218
-汉源综合,live.264788.xyz
-江油新闻综合,69.30.245.50
-江油新闻综合,74.91.26.218
-江油新闻综合,live.264788.xyz
-汶川新闻综合,69.30.245.50
-汶川新闻综合,74.91.26.218
-汶川新闻综合,live.264788.xyz
-沙湾综合,69.30.245.50
-沙湾综合,74.91.26.218
-沙湾综合,live.264788.xyz
-渠县新闻综合,69.30.245.50
-渠县新闻综合,74.91.26.218
-渠县新闻综合,live.264788.xyz
-珙县综合,69.30.245.50
-珙县综合,74.91.26.218
-珙县综合,live.264788.xyz
-甘孜综合,69.30.245.50
-甘孜综合,74.91.26.218
-甘孜综合,live.264788.xyz
-甘洛综合,69.30.245.50
-甘洛综合,74.91.26.218
-甘洛综合,live.264788.xyz
-盐亭综合,69.30.245.50
-盐亭综合,74.91.26.218
-盐亭综合,live.264788.xyz
-石棉综合,69.30.245.50
-石棉综合,74.91.26.218
-石棉综合,live.264788.xyz
-筠连综合,69.30.245.50
-筠连综合,74.91.26.218
-筠连综合,live.264788.xyz
-纳溪新闻,69.30.245.50
-纳溪新闻,74.91.26.218
-纳溪新闻,live.264788.xyz
-绵阳科技,69.30.245.50
-绵阳科技,74.91.26.218
-绵阳科技,live.264788.xyz
-绵阳综合,69.30.245.50
-绵阳综合,74.91.26.218
-绵阳综合,live.264788.xyz
-茂县综合,69.30.245.50
-茂县综合,74.91.26.218
-茂县综合,live.264788.xyz
-荥经综合,69.30.245.50
-荥经综合,74.91.26.218
-荥经综合,live.264788.xyz
-营山电视台,69.30.245.50
-营山电视台,74.91.26.218
-营山电视台,live.264788.xyz
-蓬安新闻综合,69.30.245.50
-蓬安新闻综合,74.91.26.218
-蓬安新闻综合,live.264788.xyz
-蓬溪新闻综合,69.30.245.50
-蓬溪新闻综合,74.91.26.218
-蓬溪新闻综合,live.264788.xyz
-西昌综合,69.30.245.50
-西昌综合,74.91.26.218
-西昌综合,live.264788.xyz
-遂宁公共,69.30.245.50
-遂宁公共,74.91.26.218
-遂宁公共,live.264788.xyz
-遂宁新闻综合,69.30.245.50
-遂宁新闻综合,74.91.26.218
-遂宁新闻综合,live.264788.xyz
-邻水新闻综合,69.30.245.50
-邻水新闻综合,74.91.26.218
-邻水新闻综合,live.264788.xyz
-金口河综合,69.30.245.50
-金口河综合,74.91.26.218
-金口河综合,live.264788.xyz
-金堂电视台,69.30.245.50
-金堂电视台,74.91.26.218
-金堂电视台,live.264788.xyz
-金川乡村,69.30.245.50
-金川乡村,74.91.26.218
-金川乡村,live.264788.xyz
-金川新闻综合,69.30.245.50
-金川新闻综合,74.91.26.218
-金川新闻综合,live.264788.xyz
-金阳综合,69.30.245.50
-金阳综合,74.91.26.218
-金阳综合,live.264788.xyz
-长宁综合,69.30.245.50
-长宁综合,74.91.26.218
-长宁综合,live.264788.xyz
-阿坝文艺,69.30.245.50
-阿坝文艺,74.91.26.218
-阿坝文艺,live.264788.xyz
-阿坝综合,69.30.245.50
-阿坝综合,74.91.26.218
-阿坝综合,live.264788.xyz
-隆昌新闻综合,69.30.245.50
-隆昌新闻综合,74.91.26.218
-隆昌新闻综合,live.264788.xyz
-雅安公共,69.30.245.50
-雅安公共,74.91.26.218
-雅安公共,live.264788.xyz
-雅安新闻综合,69.30.245.50
-雅安新闻综合,74.91.26.218
-雅安新闻综合,live.264788.xyz
-雅安雨城,69.30.245.50
-雅安雨城,74.91.26.218
-雅安雨城,live.264788.xyz
-青川综合,69.30.245.50
-青川综合,74.91.26.218
-青川综合,live.264788.xyz
-青神综合,69.30.245.50
-青神综合,74.91.26.218
-青神综合,live.264788.xyz
-马尔康综合,69.30.245.50
-马尔康综合,74.91.26.218
-马尔康综合,live.264788.xyz
-马边电视台,69.30.245.50
-马边电视台,74.91.26.218
-马边电视台,live.264788.xyz
-龙泉驿新闻综合,69.30.245.50
-龙泉驿新闻综合,74.91.26.218
-龙泉驿新闻综合,live.264788.xyz
 
 ☘️陕西频道,#genre#
-陕西一套新闻资讯,69.30.245.50
-陕西一套新闻资讯,74.91.26.218
-陕西一套新闻资讯,live.264788.xyz
-陕西二套都市青春,69.30.245.50
-陕西二套都市青春,74.91.26.218
-陕西二套都市青春,live.264788.xyz
-陕西三套生活,69.30.245.50
-陕西三套生活,74.91.26.218
-陕西三套生活,live.264788.xyz
-陕西五套公共,69.30.245.50
-陕西五套公共,74.91.26.218
-陕西五套公共,live.264788.xyz
-陕西七套体育休闲,69.30.245.50
-陕西七套体育休闲,74.91.26.218
-陕西七套体育休闲,live.264788.xyz
-陕西农林卫视,69.30.245.50
-陕西农林卫视,74.91.26.218
-陕西农林卫视,live.264788.xyz
-延安一套新闻综合,69.30.245.50
-延安一套新闻综合,74.91.26.218
-延安一套新闻综合,live.264788.xyz
-延安二套公共,69.30.245.50
-延安二套公共,74.91.26.218
-延安二套公共,live.264788.xyz
-陕西农林,69.30.245.50
-陕西农林,74.91.26.218
-陕西农林,live.264788.xyz
-陕西新闻资讯,69.30.245.50
-陕西新闻资讯,74.91.26.218
-陕西新闻资讯,live.264788.xyz
-陕西都市青春,69.30.245.50
-陕西都市青春,74.91.26.218
-陕西都市青春,live.264788.xyz
-陕西生活,69.30.245.50
-陕西生活,74.91.26.218
-陕西生活,live.264788.xyz
-陕西公共,69.30.245.50
-陕西公共,74.91.26.218
-陕西公共,live.264788.xyz
-陕西购物,69.30.245.50
-陕西购物,74.91.26.218
-陕西购物,live.264788.xyz
-陕西体育休闲,69.30.245.50
-陕西体育休闲,74.91.26.218
-陕西体育休闲,live.264788.xyz
-陕西影视,69.30.245.50
-陕西影视,74.91.26.218
-陕西影视,live.264788.xyz
-汉中综合,69.30.245.50
-汉中综合,74.91.26.218
-汉中综合,live.264788.xyz
-洋县电视台,69.30.245.50
-洋县电视台,74.91.26.218
-洋县电视台,live.264788.xyz
 
 ☘️福建频道,#genre#
-福州综合,69.30.245.50
-福州综合,74.91.26.218
-福州综合,live.264788.xyz
-福州生活,69.30.245.50
-福州生活,74.91.26.218
-福州生活,live.264788.xyz
-福州少儿,69.30.245.50
-福州少儿,74.91.26.218
-福州少儿,live.264788.xyz
-三明公共,69.30.245.50
-三明公共,74.91.26.218
-三明公共,live.264788.xyz
-三明新闻综合,69.30.245.50
-三明新闻综合,74.91.26.218
-三明新闻综合,live.264788.xyz
-云霄综合,69.30.245.50
-云霄综合,74.91.26.218
-云霄综合,live.264788.xyz
-厦门卫视,69.30.245.50
-厦门卫视,74.91.26.218
-厦门卫视,live.264788.xyz
 厦门卫视,https://live.264788.xyz/channel/xiamenweishi?streamid=59b4bebbc553075be2ddecfe210b863a&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-宁化电视一套,69.30.245.50
-宁化电视一套,74.91.26.218
-宁化电视一套,live.264788.xyz
-将乐综合,69.30.245.50
-将乐综合,74.91.26.218
-将乐综合,live.264788.xyz
-建宁综合,69.30.245.50
-建宁综合,74.91.26.218
-建宁综合,live.264788.xyz
-德化新闻综合,69.30.245.50
-德化新闻综合,74.91.26.218
-德化新闻综合,live.264788.xyz
-新罗电视一套,69.30.245.50
-新罗电视一套,74.91.26.218
-新罗电视一套,live.264788.xyz
-晋江电视台,69.30.245.50
-晋江电视台,74.91.26.218
-晋江电视台,live.264788.xyz
-永安综合,69.30.245.50
-永安综合,74.91.26.218
-永安综合,live.264788.xyz
-永泰综合,69.30.245.50
-永泰综合,74.91.26.218
-永泰综合,live.264788.xyz
-泰宁新闻,69.30.245.50
-泰宁新闻,74.91.26.218
-泰宁新闻,live.264788.xyz
-漳州新闻综合,69.30.245.50
-漳州新闻综合,74.91.26.218
-漳州新闻综合,live.264788.xyz
-漳浦综合,69.30.245.50
-漳浦综合,74.91.26.218
-漳浦综合,live.264788.xyz
-石狮综合,69.30.245.50
-石狮综合,74.91.26.218
-石狮综合,live.264788.xyz
-福州影院,69.30.245.50
-福州影院,74.91.26.218
-福州影院,live.264788.xyz
-霞浦综合,69.30.245.50
-霞浦综合,74.91.26.218
-霞浦综合,live.264788.xyz
-龙岩公共,69.30.245.50
-龙岩公共,74.91.26.218
-龙岩公共,live.264788.xyz
-龙岩新闻综合,69.30.245.50
-龙岩新闻综合,74.91.26.218
-龙岩新闻综合,live.264788.xyz
-福建文体,69.30.245.50
-福建文体,74.91.26.218
-福建文体,live.264788.xyz
 福建文体,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建新闻,69.30.245.50
-福建新闻,74.91.26.218
-福建新闻,live.264788.xyz
 福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建电视剧,69.30.245.50
-福建电视剧,74.91.26.218
-福建电视剧,live.264788.xyz
 福建电视剧,https://live.264788.xyz/channel/fujiandianshiju?streamid=c26b66c59ee4773061c78154e5877244&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建经济,69.30.245.50
-福建经济,74.91.26.218
-福建经济,live.264788.xyz
-福建综合,69.30.245.50
-福建综合,74.91.26.218
-福建综合,live.264788.xyz
 福建综合,https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建公共,69.30.245.50
-福建公共,74.91.26.218
-福建公共,live.264788.xyz
-福建旅游,69.30.245.50
-福建旅游,74.91.26.218
-福建旅游,live.264788.xyz
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建经视,69.30.245.50
-福建经视,74.91.26.218
-福建经视,live.264788.xyz
-福建少儿,69.30.245.50
-福建少儿,74.91.26.218
-福建少儿,live.264788.xyz
 福建少儿,https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建海峡卫视,69.30.245.50
-福建海峡卫视,74.91.26.218
-福建海峡卫视,live.264788.xyz
-漳州新闻,69.30.245.50
-漳州新闻,74.91.26.218
-漳州新闻,live.264788.xyz
-龙岩综合,69.30.245.50
-龙岩综合,74.91.26.218
-龙岩综合,live.264788.xyz
 
 ☘️海南频道,#genre#
-海南新闻,69.30.245.50
-海南新闻,74.91.26.218
-海南新闻,live.264788.xyz
-海南自贸,69.30.245.50
-海南自贸,74.91.26.218
-海南自贸,live.264788.xyz
-海南文旅,69.30.245.50
-海南文旅,74.91.26.218
-海南文旅,live.264788.xyz
-海南少儿,69.30.245.50
-海南少儿,74.91.26.218
-海南少儿,live.264788.xyz
-海南公共,69.30.245.50
-海南公共,74.91.26.218
-海南公共,live.264788.xyz
-海南电视台经济,69.30.245.50
-海南电视台经济,74.91.26.218
-海南电视台经济,live.264788.xyz
-海口一套综合,69.30.245.50
-海口一套综合,74.91.26.218
-海口一套综合,live.264788.xyz
-海口二套生活娱乐,69.30.245.50
-海口二套生活娱乐,74.91.26.218
-海口二套生活娱乐,live.264788.xyz
-海口三套城乡经济,69.30.245.50
-海口三套城乡经济,74.91.26.218
-海口三套城乡经济,live.264788.xyz
 
 ☘️河南频道,#genre#
-临颍综合,69.30.245.50
-临颍综合,74.91.26.218
-临颍综合,live.264788.xyz
-义马新闻综合,69.30.245.50
-义马新闻综合,74.91.26.218
-义马新闻综合,live.264788.xyz
-光山综合,69.30.245.50
-光山综合,74.91.26.218
-光山综合,live.264788.xyz
-兰考新闻,69.30.245.50
-兰考新闻,74.91.26.218
-兰考新闻,live.264788.xyz
-卫辉综合,69.30.245.50
-卫辉综合,74.91.26.218
-卫辉综合,live.264788.xyz
-叶县,69.30.245.50
-叶县,74.91.26.218
-叶县,live.264788.xyz
-周口扶沟,69.30.245.50
-周口扶沟,74.91.26.218
-周口扶沟,live.264788.xyz
-唐河一套,69.30.245.50
-唐河一套,74.91.26.218
-唐河一套,live.264788.xyz
-固始综合,69.30.245.50
-固始综合,74.91.26.218
-固始综合,live.264788.xyz
-宝丰综合,69.30.245.50
-宝丰综合,74.91.26.218
-宝丰综合,live.264788.xyz
-巩义新闻综合,69.30.245.50
-巩义新闻综合,74.91.26.218
-巩义新闻综合,live.264788.xyz
-扶沟综合,69.30.245.50
-扶沟综合,74.91.26.218
-扶沟综合,live.264788.xyz
-新乡县电视台,69.30.245.50
-新乡县电视台,74.91.26.218
-新乡县电视台,live.264788.xyz
-新县综合,69.30.245.50
-新县综合,74.91.26.218
-新县综合,live.264788.xyz
-新蔡综合,69.30.245.50
-新蔡综合,74.91.26.218
-新蔡综合,live.264788.xyz
-桐柏新闻综合,69.30.245.50
-桐柏新闻综合,74.91.26.218
-桐柏新闻综合,live.264788.xyz
-泌阳新闻综合,69.30.245.50
-泌阳新闻综合,74.91.26.218
-泌阳新闻综合,live.264788.xyz
-淅川电视,69.30.245.50
-淅川电视,74.91.26.218
-淅川电视,live.264788.xyz
-渑池新闻综合,69.30.245.50
-渑池新闻综合,74.91.26.218
-渑池新闻综合,live.264788.xyz
-温县综合,69.30.245.50
-温县综合,74.91.26.218
-温县综合,live.264788.xyz
-潢川综合,69.30.245.50
-潢川综合,74.91.26.218
-潢川综合,live.264788.xyz
-焦作综合,69.30.245.50
-焦作综合,74.91.26.218
-焦作综合,live.264788.xyz
-登封综合,69.30.245.50
-登封综合,74.91.26.218
-登封综合,live.264788.xyz
-西华综合,69.30.245.50
-西华综合,74.91.26.218
-西华综合,live.264788.xyz
-郏县综合,69.30.245.50
-郏县综合,74.91.26.218
-郏县综合,live.264788.xyz
-郸城新闻综合,69.30.245.50
-郸城新闻综合,74.91.26.218
-郸城新闻综合,live.264788.xyz
-鄢陵综合,69.30.245.50
-鄢陵综合,74.91.26.218
-鄢陵综合,live.264788.xyz
-项城新闻,69.30.245.50
-项城新闻,74.91.26.218
-项城新闻,live.264788.xyz
-鹤壁综合,69.30.245.50
-鹤壁综合,74.91.26.218
-鹤壁综合,live.264788.xyz
-邓州新闻,69.30.245.50
-邓州新闻,74.91.26.218
-邓州新闻,live.264788.xyz
-许昌农业科教,69.30.245.50
-许昌农业科教,74.91.26.218
-许昌农业科教,live.264788.xyz
-许昌公共,69.30.245.50
-许昌公共,74.91.26.218
-许昌公共,live.264788.xyz
-荥阳综合,69.30.245.50
-荥阳综合,74.91.26.218
-荥阳综合,live.264788.xyz
-禹州综合,69.30.245.50
-禹州综合,74.91.26.218
-禹州综合,live.264788.xyz
-禹州公共,69.30.245.50
-禹州公共,74.91.26.218
-禹州公共,live.264788.xyz
-睛彩许昌,69.30.245.50
-睛彩许昌,74.91.26.218
-睛彩许昌,live.264788.xyz
-睛彩焦作,69.30.245.50
-睛彩焦作,74.91.26.218
-睛彩焦作,live.264788.xyz
-焦作教育,69.30.245.50
-焦作教育,74.91.26.218
-焦作教育,live.264788.xyz
-焦作公共,69.30.245.50
-焦作公共,74.91.26.218
-焦作公共,live.264788.xyz
-灵宝新闻综合,69.30.245.50
-灵宝新闻综合,74.91.26.218
-灵宝新闻综合,live.264788.xyz
-濮阳公共,69.30.245.50
-濮阳公共,74.91.26.218
-濮阳公共,live.264788.xyz
-滑县新闻,69.30.245.50
-滑县新闻,74.91.26.218
-滑县新闻,live.264788.xyz
-济源电视一套,69.30.245.50
-济源电视一套,74.91.26.218
-济源电视一套,live.264788.xyz
-洛阳综合,69.30.245.50
-洛阳综合,74.91.26.218
-洛阳综合,live.264788.xyz
-洛阳科教,69.30.245.50
-洛阳科教,74.91.26.218
-洛阳科教,live.264788.xyz
-洛阳文旅,69.30.245.50
-洛阳文旅,74.91.26.218
-洛阳文旅,live.264788.xyz
-河南都市,69.30.245.50
-河南都市,74.91.26.218
-河南都市,live.264788.xyz
-河南民生,69.30.245.50
-河南民生,74.91.26.218
-河南民生,live.264788.xyz
-沁阳新闻综合,69.30.245.50
-沁阳新闻综合,74.91.26.218
-沁阳新闻综合,live.264788.xyz
-永城综合,69.30.245.50
-永城综合,74.91.26.218
-永城综合,live.264788.xyz
-永城卫建,69.30.245.50
-永城卫建,74.91.26.218
-永城卫建,live.264788.xyz
-方城一套,69.30.245.50
-方城一套,74.91.26.218
-方城一套,live.264788.xyz
-新野综合,69.30.245.50
-新野综合,74.91.26.218
-新野综合,live.264788.xyz
-新安新闻综合,69.30.245.50
-新安新闻综合,74.91.26.218
-新安新闻综合,live.264788.xyz
-开封新闻综合,69.30.245.50
-开封新闻综合,74.91.26.218
-开封新闻综合,live.264788.xyz
-开封文化旅游,69.30.245.50
-开封文化旅游,74.91.26.218
-开封文化旅游,live.264788.xyz
-嵩县综合新闻,69.30.245.50
-嵩县综合新闻,74.91.26.218
-嵩县综合新闻,live.264788.xyz
-宜阳综合,69.30.245.50
-宜阳综合,74.91.26.218
-宜阳综合,live.264788.xyz
-周口新闻综合,69.30.245.50
-周口新闻综合,74.91.26.218
-周口新闻综合,live.264788.xyz
-内黄综合,69.30.245.50
-内黄综合,74.91.26.218
-内黄综合,live.264788.xyz
-内乡综合,69.30.245.50
-内乡综合,74.91.26.218
-内乡综合,live.264788.xyz
-偃师新闻,69.30.245.50
-偃师新闻,74.91.26.218
-偃师新闻,live.264788.xyz
 
 ☘️河北频道,#genre#
-河北4K,69.30.245.50
-河北4K,74.91.26.218
-河北4K,live.264788.xyz
-鹿泉一套,69.30.245.50
-鹿泉一套,74.91.26.218
-鹿泉一套,live.264788.xyz
-邯郸科技教育,69.30.245.50
-邯郸科技教育,74.91.26.218
-邯郸科技教育,live.264788.xyz
-邯郸公共,69.30.245.50
-邯郸公共,74.91.26.218
-邯郸公共,live.264788.xyz
-邯郸新闻,69.30.245.50
-邯郸新闻,74.91.26.218
-邯郸新闻,live.264788.xyz
-邯郸科教,69.30.245.50
-邯郸科教,74.91.26.218
-邯郸科教,live.264788.xyz
-邢台综合,69.30.245.50
-邢台综合,74.91.26.218
-邢台综合,live.264788.xyz
-邢台城生,69.30.245.50
-邢台城生,74.91.26.218
-邢台城生,live.264788.xyz
-衡水公共,69.30.245.50
-衡水公共,74.91.26.218
-衡水公共,live.264788.xyz
-石家庄都市,69.30.245.50
-石家庄都市,74.91.26.218
-石家庄都市,live.264788.xyz
-石家庄生活,69.30.245.50
-石家庄生活,74.91.26.218
-石家庄生活,live.264788.xyz
-石家庄新闻综合,69.30.245.50
-石家庄新闻综合,74.91.26.218
-石家庄新闻综合,live.264788.xyz
-石家庄娱乐,69.30.245.50
-石家庄娱乐,74.91.26.218
-石家庄娱乐,live.264788.xyz
-滦平新闻,69.30.245.50
-滦平新闻,74.91.26.218
-滦平新闻,live.264788.xyz
-河北都市,69.30.245.50
-河北都市,74.91.26.218
-河北都市,live.264788.xyz
-河北农民,69.30.245.50
-河北农民,74.91.26.218
-河北农民,live.264788.xyz
-昌黎综合,69.30.245.50
-昌黎综合,74.91.26.218
-昌黎综合,live.264788.xyz
-任丘文娱,69.30.245.50
-任丘文娱,74.91.26.218
-任丘文娱,live.264788.xyz
-任丘综合,69.30.245.50
-任丘综合,74.91.26.218
-任丘综合,live.264788.xyz
-兴隆综合,69.30.245.50
-兴隆综合,74.91.26.218
-兴隆综合,live.264788.xyz
-大厂一套,69.30.245.50
-大厂一套,74.91.26.218
-大厂一套,live.264788.xyz
-平泉影视,69.30.245.50
-平泉影视,74.91.26.218
-平泉影视,live.264788.xyz
-平泉综合,69.30.245.50
-平泉综合,74.91.26.218
-平泉综合,live.264788.xyz
-昌黎,69.30.245.50
-昌黎,74.91.26.218
-昌黎,live.264788.xyz
-清河新闻综合,69.30.245.50
-清河新闻综合,74.91.26.218
-清河新闻综合,live.264788.xyz
-清河经济综艺,69.30.245.50
-清河经济综艺,74.91.26.218
-清河经济综艺,live.264788.xyz
-衡山,69.30.245.50
-衡山,74.91.26.218
-衡山,live.264788.xyz
 
 ☘️贵州频道,#genre#
-松桃新闻,69.30.245.50
-松桃新闻,74.91.26.218
-松桃新闻,live.264788.xyz
-石阡新闻,69.30.245.50
-石阡新闻,74.91.26.218
-石阡新闻,live.264788.xyz
-七星关电视台,69.30.245.50
-七星关电视台,74.91.26.218
-七星关电视台,live.264788.xyz
-道真新闻综合,69.30.245.50
-道真新闻综合,74.91.26.218
-道真新闻综合,live.264788.xyz
-凤冈综合,69.30.245.50
-凤冈综合,74.91.26.218
-凤冈综合,live.264788.xyz
-黔南一套,69.30.245.50
-黔南一套,74.91.26.218
-黔南一套,live.264788.xyz
-黔南二套,69.30.245.50
-黔南二套,74.91.26.218
-黔南二套,live.264788.xyz
-安顺新闻,69.30.245.50
-安顺新闻,74.91.26.218
-安顺新闻,live.264788.xyz
-清镇新闻综合,69.30.245.50
-清镇新闻综合,74.91.26.218
-清镇新闻综合,live.264788.xyz
-思南综合,69.30.245.50
-思南综合,74.91.26.218
-思南综合,live.264788.xyz
-松新闻,69.30.245.50
-松新闻,74.91.26.218
-松新闻,live.264788.xyz
-罗甸综合,69.30.245.50
-罗甸综合,74.91.26.218
-罗甸综合,live.264788.xyz
-湄潭综合,69.30.245.50
-湄潭综合,74.91.26.218
-湄潭综合,live.264788.xyz
-仁怀新闻,69.30.245.50
-仁怀新闻,74.91.26.218
-仁怀新闻,live.264788.xyz
-贵州2,69.30.245.50
-贵州2,74.91.26.218
-贵州2,live.264788.xyz
-贵州3,69.30.245.50
-贵州3,74.91.26.218
-贵州3,live.264788.xyz
-贵州4,69.30.245.50
-贵州4,74.91.26.218
-贵州4,live.264788.xyz
-贵州5,69.30.245.50
-贵州5,74.91.26.218
-贵州5,live.264788.xyz
-贵州6,69.30.245.50
-贵州6,74.91.26.218
-贵州6,live.264788.xyz
-贵州移动电视,69.30.245.50
-贵州移动电视,74.91.26.218
-贵州移动电视,live.264788.xyz
-遵义新闻综合,69.30.245.50
-遵义新闻综合,74.91.26.218
-遵义新闻综合,live.264788.xyz
-遵义公共,69.30.245.50
-遵义公共,74.91.26.218
-遵义公共,live.264788.xyz
 
 ☘️甘肃频道,#genre#
-甘肃经济,69.30.245.50
-甘肃经济,74.91.26.218
-甘肃经济,live.264788.xyz
-甘肃公共,69.30.245.50
-甘肃公共,74.91.26.218
-甘肃公共,live.264788.xyz
-甘肃都市,69.30.245.50
-甘肃都市,74.91.26.218
-甘肃都市,live.264788.xyz
-甘肃文化,69.30.245.50
-甘肃文化,74.91.26.218
-甘肃文化,live.264788.xyz
-甘肃少儿,69.30.245.50
-甘肃少儿,74.91.26.218
-甘肃少儿,live.264788.xyz
-临夏州公共,69.30.245.50
-临夏州公共,74.91.26.218
-临夏州公共,live.264788.xyz
-临夏州综合,69.30.245.50
-临夏州综合,74.91.26.218
-临夏州综合,live.264788.xyz
-临夏市电视台,69.30.245.50
-临夏市电视台,74.91.26.218
-临夏市电视台,live.264788.xyz
-临洮综合,69.30.245.50
-临洮综合,74.91.26.218
-临洮综合,live.264788.xyz
-临潭综合,69.30.245.50
-临潭综合,74.91.26.218
-临潭综合,live.264788.xyz
-华亭综合,69.30.245.50
-华亭综合,74.91.26.218
-华亭综合,live.264788.xyz
-华池综合,69.30.245.50
-华池综合,74.91.26.218
-华池综合,live.264788.xyz
-卓尼综合,69.30.245.50
-卓尼综合,74.91.26.218
-卓尼综合,live.264788.xyz
-合水综合,69.30.245.50
-合水综合,74.91.26.218
-合水综合,live.264788.xyz
-嘉峪关综合,69.30.245.50
-嘉峪关综合,74.91.26.218
-嘉峪关综合,live.264788.xyz
-夏河综合,69.30.245.50
-夏河综合,74.91.26.218
-夏河综合,live.264788.xyz
-天水公共,69.30.245.50
-天水公共,74.91.26.218
-天水公共,live.264788.xyz
-天水新闻综合,69.30.245.50
-天水新闻综合,74.91.26.218
-天水新闻综合,live.264788.xyz
-天祝综合,69.30.245.50
-天祝综合,74.91.26.218
-天祝综合,live.264788.xyz
-宁县综合,69.30.245.50
-宁县综合,74.91.26.218
-宁县综合,live.264788.xyz
-定西公共,69.30.245.50
-定西公共,74.91.26.218
-定西公共,live.264788.xyz
-定西综合,69.30.245.50
-定西综合,74.91.26.218
-定西综合,live.264788.xyz
-岷县综合,69.30.245.50
-岷县综合,74.91.26.218
-岷县综合,live.264788.xyz
-崆峒综合,69.30.245.50
-崆峒综合,74.91.26.218
-崆峒综合,live.264788.xyz
-崇信综合,69.30.245.50
-崇信综合,74.91.26.218
-崇信综合,live.264788.xyz
-平凉公共,69.30.245.50
-平凉公共,74.91.26.218
-平凉公共,live.264788.xyz
-平凉新闻综合,69.30.245.50
-平凉新闻综合,74.91.26.218
-平凉新闻综合,live.264788.xyz
-庆城综合,69.30.245.50
-庆城综合,74.91.26.218
-庆城综合,live.264788.xyz
-张掖公共,69.30.245.50
-张掖公共,74.91.26.218
-张掖公共,live.264788.xyz
-张掖新闻综合,69.30.245.50
-张掖新闻综合,74.91.26.218
-张掖新闻综合,live.264788.xyz
-徽县综合,69.30.245.50
-徽县综合,74.91.26.218
-徽县综合,live.264788.xyz
-成县综合,69.30.245.50
-成县综合,74.91.26.218
-成县综合,live.264788.xyz
-敦煌综合,69.30.245.50
-敦煌综合,74.91.26.218
-敦煌综合,live.264788.xyz
-景泰综合,69.30.245.50
-景泰综合,74.91.26.218
-景泰综合,live.264788.xyz
-正宁综合,69.30.245.50
-正宁综合,74.91.26.218
-正宁综合,live.264788.xyz
-武威凉州,69.30.245.50
-武威凉州,74.91.26.218
-武威凉州,live.264788.xyz
-武威新闻,69.30.245.50
-武威新闻,74.91.26.218
-武威新闻,live.264788.xyz
-武山综合,69.30.245.50
-武山综合,74.91.26.218
-武山综合,live.264788.xyz
-武都综合,69.30.245.50
-武都综合,74.91.26.218
-武都综合,live.264788.xyz
-民乐新闻,69.30.245.50
-民乐新闻,74.91.26.218
-民乐新闻,live.264788.xyz
-民勤综合,69.30.245.50
-民勤综合,74.91.26.218
-民勤综合,live.264788.xyz
-永昌综合,69.30.245.50
-永昌综合,74.91.26.218
-永昌综合,live.264788.xyz
-永靖综合,69.30.245.50
-永靖综合,74.91.26.218
-永靖综合,live.264788.xyz
-泾川综合,69.30.245.50
-泾川综合,74.91.26.218
-泾川综合,live.264788.xyz
-渭源新闻,69.30.245.50
-渭源新闻,74.91.26.218
-渭源新闻,live.264788.xyz
-漳县新闻综合,69.30.245.50
-漳县新闻综合,74.91.26.218
-漳县新闻综合,live.264788.xyz
-灵台综合,69.30.245.50
-灵台综合,74.91.26.218
-灵台综合,live.264788.xyz
-玉门综,69.30.245.50
-玉门综,74.91.26.218
-玉门综,live.264788.xyz
-玛曲综合,69.30.245.50
-玛曲综合,74.91.26.218
-玛曲综合,live.264788.xyz
-环县综合,69.30.245.50
-环县综合,74.91.26.218
-环县综合,live.264788.xyz
-瓜州综合,69.30.245.50
-瓜州综合,74.91.26.218
-瓜州综合,live.264788.xyz
-甘南综合,69.30.245.50
-甘南综合,74.91.26.218
-甘南综合,live.264788.xyz
-甘南藏语,69.30.245.50
-甘南藏语,74.91.26.218
-甘南藏语,live.264788.xyz
-白银公共,69.30.245.50
-白银公共,74.91.26.218
-白银公共,live.264788.xyz
-白银文化教育,69.30.245.50
-白银文化教育,74.91.26.218
-白银文化教育,live.264788.xyz
-白银综合,69.30.245.50
-白银综合,74.91.26.218
-白银综合,live.264788.xyz
-皋兰综合,69.30.245.50
-皋兰综合,74.91.26.218
-皋兰综合,live.264788.xyz
-碌曲综合,69.30.245.50
-碌曲综合,74.91.26.218
-碌曲综合,live.264788.xyz
-礼县综合,69.30.245.50
-礼县综合,74.91.26.218
-礼县综合,live.264788.xyz
-秦安综合,69.30.245.50
-秦安综合,74.91.26.218
-秦安综合,live.264788.xyz
-积石山综合,69.30.245.50
-积石山综合,74.91.26.218
-积石山综合,live.264788.xyz
-肃北综合,69.30.245.50
-肃北综合,74.91.26.218
-肃北综合,live.264788.xyz
-肃州综合,69.30.245.50
-肃州综合,74.91.26.218
-肃州综合,live.264788.xyz
-舟曲新闻,69.30.245.50
-舟曲新闻,74.91.26.218
-舟曲新闻,live.264788.xyz
-西和综合,69.30.245.50
-西和综合,74.91.26.218
-西和综合,live.264788.xyz
-西峰综合,69.30.245.50
-西峰综合,74.91.26.218
-西峰综合,live.264788.xyz
-迭部综合,69.30.245.50
-迭部综合,74.91.26.218
-迭部综合,live.264788.xyz
-通渭综合,69.30.245.50
-通渭综合,74.91.26.218
-通渭综合,live.264788.xyz
-酒泉公共,69.30.245.50
-酒泉公共,74.91.26.218
-酒泉公共,live.264788.xyz
-酒泉综合,69.30.245.50
-酒泉综合,74.91.26.218
-酒泉综合,live.264788.xyz
-金塔综合,69.30.245.50
-金塔综合,74.91.26.218
-金塔综合,live.264788.xyz
-金川综合,69.30.245.50
-金川综合,74.91.26.218
-金川综合,live.264788.xyz
-金昌综合,69.30.245.50
-金昌综合,74.91.26.218
-金昌综合,live.264788.xyz
-镇原综合,69.30.245.50
-镇原综合,74.91.26.218
-镇原综合,live.264788.xyz
-阿克塞综合,69.30.245.50
-阿克塞综合,74.91.26.218
-阿克塞综合,live.264788.xyz
-陇西综合,69.30.245.50
-陇西综合,74.91.26.218
-陇西综合,live.264788.xyz
-靖远综合,69.30.245.50
-靖远综合,74.91.26.218
-靖远综合,live.264788.xyz
-静宁综合,69.30.245.50
-静宁综合,74.91.26.218
-静宁综合,live.264788.xyz
-高台综合,69.30.245.50
-高台综合,74.91.26.218
-高台综合,live.264788.xyz
 
 ☘️新疆频道,#genre#
-克拉玛依汉语综合,69.30.245.50
-克拉玛依汉语综合,74.91.26.218
-克拉玛依汉语综合,live.264788.xyz
-克拉玛依维语综合,69.30.245.50
-克拉玛依维语综合,74.91.26.218
-克拉玛依维语综合,live.264788.xyz
-克拉玛依影剧场,69.30.245.50
-克拉玛依影剧场,74.91.26.218
-克拉玛依影剧场,live.264788.xyz
-克拉玛依生活娱乐,69.30.245.50
-克拉玛依生活娱乐,74.91.26.218
-克拉玛依生活娱乐,live.264788.xyz
-克拉玛依新闻,69.30.245.50
-克拉玛依新闻,74.91.26.218
-克拉玛依新闻,live.264788.xyz
-哈密一套,69.30.245.50
-哈密一套,74.91.26.218
-哈密一套,live.264788.xyz
-哈密二套,69.30.245.50
-哈密二套,74.91.26.218
-哈密二套,live.264788.xyz
-哈密三套,69.30.245.50
-哈密三套,74.91.26.218
-哈密三套,live.264788.xyz
-伊犁经济法制,69.30.245.50
-伊犁经济法制,74.91.26.218
-伊犁经济法制,live.264788.xyz
-伊犁汉语综合,69.30.245.50
-伊犁汉语综合,74.91.26.218
-伊犁汉语综合,live.264788.xyz
-裕民汉语,69.30.245.50
-裕民汉语,74.91.26.218
-裕民汉语,live.264788.xyz
-裕民哈语,69.30.245.50
-裕民哈语,74.91.26.218
-裕民哈语,live.264788.xyz
-兵团四师可克达拉综合,69.30.245.50
-兵团四师可克达拉综合,74.91.26.218
-兵团四师可克达拉综合,live.264788.xyz
-兵团五师双河新闻综合,69.30.245.50
-兵团五师双河新闻综合,74.91.26.218
-兵团五师双河新闻综合,live.264788.xyz
-兵团七师胡杨河新闻综合,69.30.245.50
-兵团七师胡杨河新闻综合,74.91.26.218
-兵团七师胡杨河新闻综合,live.264788.xyz
-兵团八师石河子新闻综合,69.30.245.50
-兵团八师石河子新闻综合,74.91.26.218
-兵团八师石河子新闻综合,live.264788.xyz
-兵团八师石河子影视文体,69.30.245.50
-兵团八师石河子影视文体,74.91.26.218
-兵团八师石河子影视文体,live.264788.xyz
-兵团八师石河子经济生活,69.30.245.50
-兵团八师石河子经济生活,74.91.26.218
-兵团八师石河子经济生活,live.264788.xyz
-兵团八师石河子教育,69.30.245.50
-兵团八师石河子教育,74.91.26.218
-兵团八师石河子教育,live.264788.xyz
-兵团十三师新星综合,69.30.245.50
-兵团十三师新星综合,74.91.26.218
-兵团十三师新星综合,live.264788.xyz
-兵团十四师昆玉综合,69.30.245.50
-兵团十四师昆玉综合,74.91.26.218
-兵团十四师昆玉综合,live.264788.xyz
-伊宁汉语综合,69.30.245.50
-伊宁汉语综合,74.91.26.218
-伊宁汉语综合,live.264788.xyz
-伊宁维吾尔语,69.30.245.50
-伊宁维吾尔语,74.91.26.218
-伊宁维吾尔语,live.264788.xyz
-昭苏哈语,69.30.245.50
-昭苏哈语,74.91.26.218
-昭苏哈语,live.264788.xyz
-昭苏汉语,69.30.245.50
-昭苏汉语,74.91.26.218
-昭苏汉语,live.264788.xyz
-霍尔果斯综合,69.30.245.50
-霍尔果斯综合,74.91.26.218
-霍尔果斯综合,live.264788.xyz
-玛纳斯综合,69.30.245.50
-玛纳斯综合,74.91.26.218
-玛纳斯综合,live.264788.xyz
-伊犁哈萨克,69.30.245.50
-伊犁哈萨克,74.91.26.218
-伊犁哈萨克,live.264788.xyz
-伊犁维吾尔,69.30.245.50
-伊犁维吾尔,74.91.26.218
-伊犁维吾尔,live.264788.xyz
-克拉玛依影视,69.30.245.50
-克拉玛依影视,74.91.26.218
-克拉玛依影视,live.264788.xyz
-奎屯汉语综合,69.30.245.50
-奎屯汉语综合,74.91.26.218
-奎屯汉语综合,live.264788.xyz
-巴音郭楞州,69.30.245.50
-巴音郭楞州,74.91.26.218
-巴音郭楞州,live.264788.xyz
-石河子影视文体,69.30.245.50
-石河子影视文体,74.91.26.218
-石河子影视文体,live.264788.xyz
-石河子教育,69.30.245.50
-石河子教育,74.91.26.218
-石河子教育,live.264788.xyz
-石河子新闻综合,69.30.245.50
-石河子新闻综合,74.91.26.218
-石河子新闻综合,live.264788.xyz
-石河子经济生活,69.30.245.50
-石河子经济生活,74.91.26.218
-石河子经济生活,live.264788.xyz
 
 ☘️山西频道,#genre#
-万荣综合,69.30.245.50
-万荣综合,74.91.26.218
-万荣综合,live.264788.xyz
-五台综合,69.30.245.50
-五台综合,74.91.26.218
-五台综合,live.264788.xyz
-优购物电视购物,69.30.245.50
-优购物电视购物,74.91.26.218
-优购物电视购物,live.264788.xyz
-原平综合,69.30.245.50
-原平综合,74.91.26.218
-原平综合,live.264788.xyz
-古县综合,69.30.245.50
-古县综合,74.91.26.218
-古县综合,live.264788.xyz
-吉县新闻综合,69.30.245.50
-吉县新闻综合,74.91.26.218
-吉县新闻综合,live.264788.xyz
-大同1套新闻综合,69.30.245.50
-大同1套新闻综合,74.91.26.218
-大同1套新闻综合,live.264788.xyz
-大同2套公共,69.30.245.50
-大同2套公共,74.91.26.218
-大同2套公共,live.264788.xyz
-大同3套煤都生活,69.30.245.50
-大同3套煤都生活,74.91.26.218
-大同3套煤都生活,live.264788.xyz
-大宁综合,69.30.245.50
-大宁综合,74.91.26.218
-大宁综合,live.264788.xyz
-太谷新闻综合,69.30.245.50
-太谷新闻综合,74.91.26.218
-太谷新闻综合,live.264788.xyz
-宁武综合,69.30.245.50
-宁武综合,74.91.26.218
-宁武综合,live.264788.xyz
-定襄综合,69.30.245.50
-定襄综合,74.91.26.218
-定襄综合,live.264788.xyz
-屯留综合,69.30.245.50
-屯留综合,74.91.26.218
-屯留综合,live.264788.xyz
-山西影视,69.30.245.50
-山西影视,74.91.26.218
-山西影视,live.264788.xyz
-山西影院,69.30.245.50
-山西影院,74.91.26.218
-山西影院,live.264788.xyz
-山西文体,69.30.245.50
-山西文体,74.91.26.218
-山西文体,live.264788.xyz
-山西文体生活,69.30.245.50
-山西文体生活,74.91.26.218
-山西文体生活,live.264788.xyz
-山西法治,69.30.245.50
-山西法治,74.91.26.218
-山西法治,live.264788.xyz
-山西社会与法治,69.30.245.50
-山西社会与法治,74.91.26.218
-山西社会与法治,live.264788.xyz
-山西经济,69.30.245.50
-山西经济,74.91.26.218
-山西经济,live.264788.xyz
-山西经济与科技,69.30.245.50
-山西经济与科技,74.91.26.218
-山西经济与科技,live.264788.xyz
-山西经济与科教,69.30.245.50
-山西经济与科教,74.91.26.218
-山西经济与科教,live.264788.xyz
-平遥新闻综合,69.30.245.50
-平遥新闻综合,74.91.26.218
-平遥新闻综合,live.264788.xyz
-怀仁综合,69.30.245.50
-怀仁综合,74.91.26.218
-怀仁综合,live.264788.xyz
-昔阳电视台,69.30.245.50
-昔阳电视台,74.91.26.218
-昔阳电视台,live.264788.xyz
-柳林综合,69.30.245.50
-柳林综合,74.91.26.218
-柳林综合,live.264788.xyz
-武乡新闻综合,69.30.245.50
-武乡新闻综合,74.91.26.218
-武乡新闻综合,live.264788.xyz
-汾西综合,69.30.245.50
-汾西综合,74.91.26.218
-汾西综合,live.264788.xyz
-潞城新闻综合,69.30.245.50
-潞城新闻综合,74.91.26.218
-潞城新闻综合,live.264788.xyz
-灵石新闻综合,69.30.245.50
-灵石新闻综合,74.91.26.218
-灵石新闻综合,live.264788.xyz
-祁县新闻综合,69.30.245.50
-祁县新闻综合,74.91.26.218
-祁县新闻综合,live.264788.xyz
-离石综合,69.30.245.50
-离石综合,74.91.26.218
-离石综合,live.264788.xyz
-襄垣电视,69.30.245.50
-襄垣电视,74.91.26.218
-襄垣电视,live.264788.xyz
-襄汾综合,69.30.245.50
-襄汾综合,74.91.26.218
-襄汾综合,live.264788.xyz
-运城一套新闻综合,69.30.245.50
-运城一套新闻综合,74.91.26.218
-运城一套新闻综合,live.264788.xyz
-运城三套科教,69.30.245.50
-运城三套科教,74.91.26.218
-运城三套科教,live.264788.xyz
-运城二套公共,69.30.245.50
-运城二套公共,74.91.26.218
-运城二套公共,live.264788.xyz
-运城公共,69.30.245.50
-运城公共,74.91.26.218
-运城公共,live.264788.xyz
-运城新闻综合,69.30.245.50
-运城新闻综合,74.91.26.218
-运城新闻综合,live.264788.xyz
-运城科技教育,69.30.245.50
-运城科技教育,74.91.26.218
-运城科技教育,live.264788.xyz
-长子综合,69.30.245.50
-长子综合,74.91.26.218
-长子综合,live.264788.xyz
-长治公共,69.30.245.50
-长治公共,74.91.26.218
-长治公共,live.264788.xyz
-长治教育,69.30.245.50
-长治教育,74.91.26.218
-长治教育,live.264788.xyz
-长治新闻综合,69.30.245.50
-长治新闻综合,74.91.26.218
-长治新闻综合,live.264788.xyz
-闻喜综合,69.30.245.50
-闻喜综合,74.91.26.218
-闻喜综合,live.264788.xyz
-阳曲综合,69.30.245.50
-阳曲综合,74.91.26.218
-阳曲综合,live.264788.xyz
-高平综合,69.30.245.50
-高平综合,74.91.26.218
-高平综合,live.264788.xyz
-黄河电视台,69.30.245.50
-黄河电视台,74.91.26.218
-黄河电视台,live.264788.xyz
-黎城综合,69.30.245.50
-黎城综合,74.91.26.218
-黎城综合,live.264788.xyz
 
 ☘️宁夏频道,#genre#
-宁夏公共,69.30.245.50
-宁夏公共,74.91.26.218
-宁夏公共,live.264788.xyz
-宁夏经济,69.30.245.50
-宁夏经济,74.91.26.218
-宁夏经济,live.264788.xyz
-银川生活,69.30.245.50
-银川生活,74.91.26.218
-银川生活,live.264788.xyz
-银川公共,69.30.245.50
-银川公共,74.91.26.218
-银川公共,live.264788.xyz
-银川文体,69.30.245.50
-银川文体,74.91.26.218
-银川文体,live.264788.xyz
-吴忠综合,69.30.245.50
-吴忠综合,74.91.26.218
-吴忠综合,live.264788.xyz
-吴忠公共,69.30.245.50
-吴忠公共,74.91.26.218
-吴忠公共,live.264788.xyz
-中宁综合,69.30.245.50
-中宁综合,74.91.26.218
-中宁综合,live.264788.xyz
-宁夏少儿,69.30.245.50
-宁夏少儿,74.91.26.218
-宁夏少儿,live.264788.xyz
-宁夏电视台影视,69.30.245.50
-宁夏电视台影视,74.91.26.218
-宁夏电视台影视,live.264788.xyz
-石嘴山综合,69.30.245.50
-石嘴山综合,74.91.26.218
-石嘴山综合,live.264788.xyz
 
 ☘️吉林频道,#genre#
-桦甸综合,69.30.245.50
-桦甸综合,74.91.26.218
-桦甸综合,live.264788.xyz
-磐石综合,69.30.245.50
-磐石综合,74.91.26.218
-磐石综合,live.264788.xyz
-延边-1,69.30.245.50
-延边-1,74.91.26.218
-延边-1,live.264788.xyz
-东丰综合,69.30.245.50
-东丰综合,74.91.26.218
-东丰综合,live.264788.xyz
-柳河综合,69.30.245.50
-柳河综合,74.91.26.218
-柳河综合,live.264788.xyz
-汪清综合,69.30.245.50
-汪清综合,74.91.26.218
-汪清综合,live.264788.xyz
-延边卫视,69.30.245.50
-延边卫视,74.91.26.218
-延边卫视,live.264788.xyz
 延边卫视,https://live.264788.xyz/channel/yanbianweishi?streamid=2af361ac8ba5e870d104cc59390cf845&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-吉林都市,69.30.245.50
-吉林都市,74.91.26.218
-吉林都市,live.264788.xyz
-吉林生活,69.30.245.50
-吉林生活,74.91.26.218
-吉林生活,live.264788.xyz
-吉林影院,69.30.245.50
-吉林影院,74.91.26.218
-吉林影院,live.264788.xyz
-吉林乡村,69.30.245.50
-吉林乡村,74.91.26.218
-吉林乡村,live.264788.xyz
-吉林公共,69.30.245.50
-吉林公共,74.91.26.218
-吉林公共,live.264788.xyz
-吉林7频道,69.30.245.50
-吉林7频道,74.91.26.218
-吉林7频道,live.264788.xyz
-东北戏曲频道,69.30.245.50
-东北戏曲频道,74.91.26.218
-东北戏曲频道,live.264788.xyz
-延边朝鲜语综合,69.30.245.50
-延边朝鲜语综合,74.91.26.218
-延边朝鲜语综合,live.264788.xyz
-延边汉语综合,69.30.245.50
-延边汉语综合,74.91.26.218
-延边汉语综合,live.264788.xyz
-长白山电视台,69.30.245.50
-长白山电视台,74.91.26.218
-长白山电视台,live.264788.xyz
-德惠综合,69.30.245.50
-德惠综合,74.91.26.218
-德惠综合,live.264788.xyz
-九台综合,69.30.245.50
-九台综合,74.91.26.218
-九台综合,live.264788.xyz
-长白新闻综合,69.30.245.50
-长白新闻综合,74.91.26.218
-长白新闻综合,live.264788.xyz
-长白朝语,69.30.245.50
-长白朝语,74.91.26.218
-长白朝语,live.264788.xyz
-靖宇综合,69.30.245.50
-靖宇综合,74.91.26.218
-靖宇综合,live.264788.xyz
-敦化一套,69.30.245.50
-敦化一套,74.91.26.218
-敦化一套,live.264788.xyz
-珲春新闻综合,69.30.245.50
-珲春新闻综合,74.91.26.218
-珲春新闻综合,live.264788.xyz
-龙井综合,69.30.245.50
-龙井综合,74.91.26.218
-龙井综合,live.264788.xyz
-梅河口综合,69.30.245.50
-梅河口综合,74.91.26.218
-梅河口综合,live.264788.xyz
-舒兰新闻综合,69.30.245.50
-舒兰新闻综合,74.91.26.218
-舒兰新闻综合,live.264788.xyz
-双辽综合,69.30.245.50
-双辽综合,74.91.26.218
-双辽综合,live.264788.xyz
-通化新闻综合,69.30.245.50
-通化新闻综合,74.91.26.218
-通化新闻综合,live.264788.xyz
 通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-白城新闻综合,69.30.245.50
-白城新闻综合,74.91.26.218
-白城新闻综合,live.264788.xyz
-四平-1,69.30.245.50
-四平-1,74.91.26.218
-四平-1,live.264788.xyz
 四平-1,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 
 ☘️内蒙古频道,#genre#
-内蒙新闻,69.30.245.50
-内蒙新闻,74.91.26.218
-内蒙新闻,live.264788.xyz
-蒙语文化,69.30.245.50
-蒙语文化,74.91.26.218
-蒙语文化,live.264788.xyz
-内蒙古综合,69.30.245.50
-内蒙古综合,74.91.26.218
-内蒙古综合,live.264788.xyz
-内蒙古经济生活,69.30.245.50
-内蒙古经济生活,74.91.26.218
-内蒙古经济生活,live.264788.xyz
-内蒙古少儿,69.30.245.50
-内蒙古少儿,74.91.26.218
-内蒙古少儿,live.264788.xyz
-内蒙古文体娱乐,69.30.245.50
-内蒙古文体娱乐,74.91.26.218
-内蒙古文体娱乐,live.264788.xyz
-内蒙古农牧,69.30.245.50
-内蒙古农牧,74.91.26.218
-内蒙古农牧,live.264788.xyz
-内蒙古蒙语文化,69.30.245.50
-内蒙古蒙语文化,74.91.26.218
-内蒙古蒙语文化,live.264788.xyz
-赤峰新闻综合,69.30.245.50
-赤峰新闻综合,74.91.26.218
-赤峰新闻综合,live.264788.xyz
 赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 
 ☘️云南频道,#genre#
-丘北电视台,69.30.245.50
-丘北电视台,74.91.26.218
-丘北电视台,live.264788.xyz
-元阳综合,69.30.245.50
-元阳综合,74.91.26.218
-元阳综合,live.264788.xyz
-安宁综合,69.30.245.50
-安宁综合,74.91.26.218
-安宁综合,live.264788.xyz
-宾川一套,69.30.245.50
-宾川一套,74.91.26.218
-宾川一套,live.264788.xyz
-屏边综合,69.30.245.50
-屏边综合,74.91.26.218
-屏边综合,live.264788.xyz
-峨山电视,69.30.245.50
-峨山电视,74.91.26.218
-峨山电视,live.264788.xyz
-巧家综合,69.30.245.50
-巧家综合,74.91.26.218
-巧家综合,live.264788.xyz
-广南电视台,69.30.245.50
-广南电视台,74.91.26.218
-广南电视台,live.264788.xyz
-开远综合,69.30.245.50
-开远综合,74.91.26.218
-开远综合,live.264788.xyz
-彝良综合,69.30.245.50
-彝良综合,74.91.26.218
-彝良综合,live.264788.xyz
-文山州公共,69.30.245.50
-文山州公共,74.91.26.218
-文山州公共,live.264788.xyz
-文山州新闻综合,69.30.245.50
-文山州新闻综合,74.91.26.218
-文山州新闻综合,live.264788.xyz
-施甸综合,69.30.245.50
-施甸综合,74.91.26.218
-施甸综合,live.264788.xyz
-昆明公共,69.30.245.50
-昆明公共,74.91.26.218
-昆明公共,live.264788.xyz
-昆明影综艺,69.30.245.50
-昆明影综艺,74.91.26.218
-昆明影综艺,live.264788.xyz
-昆明新闻综合,69.30.245.50
-昆明新闻综合,74.91.26.218
-昆明新闻综合,live.264788.xyz
-昆明科学教育,69.30.245.50
-昆明科学教育,74.91.26.218
-昆明科学教育,live.264788.xyz
-昆明经济生活,69.30.245.50
-昆明经济生活,74.91.26.218
-昆明经济生活,live.264788.xyz
-易门综合,69.30.245.50
-易门综合,74.91.26.218
-易门综合,live.264788.xyz
-普洱公共,69.30.245.50
-普洱公共,74.91.26.218
-普洱公共,live.264788.xyz
-普洱新闻综合,69.30.245.50
-普洱新闻综合,74.91.26.218
-普洱新闻综合,live.264788.xyz
-梁河综合,69.30.245.50
-梁河综合,74.91.26.218
-梁河综合,live.264788.xyz
-永善综合,69.30.245.50
-永善综合,74.91.26.218
-永善综合,live.264788.xyz
-江川综合,69.30.245.50
-江川综合,74.91.26.218
-江川综合,live.264788.xyz
-泸水综合,69.30.245.50
-泸水综合,74.91.26.218
-泸水综合,live.264788.xyz
-瑞丽综合,69.30.245.50
-瑞丽综合,74.91.26.218
-瑞丽综合,live.264788.xyz
-盈江综合,69.30.245.50
-盈江综合,74.91.26.218
-盈江综合,live.264788.xyz
-石屏综合,69.30.245.50
-石屏综合,74.91.26.218
-石屏综合,live.264788.xyz
-砚山电视台,69.30.245.50
-砚山电视台,74.91.26.218
-砚山电视台,live.264788.xyz
-福贡综合,69.30.245.50
-福贡综合,74.91.26.218
-福贡综合,live.264788.xyz
-红塔电视台,69.30.245.50
-红塔电视台,74.91.26.218
-红塔电视台,live.264788.xyz
-红河县综合,69.30.245.50
-红河县综合,74.91.26.218
-红河县综合,live.264788.xyz
-红河州新闻综合,69.30.245.50
-红河州新闻综合,74.91.26.218
-红河州新闻综合,live.264788.xyz
-绥江综合,69.30.245.50
-绥江综合,74.91.26.218
-绥江综合,live.264788.xyz
-美丽云南,69.30.245.50
-美丽云南,74.91.26.218
-美丽云南,live.264788.xyz
-腾冲综合,69.30.245.50
-腾冲综合,74.91.26.218
-腾冲综合,live.264788.xyz
-芒市综合,69.30.245.50
-芒市综合,74.91.26.218
-芒市综合,live.264788.xyz
-蒙自综合,69.30.245.50
-蒙自综合,74.91.26.218
-蒙自综合,live.264788.xyz
-西双版纳公共,69.30.245.50
-西双版纳公共,74.91.26.218
-西双版纳公共,live.264788.xyz
-西双版纳综合,69.30.245.50
-西双版纳综合,74.91.26.218
-西双版纳综合,live.264788.xyz
-贡山综合,69.30.245.50
-贡山综合,74.91.26.218
-贡山综合,live.264788.xyz
-通海电视台,69.30.245.50
-通海电视台,74.91.26.218
-通海电视台,live.264788.xyz
-金平综合,69.30.245.50
-金平综合,74.91.26.218
-金平综合,live.264788.xyz
-陇川综合,69.30.245.50
-陇川综合,74.91.26.218
-陇川综合,live.264788.xyz
-马关电视台,69.30.245.50
-马关电视台,74.91.26.218
-马关电视台,live.264788.xyz
-麻栗坡电视台,69.30.245.50
-麻栗坡电视台,74.91.26.218
-麻栗坡电视台,live.264788.xyz
-云南都市,69.30.245.50
-云南都市,74.91.26.218
-云南都市,live.264788.xyz
-云南娱乐,69.30.245.50
-云南娱乐,74.91.26.218
-云南娱乐,live.264788.xyz
-云南公共,69.30.245.50
-云南公共,74.91.26.218
-云南公共,live.264788.xyz
-云南少儿,69.30.245.50
-云南少儿,74.91.26.218
-云南少儿,live.264788.xyz
-云南澜湄国际,69.30.245.50
-云南澜湄国际,74.91.26.218
-云南澜湄国际,live.264788.xyz
-西双版纳一套,69.30.245.50
-西双版纳一套,74.91.26.218
-西双版纳一套,live.264788.xyz
-西双版纳二套,69.30.245.50
-西双版纳二套,74.91.26.218
-西双版纳二套,live.264788.xyz
 
 ☘️青海频道,#genre#
-安多卫视,69.30.245.50
-安多卫视,74.91.26.218
-安多卫视,live.264788.xyz
-西宁新闻综合,69.30.245.50
-西宁新闻综合,74.91.26.218
-西宁新闻综合,live.264788.xyz
-西宁生活服务,69.30.245.50
-西宁生活服务,74.91.26.218
-西宁生活服务,live.264788.xyz
-玉树新闻,69.30.245.50
-玉树新闻,74.91.26.218
-玉树新闻,live.264788.xyz
-海西州综合,69.30.245.50
-海西州综合,74.91.26.218
-海西州综合,live.264788.xyz
-德令哈综合,69.30.245.50
-德令哈综合,74.91.26.218
-德令哈综合,live.264788.xyz
-门源综合,69.30.245.50
-门源综合,74.91.26.218
-门源综合,live.264788.xyz
-贵南综合,69.30.245.50
-贵南综合,74.91.26.218
-贵南综合,live.264788.xyz
-化隆综合,69.30.245.50
-化隆综合,74.91.26.218
-化隆综合,live.264788.xyz
-民和综合,69.30.245.50
-民和综合,74.91.26.218
-民和综合,live.264788.xyz
-兴海综合,69.30.245.50
-兴海综合,74.91.26.218
-兴海综合,live.264788.xyz
-大通电视台,69.30.245.50
-大通电视台,74.91.26.218
-大通电视台,live.264788.xyz
-湟中电视台,69.30.245.50
-湟中电视台,74.91.26.218
-湟中电视台,live.264788.xyz
-青海经视,69.30.245.50
-青海经视,74.91.26.218
-青海经视,live.264788.xyz
-青海都市,69.30.245.50
-青海都市,74.91.26.218
-青海都市,live.264788.xyz
-青海综合,69.30.245.50
-青海综合,74.91.26.218
-青海综合,live.264788.xyz
 
 ☘️黑龙江频道,#genre#
-黑龙江文体,69.30.245.50
-黑龙江文体,74.91.26.218
-黑龙江文体,live.264788.xyz
-黑龙江新闻法治,69.30.245.50
-黑龙江新闻法治,74.91.26.218
-黑龙江新闻法治,live.264788.xyz
-黑龙江公共农业,69.30.245.50
-黑龙江公共农业,74.91.26.218
-黑龙江公共农业,live.264788.xyz
-黑龙江影视,69.30.245.50
-黑龙江影视,74.91.26.218
-黑龙江影视,live.264788.xyz
-黑龙江都市,69.30.245.50
-黑龙江都市,74.91.26.218
-黑龙江都市,live.264788.xyz
-黑龙江少儿,69.30.245.50
-黑龙江少儿,74.91.26.218
-黑龙江少儿,live.264788.xyz
-黑龙江新闻,69.30.245.50
-黑龙江新闻,74.91.26.218
-黑龙江新闻,live.264788.xyz
-黑龙江科教,69.30.245.50
-黑龙江科教,74.91.26.218
-黑龙江科教,live.264788.xyz
-哈尔滨新闻综合,69.30.245.50
-哈尔滨新闻综合,74.91.26.218
-哈尔滨新闻综合,live.264788.xyz
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-哈尔滨都市资讯,69.30.245.50
-哈尔滨都市资讯,74.91.26.218
-哈尔滨都市资讯,live.264788.xyz
-哈尔滨影视,69.30.245.50
-哈尔滨影视,74.91.26.218
-哈尔滨影视,live.264788.xyz
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
-哈尔滨资讯,69.30.245.50
-哈尔滨资讯,74.91.26.218
-哈尔滨资讯,live.264788.xyz
-哈尔滨生活,69.30.245.50
-哈尔滨生活,74.91.26.218
-哈尔滨生活,live.264788.xyz
-哈尔滨娱乐,69.30.245.50
-哈尔滨娱乐,74.91.26.218
-哈尔滨娱乐,live.264788.xyz
-大庆新闻综合,69.30.245.50
-大庆新闻综合,74.91.26.218
-大庆新闻综合,live.264788.xyz
-大庆公共,69.30.245.50
-大庆公共,74.91.26.218
-大庆公共,live.264788.xyz
-鹤岗公共,69.30.245.50
-鹤岗公共,74.91.26.218
-鹤岗公共,live.264788.xyz
-七台河新闻综合,69.30.245.50
-七台河新闻综合,74.91.26.218
-七台河新闻综合,live.264788.xyz
-七台河公共,69.30.245.50
-七台河公共,74.91.26.218
-七台河公共,live.264788.xyz
-萝北综合,69.30.245.50
-萝北综合,74.91.26.218
-萝北综合,live.264788.xyz
-甘南县综合,69.30.245.50
-甘南县综合,74.91.26.218
-甘南县综合,live.264788.xyz
-鹤岗新闻综合,69.30.245.50
-鹤岗新闻综合,74.91.26.218
-鹤岗新闻综合,live.264788.xyz
-佳木斯新闻综合,69.30.245.50
-佳木斯新闻综合,74.91.26.218
-佳木斯新闻综合,live.264788.xyz
-齐齐哈尔新闻综合,69.30.245.50
-齐齐哈尔新闻综合,74.91.26.218
-齐齐哈尔新闻综合,live.264788.xyz
-齐齐哈尔经济法制,69.30.245.50
-齐齐哈尔经济法制,74.91.26.218
-齐齐哈尔经济法制,live.264788.xyz
-双鸭山综合,69.30.245.50
-双鸭山综合,74.91.26.218
-双鸭山综合,live.264788.xyz
-七台河民生社教,69.30.245.50
-七台河民生社教,74.91.26.218
-七台河民生社教,live.264788.xyz
 
 🎬电影频道,#genre#
-CHC 高清电影,69.30.245.50
-CHC 高清电影,74.91.26.218
-CHC 高清电影,live.264788.xyz
-CHC 家庭影院,69.30.245.50
-CHC 家庭影院,74.91.26.218
-CHC 家庭影院,live.264788.xyz
 CHC 家庭影院,https://live.ottiptv.cc/mg/644368373.m3u8?userid=335749130&sign=26acc346dafd25cc92ad1e8078f0e0f0c7bc22811ef6d9ab157d5a8238468e7176cdc4a1ee46ff7f513c326c63283df3c6debe95c08ef338332e2ed640e2eeb2a62c7cd4faecdd68f2fa66f683520648&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CHC 家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CHC 影迷电影,69.30.245.50
-CHC 影迷电影,74.91.26.218
-CHC 影迷电影,live.264788.xyz
 CHC 影迷电影,https://live.ottiptv.cc/mg/952383261.m3u8?userid=335749130&sign=d0262a8c0a56c8154a5a31e92ce8790c2e27e6e783e950300829cba05583d8541f113b613da58c79ed0d1817795ee5f52784da840b3bb508040a6e389d460b0e48df0beb13d1cc5c25b0121b2a28e0aa&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CHC 影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CHC 动作电影,69.30.245.50
-CHC 动作电影,74.91.26.218
-CHC 动作电影,live.264788.xyz
 CHC 动作电影,https://live.ottiptv.cc/mg/644368714.m3u8?userid=335749130&sign=db1b983058ececef62a9bcf08a2cd9a0784d4fd50fd7dcf34b61a5691d0d09b31701ddf4a95e69da913b4826fa4a3947d31452b9f136f5fa98d262b8a55902d2e623909a846e287f3c5b36448963bd14&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CHC 动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-淘剧场,69.30.245.50
-淘剧场,74.91.26.218
-淘剧场,live.264788.xyz
-淘娱乐,69.30.245.50
-淘娱乐,74.91.26.218
-淘娱乐,live.264788.xyz
-淘电影,69.30.245.50
-淘电影,74.91.26.218
-淘电影,live.264788.xyz
-NewTV惊悚悬疑,69.30.245.50
-NewTV惊悚悬疑,74.91.26.218
-NewTV惊悚悬疑,live.264788.xyz
-NewTV动作电影,69.30.245.50
-NewTV动作电影,74.91.26.218
-NewTV动作电影,live.264788.xyz
-黑莓电影,69.30.245.50
-黑莓电影,74.91.26.218
-黑莓电影,live.264788.xyz
-纬来电影,69.30.245.50
-纬来电影,74.91.26.218
-纬来电影,live.264788.xyz
-靖天戏剧,69.30.245.50
-靖天戏剧,74.91.26.218
-靖天戏剧,live.264788.xyz
-星卫娱乐,69.30.245.50
-星卫娱乐,74.91.26.218
-星卫娱乐,live.264788.xyz
-艾尔达娱乐,69.30.245.50
-艾尔达娱乐,74.91.26.218
-艾尔达娱乐,live.264788.xyz
-经典电影,69.30.245.50
-经典电影,74.91.26.218
-经典电影,live.264788.xyz
-重温经典,69.30.245.50
-重温经典,74.91.26.218
-重温经典,live.264788.xyz
 重温经典,https://live.ottiptv.cc/other/cwjd.m3u8?userid=1926565337&sign=284dba5c8a479f39a69ff9cb14a37582a63cffb03c7359c9dede280fa1406afb5453373c0cce7401b5f6aa35833a9168e64547ee691babacb55b27d31cf934c83fdbf6ffbbc70a9b92678377&auth_token=1b419ca2389167e00ffb1a7264658820
 重温经典,https://live.ottiptv.cc/mg/884121956.m3u8?userid=335749130&sign=3f2ebe001aa279e7ea4be64781117eac335bce70c085691c568d8fa10845ee4e4291f70267e9c9edf3a8750f8a10c2ba052edb52c56f1276b35838a1eb32e864332082791d8ea236dda2423aae08720f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-IPTV经典电影,69.30.245.50
-IPTV经典电影,74.91.26.218
-IPTV经典电影,live.264788.xyz
-天映经典,69.30.245.50
-天映经典,74.91.26.218
-天映经典,live.264788.xyz
-星空卫视,69.30.245.50
-星空卫视,74.91.26.218
-星空卫视,live.264788.xyz
-私人影院,69.30.245.50
-私人影院,74.91.26.218
-私人影院,live.264788.xyz
-东森电影,69.30.245.50
-东森电影,74.91.26.218
-东森电影,live.264788.xyz
-龙祥电影,69.30.245.50
-龙祥电影,74.91.26.218
-龙祥电影,live.264788.xyz
-东森洋片,69.30.245.50
-东森洋片,74.91.26.218
-东森洋片,live.264788.xyz
-东森超视,69.30.245.50
-东森超视,74.91.26.218
-东森超视,live.264788.xyz
-影迷数位电影台,69.30.245.50
-影迷数位电影台,74.91.26.218
-影迷数位电影台,live.264788.xyz
-amc电影台,69.30.245.50
-amc电影台,74.91.26.218
-amc电影台,live.264788.xyz
-靖天电影台,69.30.245.50
-靖天电影台,74.91.26.218
-靖天电影台,live.264788.xyz
-靖天映画,69.30.245.50
-靖天映画,74.91.26.218
-靖天映画,live.264788.xyz
-采昌影剧台,69.30.245.50
-采昌影剧台,74.91.26.218
-采昌影剧台,live.264788.xyz
-龙华电影台,69.30.245.50
-龙华电影台,74.91.26.218
-龙华电影台,live.264788.xyz
 龙华电影台,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华日韩台,69.30.245.50
-龙华日韩台,74.91.26.218
-龙华日韩台,live.264788.xyz
-美亞電影台(HK),69.30.245.50
-美亞電影台(HK),74.91.26.218
-美亞電影台(HK),live.264788.xyz
-Celestial Movies,69.30.245.50
-Celestial Movies,74.91.26.218
-Celestial Movies,live.264788.xyz
-CinemaWorld,69.30.245.50
-CinemaWorld,74.91.26.218
-CinemaWorld,live.264788.xyz
-經典電影台,69.30.245.50
-經典電影台,74.91.26.218
-經典電影台,live.264788.xyz
-CM+,69.30.245.50
-CM+,74.91.26.218
-CM+,live.264788.xyz
-Astro AEC,69.30.245.50
-Astro AEC,74.91.26.218
-Astro AEC,live.264788.xyz
-Astro QJ,69.30.245.50
-Astro QJ,74.91.26.218
-Astro QJ,live.264788.xyz
-Astro 欢喜,69.30.245.50
-Astro 欢喜,74.91.26.218
-Astro 欢喜,live.264788.xyz
-Astro iQIYI,69.30.245.50
-Astro iQIYI,74.91.26.218
-Astro iQIYI,live.264788.xyz
 Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
-TVB亚洲武侠,69.30.245.50
-TVB亚洲武侠,74.91.26.218
-TVB亚洲武侠,live.264788.xyz
-TVB千禧经典台,69.30.245.50
-TVB千禧经典台,74.91.26.218
-TVB千禧经典台,live.264788.xyz
-公视戏剧,69.30.245.50
-公视戏剧,74.91.26.218
-公视戏剧,live.264788.xyz
-靖洋戏剧台,69.30.245.50
-靖洋戏剧台,74.91.26.218
-靖洋戏剧台,live.264788.xyz
-靖天戏剧台,69.30.245.50
-靖天戏剧台,74.91.26.218
-靖天戏剧台,live.264788.xyz
-中视经典台,69.30.245.50
-中视经典台,74.91.26.218
-中视经典台,live.264788.xyz
-靖天日本台,69.30.245.50
-靖天日本台,74.91.26.218
-靖天日本台,live.264788.xyz
-龙华戏剧台,69.30.245.50
-龙华戏剧台,74.91.26.218
-龙华戏剧台,live.264788.xyz
-龙华偶像台,69.30.245.50
-龙华偶像台,74.91.26.218
-龙华偶像台,live.264788.xyz
-龙华经典台,69.30.245.50
-龙华经典台,74.91.26.218
-龙华经典台,live.264788.xyz
-台湾戏剧台,69.30.245.50
-台湾戏剧台,74.91.26.218
-台湾戏剧台,live.264788.xyz
-ROCK Entertainment,69.30.245.50
-ROCK Entertainment,74.91.26.218
-ROCK Entertainment,live.264788.xyz
-ROCK Action,69.30.245.50
-ROCK Action,74.91.26.218
-ROCK Action,live.264788.xyz
-DiscoverFilm,69.30.245.50
-DiscoverFilm,74.91.26.218
-DiscoverFilm,live.264788.xyz
-24 Hour Free Movies,69.30.245.50
-24 Hour Free Movies,74.91.26.218
-24 Hour Free Movies,live.264788.xyz
-5ACTION UK,69.30.245.50
-5ACTION UK,74.91.26.218
-5ACTION UK,live.264788.xyz
 5ACTION UK,http://wickediptv.xyz/Randall123/Randall321/204605
-5SELECT UK,69.30.245.50
-5SELECT UK,74.91.26.218
-5SELECT UK,live.264788.xyz
 5SELECT UK,http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/12309
-5STAR UK,69.30.245.50
-5STAR UK,74.91.26.218
-5STAR UK,live.264788.xyz
 5STAR UK,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
-Sky Cinema Premiere UK,69.30.245.50
-Sky Cinema Premiere UK,74.91.26.218
-Sky Cinema Premiere UK,live.264788.xyz
 Sky Cinema Premiere UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
-Sky Cinema Select UK,69.30.245.50
-Sky Cinema Select UK,74.91.26.218
-Sky Cinema Select UK,live.264788.xyz
 Sky Cinema Select UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
-Sky Cinema Hits UK,69.30.245.50
-Sky Cinema Hits UK,74.91.26.218
-Sky Cinema Hits UK,live.264788.xyz
 Sky Cinema Hits UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
-Sky Cinema Family UK,69.30.245.50
-Sky Cinema Family UK,74.91.26.218
-Sky Cinema Family UK,live.264788.xyz
 Sky Cinema Family UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
-Sky Cinema Action UK,69.30.245.50
-Sky Cinema Action UK,74.91.26.218
-Sky Cinema Action UK,live.264788.xyz
 Sky Cinema Action UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
-Sky Cinema Greats UK,69.30.245.50
-Sky Cinema Greats UK,74.91.26.218
-Sky Cinema Greats UK,live.264788.xyz
 Sky Cinema Greats UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
-Sky Cinema Comedy UK,69.30.245.50
-Sky Cinema Comedy UK,74.91.26.218
-Sky Cinema Comedy UK,live.264788.xyz
 Sky Cinema Comedy UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
-Sky Cinema Thriller UK,69.30.245.50
-Sky Cinema Thriller UK,74.91.26.218
-Sky Cinema Thriller UK,live.264788.xyz
 Sky Cinema Thriller UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
-Sky Cinema Drama UK,69.30.245.50
-Sky Cinema Drama UK,74.91.26.218
-Sky Cinema Drama UK,live.264788.xyz
 Sky Cinema Drama UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
-Sky Cinema Sci-Fi & Horror UK,69.30.245.50
-Sky Cinema Sci-Fi & Horror UK,74.91.26.218
-Sky Cinema Sci-Fi & Horror UK,live.264788.xyz
 Sky Cinema Sci-Fi & Horror UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 
 🏀体育频道,#genre#
-CCTV-5+,69.30.245.50
-CCTV-5+,74.91.26.218
-CCTV-5+,live.264788.xyz
 CCTV-5+,https://live.ottiptv.cc/mg/641886773.m3u8?userid=335749130&sign=96304889a33419842a618d65bff9a1fd0a67cf744e4a949b52f65d17f80bd5f9666896a289f596970e8cb14118f75720ab15cfade74a56e9088c6ddf2407337a5c74a610a9b9c1b8b9f58cc7a7716e50&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 CCTV-5+,https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
-广东体育,69.30.245.50
-广东体育,74.91.26.218
-广东体育,live.264788.xyz
-纬来体育,69.30.245.50
-纬来体育,74.91.26.218
-纬来体育,live.264788.xyz
-五星体育,69.30.245.50
-五星体育,74.91.26.218
-五星体育,live.264788.xyz
 五星体育,https://live.ottiptv.cc/other/wxty.m3u8?userid=1926565337&sign=ceefcd82b2f3c80dff67dd10c96da9620b1dbe72823740b3b2f9107b193e37d2d17d61877620ff60a7a7aadc48e4e73e1a767dec4397ea4caf9f55449d064c8a4a6fe750285d632f62d47c45&auth_token=1b419ca2389167e00ffb1a7264658820
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-体育赛事,69.30.245.50
-体育赛事,74.91.26.218
-体育赛事,live.264788.xyz
-劲爆体育,69.30.245.50
-劲爆体育,74.91.26.218
-劲爆体育,live.264788.xyz
-爱体育,69.30.245.50
-爱体育,74.91.26.218
-爱体育,live.264788.xyz
-超级体育,69.30.245.50
-超级体育,74.91.26.218
-超级体育,live.264788.xyz
-精品体育,69.30.245.50
-精品体育,74.91.26.218
-精品体育,live.264788.xyz
-广州竞赛,69.30.245.50
-广州竞赛,74.91.26.218
-广州竞赛,live.264788.xyz
-深圳体育,69.30.245.50
-深圳体育,74.91.26.218
-深圳体育,live.264788.xyz
-福建体育,69.30.245.50
-福建体育,74.91.26.218
-福建体育,live.264788.xyz
 福建体育,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-辽宁体育,69.30.245.50
-辽宁体育,74.91.26.218
-辽宁体育,live.264788.xyz
-山东体育,69.30.245.50
-山东体育,74.91.26.218
-山东体育,live.264788.xyz
-成都体育,69.30.245.50
-成都体育,74.91.26.218
-成都体育,live.264788.xyz
-天津体育,69.30.245.50
-天津体育,74.91.26.218
-天津体育,live.264788.xyz
-江苏体育,69.30.245.50
-江苏体育,74.91.26.218
-江苏体育,live.264788.xyz
-安徽综艺体育,69.30.245.50
-安徽综艺体育,74.91.26.218
-安徽综艺体育,live.264788.xyz
-TNT SPORTS 1,69.30.245.50
-TNT SPORTS 1,74.91.26.218
-TNT SPORTS 1,live.264788.xyz
 TNT SPORTS 1,http://iptv.4666888.xyz/iptv2A.php?id=3
 TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
 TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
-TNT SPORTS 2,69.30.245.50
-TNT SPORTS 2,74.91.26.218
-TNT SPORTS 2,live.264788.xyz
 TNT SPORTS 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
-TNT SPORTS 3,69.30.245.50
-TNT SPORTS 3,74.91.26.218
-TNT SPORTS 3,live.264788.xyz
 TNT SPORTS 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
-TNT SPORTS 4,69.30.245.50
-TNT SPORTS 4,74.91.26.218
-TNT SPORTS 4,live.264788.xyz
 TNT SPORTS 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
-SKY SPORTS FOOTBALL,69.30.245.50
-SKY SPORTS FOOTBALL,74.91.26.218
-SKY SPORTS FOOTBALL,live.264788.xyz
 SKY SPORTS FOOTBALL,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
-SKY SPORTS MAIN EVENT,69.30.245.50
-SKY SPORTS MAIN EVENT,74.91.26.218
-SKY SPORTS MAIN EVENT,live.264788.xyz
 SKY SPORTS MAIN EVENT,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
-SKY SPORTS PREMIER LEAGUE,69.30.245.50
-SKY SPORTS PREMIER LEAGUE,74.91.26.218
-SKY SPORTS PREMIER LEAGUE,live.264788.xyz
 SKY SPORTS PREMIER LEAGUE,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
-SKY SPORTS ACTION,69.30.245.50
-SKY SPORTS ACTION,74.91.26.218
-SKY SPORTS ACTION,live.264788.xyz
 SKY SPORTS ACTION,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
-SKY SPORTS MIX,69.30.245.50
-SKY SPORTS MIX,74.91.26.218
-SKY SPORTS MIX,live.264788.xyz
 SKY SPORTS MIX,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98857
-SKY SPORTS ARENA,69.30.245.50
-SKY SPORTS ARENA,74.91.26.218
-SKY SPORTS ARENA,live.264788.xyz
-SKY SPORTS NEWS,69.30.245.50
-SKY SPORTS NEWS,74.91.26.218
-SKY SPORTS NEWS,live.264788.xyz
 SKY SPORTS NEWS,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
-SKY SPORTS CRICKET,69.30.245.50
-SKY SPORTS CRICKET,74.91.26.218
-SKY SPORTS CRICKET,live.264788.xyz
 SKY SPORTS CRICKET,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
-Sky Sports Tennis,69.30.245.50
-Sky Sports Tennis,74.91.26.218
-Sky Sports Tennis,live.264788.xyz
 Sky Sports Tennis,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
-SKY SPORTS F1,69.30.245.50
-SKY SPORTS F1,74.91.26.218
-SKY SPORTS F1,live.264788.xyz
 SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
 SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
-SKY SPORTS GOLF,69.30.245.50
-SKY SPORTS GOLF,74.91.26.218
-SKY SPORTS GOLF,live.264788.xyz
 SKY SPORTS GOLF,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
-SKY SPORTS RACING,69.30.245.50
-SKY SPORTS RACING,74.91.26.218
-SKY SPORTS RACING,live.264788.xyz
 SKY SPORTS RACING,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
-Premier Sports 1,69.30.245.50
-Premier Sports 1,74.91.26.218
-Premier Sports 1,live.264788.xyz
 Premier Sports 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
-Premier Sports 2,69.30.245.50
-Premier Sports 2,74.91.26.218
-Premier Sports 2,live.264788.xyz
 Premier Sports 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
-TENNIS CHANNEL,69.30.245.50
-TENNIS CHANNEL,74.91.26.218
-TENNIS CHANNEL,live.264788.xyz
-Viu six,69.30.245.50
-Viu six,74.91.26.218
-Viu six,live.264788.xyz
-WWE,69.30.245.50
-WWE,74.91.26.218
-WWE,live.264788.xyz
-NBA TV,69.30.245.50
-NBA TV,74.91.26.218
-NBA TV,live.264788.xyz
 NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
-EuroSport 1,69.30.245.50
-EuroSport 1,74.91.26.218
-EuroSport 1,live.264788.xyz
-EuroSport 2,69.30.245.50
-EuroSport 2,74.91.26.218
-EuroSport 2,live.264788.xyz
-Trace Sports,69.30.245.50
-Trace Sports,74.91.26.218
-Trace Sports,live.264788.xyz
-unifi Sports 1,69.30.245.50
-unifi Sports 1,74.91.26.218
-unifi Sports 1,live.264788.xyz
-时尚运动X,69.30.245.50
-时尚运动X,74.91.26.218
-时尚运动X,live.264788.xyz
-GINXEsportsTV,69.30.245.50
-GINXEsportsTV,74.91.26.218
-GINXEsportsTV,live.264788.xyz
-智林体育台,69.30.245.50
-智林体育台,74.91.26.218
-智林体育台,live.264788.xyz
-博斯魅力,69.30.245.50
-博斯魅力,74.91.26.218
-博斯魅力,live.264788.xyz
-博斯高球1,69.30.245.50
-博斯高球1,74.91.26.218
-博斯高球1,live.264788.xyz
-博斯高球2,69.30.245.50
-博斯高球2,74.91.26.218
-博斯高球2,live.264788.xyz
-博斯运动1,69.30.245.50
-博斯运动1,74.91.26.218
-博斯运动1,live.264788.xyz
-博斯运动2,69.30.245.50
-博斯运动2,74.91.26.218
-博斯运动2,live.264788.xyz
-博斯网球1,69.30.245.50
-博斯网球1,74.91.26.218
-博斯网球1,live.264788.xyz
-博斯无限1,69.30.245.50
-博斯无限1,74.91.26.218
-博斯无限1,live.264788.xyz
-博斯无限2,69.30.245.50
-博斯无限2,74.91.26.218
-博斯无限2,live.264788.xyz
-吉林篮球,69.30.245.50
-吉林篮球,74.91.26.218
-吉林篮球,live.264788.xyz
-睛彩篮球,69.30.245.50
-睛彩篮球,74.91.26.218
-睛彩篮球,live.264788.xyz
-睛彩羽毛球,69.30.245.50
-睛彩羽毛球,74.91.26.218
-睛彩羽毛球,live.264788.xyz
-睛彩广场舞,69.30.245.50
-睛彩广场舞,74.91.26.218
-睛彩广场舞,live.264788.xyz
-风云足球,69.30.245.50
-风云足球,74.91.26.218
-风云足球,live.264788.xyz
 风云足球,https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-足球频道,69.30.245.50
-足球频道,74.91.26.218
-足球频道,live.264788.xyz
-魅力足球,69.30.245.50
-魅力足球,74.91.26.218
-魅力足球,live.264788.xyz
-天元围棋,69.30.245.50
-天元围棋,74.91.26.218
-天元围棋,live.264788.xyz
-快乐垂钓,69.30.245.50
-快乐垂钓,74.91.26.218
-快乐垂钓,live.264788.xyz
 快乐垂钓,https://live.ottiptv.cc/mg/961930263.m3u8?userid=335749130&sign=ff16f7463de530d23feb98f9d03b0f8d2511f88825e93b55e336327518c8c988a140cf40d9f9ea5669434b8a50d34c272059d177cb2e741b2aa9df3b0d7fdfd3a9f5a1d2e3524884e131cf5f38899f1f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 快乐垂钓,https://live.264788.xyz/channel/kuailechuidiao?streamid=6a60d1c6862ba21566324b885fedcccb&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-車迷 TV,69.30.245.50
-車迷 TV,74.91.26.218
-車迷 TV,live.264788.xyz
-JJ斗地主,69.30.245.50
-JJ斗地主,74.91.26.218
-JJ斗地主,live.264788.xyz
 
 📺教育频道,#genre#
-CETV-1,69.30.245.50
-CETV-1,74.91.26.218
-CETV-1,live.264788.xyz
 CETV-1,https://live.ottiptv.cc/mg/923287154.m3u8?userid=335749130&sign=3c7fd58b2301eea431a4ccb825954f1a2089dfaf3fec9c2d23414c76819b3331782dce3cb00fc344d026512704b0fcb230387ea5ad23ad9c72e283a6e2bafe21f57b4b2fef928f42427f4c03d7762cd9&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CETV-2,69.30.245.50
-CETV-2,74.91.26.218
-CETV-2,live.264788.xyz
 CETV-2,https://live.ottiptv.cc/mg/923287211.m3u8?userid=335749130&sign=42bd8f8dc430637ab59c50ca96506b0be9d049ec50680eee1dc7f22fe3f8b2bd1dbe4325a25b1c3946b27f5c7c3a3f367bc2ad0fb2a51edd23fc28747386c834522acd96a59283c954c8d2baa45de372&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CETV-3,69.30.245.50
-CETV-3,74.91.26.218
-CETV-3,live.264788.xyz
-CETV-4,69.30.245.50
-CETV-4,74.91.26.218
-CETV-4,live.264788.xyz
 CETV-4,https://live.ottiptv.cc/mg/923287339.m3u8?userid=335749130&sign=eee75ca9b6045d9278842c4d20258dc1726955ef9c4db737e232448d3081654d1e96cd630dad8b7fb7aab7992b85344aa8806fdf8d10321973e3b4db411671776326f137d98d18ddf87812a70487b50e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-Smart知识台,69.30.245.50
-Smart知识台,74.91.26.218
-Smart知识台,live.264788.xyz
-LiveABC互動英語頻道,69.30.245.50
-LiveABC互動英語頻道,74.91.26.218
-LiveABC互動英語頻道,live.264788.xyz
-MOMO親子,69.30.245.50
-MOMO親子,74.91.26.218
-MOMO親子,live.264788.xyz
 MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 
 🪁动画频道,#genre#
-少儿动画,69.30.245.50
-少儿动画,74.91.26.218
-少儿动画,live.264788.xyz
-卡酷动画,69.30.245.50
-卡酷动画,74.91.26.218
-卡酷动画,live.264788.xyz
-动漫秀场,69.30.245.50
-动漫秀场,74.91.26.218
-动漫秀场,live.264788.xyz
 动漫秀场,https://live.264788.xyz/channel/dongmanxiuchang?streamid=a928725eedc3bcd4c7b321edbf6bdac7&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 动漫秀场,https://live.264788.xyz/channel/dongmanxiuchang?streamid=03e61bd70c969d8c285a59c0b6dbab87&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-哈哈炫动,69.30.245.50
-哈哈炫动,74.91.26.218
-哈哈炫动,live.264788.xyz
 哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-新动漫,69.30.245.50
-新动漫,74.91.26.218
-新动漫,live.264788.xyz
 新动漫,https://live.ottiptv.cc/mg/961930269.m3u8?userid=335749130&sign=9aef8188a0ecc170a56c0eb5611a1ad15abc7e482a6af83019697860f5967ecfdbcfc381dd139b608c6e67fc46bc7e053edbbd6fed09e0ef105a51c349a0fa21173c7ea67be7d5309bafc9e29f11ac31&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-青春动漫,69.30.245.50
-青春动漫,74.91.26.218
-青春动漫,live.264788.xyz
-爱动漫,69.30.245.50
-爱动漫,74.91.26.218
-爱动漫,live.264788.xyz
-中录动漫,69.30.245.50
-中录动漫,74.91.26.218
-中录动漫,live.264788.xyz
-宝宝动画,69.30.245.50
-宝宝动画,74.91.26.218
-宝宝动画,live.264788.xyz
-CN卡通,69.30.245.50
-CN卡通,74.91.26.218
-CN卡通,live.264788.xyz
-优漫卡通,69.30.245.50
-优漫卡通,74.91.26.218
-优漫卡通,live.264788.xyz
 优漫卡通,https://live.ottiptv.cc/mg/626064703.m3u8?userid=335749130&sign=20e3fca7684f41db7f46a5c900f99b5f910847baf7c9347d46fa316efe290873310ee6e8c88c21ebdf64a480d437947571214d6c7fd7640c88fcdf979300229e9e8abc17982785485225922d29fbc85a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-金鹰卡通,69.30.245.50
-金鹰卡通,74.91.26.218
-金鹰卡通,live.264788.xyz
 金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-睛彩少儿,69.30.245.50
-睛彩少儿,74.91.26.218
-睛彩少儿,live.264788.xyz
-黑莓动画,69.30.245.50
-黑莓动画,74.91.26.218
-黑莓动画,live.264788.xyz
-炫动卡通,69.30.245.50
-炫动卡通,74.91.26.218
-炫动卡通,live.264788.xyz
 炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-24H国漫热播,69.30.245.50
-24H国漫热播,74.91.26.218
-24H国漫热播,live.264788.xyz
-浙江少儿,69.30.245.50
-浙江少儿,74.91.26.218
-浙江少儿,live.264788.xyz
-河北少儿科教,69.30.245.50
-河北少儿科教,74.91.26.218
-河北少儿科教,live.264788.xyz
-经典动漫,69.30.245.50
-经典动漫,74.91.26.218
-经典动漫,live.264788.xyz
-漫画解说,69.30.245.50
-漫画解说,74.91.26.218
-漫画解说,live.264788.xyz
-經典卡通台,69.30.245.50
-經典卡通台,74.91.26.218
-經典卡通台,live.264788.xyz
-靖天卡通台,69.30.245.50
-靖天卡通台,74.91.26.218
-靖天卡通台,live.264788.xyz
-靖洋卡通台,69.30.245.50
-靖洋卡通台,74.91.26.218
-靖洋卡通台,live.264788.xyz
-龙华卡通台,69.30.245.50
-龙华卡通台,74.91.26.218
-龙华卡通台,live.264788.xyz
-Nick Jr.,69.30.245.50
-Nick Jr.,74.91.26.218
-Nick Jr.,live.264788.xyz
 Nick Jr.,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1268
-精選動漫台,69.30.245.50
-精選動漫台,74.91.26.218
-精選動漫台,live.264788.xyz
-Disney XD,69.30.245.50
-Disney XD,74.91.26.218
-Disney XD,live.264788.xyz
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-Animax (HK),69.30.245.50
-Animax (HK),74.91.26.218
-Animax (HK),live.264788.xyz
-DreamWorks,69.30.245.50
-DreamWorks,74.91.26.218
-DreamWorks,live.264788.xyz
-Nicklodeon,69.30.245.50
-Nicklodeon,74.91.26.218
-Nicklodeon,live.264788.xyz
-CBeebies,69.30.245.50
-CBeebies,74.91.26.218
-CBeebies,live.264788.xyz
 
 🎮游戏频道,#genre#
-游戏风云,69.30.245.50
-游戏风云,74.91.26.218
-游戏风云,live.264788.xyz
 游戏风云,https://live.264788.xyz/channel/youxifengyun?streamid=6e817b754189d2c8f7b32e7bff61ac7b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 游戏风云,https://live.264788.xyz/channel/youxifengyun?streamid=9d151740f57f6bd412bb6f101204b7bd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-游戏竞技,69.30.245.50
-游戏竞技,74.91.26.218
-游戏竞技,live.264788.xyz
-电竞游戏,69.30.245.50
-电竞游戏,74.91.26.218
-电竞游戏,live.264788.xyz
-海看电竞,69.30.245.50
-海看电竞,74.91.26.218
-海看电竞,live.264788.xyz
-电竞天堂,69.30.245.50
-电竞天堂,74.91.26.218
-电竞天堂,live.264788.xyz
-爱电竞,69.30.245.50
-爱电竞,74.91.26.218
-爱电竞,live.264788.xyz
 
 📺旅游,#genre#
-亚洲旅游台,69.30.245.50
-亚洲旅游台,74.91.26.218
-亚洲旅游台,live.264788.xyz
-ELTA生活旅遊,69.30.245.50
-ELTA生活旅遊,74.91.26.218
-ELTA生活旅遊,live.264788.xyz
-LUXE TV,69.30.245.50
-LUXE TV,74.91.26.218
-LUXE TV,live.264788.xyz
-TV5MONDE Style,69.30.245.50
-TV5MONDE Style,74.91.26.218
-TV5MONDE Style,live.264788.xyz
-MagellanTV頻道,69.30.245.50
-MagellanTV頻道,74.91.26.218
-MagellanTV頻道,live.264788.xyz
 
 🎵音乐频道,#genre#
-风云音乐,69.30.245.50
-风云音乐,74.91.26.218
-风云音乐,live.264788.xyz
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-音乐现场,69.30.245.50
-音乐现场,74.91.26.218
-音乐现场,live.264788.xyz
-音乐之声,69.30.245.50
-音乐之声,74.91.26.218
-音乐之声,live.264788.xyz
-潮流音乐,69.30.245.50
-潮流音乐,74.91.26.218
-潮流音乐,live.264788.xyz
-天津音乐,69.30.245.50
-天津音乐,74.91.26.218
-天津音乐,live.264788.xyz
-音乐广播,69.30.245.50
-音乐广播,74.91.26.218
-音乐广播,live.264788.xyz
-音乐调频广播,69.30.245.50
-音乐调频广播,74.91.26.218
-音乐调频广播,live.264788.xyz
-CLASSICA古典乐,69.30.245.50
-CLASSICA古典乐,74.91.26.218
-CLASSICA古典乐,live.264788.xyz
-TraceUrban,69.30.245.50
-TraceUrban,74.91.26.218
-TraceUrban,live.264788.xyz
-MezzoLiveHD,69.30.245.50
-MezzoLiveHD,74.91.26.218
-MezzoLiveHD,live.264788.xyz
-fun探索娛樂台,69.30.245.50
-fun探索娛樂台,74.91.26.218
-fun探索娛樂台,live.264788.xyz
-電影原聲台 CMusic,69.30.245.50
-電影原聲台 CMusic,74.91.26.218
-電影原聲台 CMusic,live.264788.xyz
 
 📺纪录,#genre#
-视纳华仁纪实,69.30.245.50
-视纳华仁纪实,74.91.26.218
-视纳华仁纪实,live.264788.xyz
-Globetrotter,69.30.245.50
-Globetrotter,74.91.26.218
-Globetrotter,live.264788.xyz
-达文西频道,69.30.245.50
-达文西频道,74.91.26.218
-达文西频道,live.264788.xyz
-Love Nature HD,69.30.245.50
-Love Nature HD,74.91.26.218
-Love Nature HD,live.264788.xyz
-歷史頻道,69.30.245.50
-歷史頻道,74.91.26.218
-歷史頻道,live.264788.xyz
-CI罪案侦查频道,69.30.245.50
-CI罪案侦查频道,74.91.26.218
-CI罪案侦查频道,live.264788.xyz
-Lifetime,69.30.245.50
-Lifetime,74.91.26.218
-Lifetime,live.264788.xyz
 Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
-Global Trekker,69.30.245.50
-Global Trekker,74.91.26.218
-Global Trekker,live.264788.xyz
-幸福空間居家台,69.30.245.50
-幸福空間居家台,74.91.26.218
-幸福空間居家台,live.264788.xyz
 
 📺新加坡,#genre#
-AXN,69.30.245.50
-AXN,74.91.26.218
-AXN,live.264788.xyz
-CNA,69.30.245.50
-CNA,74.91.26.218
-CNA,live.264788.xyz
-Channel 5 HD,69.30.245.50
-Channel 5 HD,74.91.26.218
-Channel 5 HD,live.264788.xyz
-Channel 8 HD,69.30.245.50
-Channel 8 HD,74.91.26.218
-Channel 8 HD,live.264788.xyz
-Channel U HD,69.30.245.50
-Channel U HD,74.91.26.218
-Channel U HD,live.264788.xyz
 
 📺日本,#genre#
-Japan News 24H LIVE,69.30.245.50
-Japan News 24H LIVE,74.91.26.218
-Japan News 24H LIVE,live.264788.xyz
-日テレNEWS LIVE,69.30.245.50
-日テレNEWS LIVE,74.91.26.218
-日テレNEWS LIVE,live.264788.xyz
-NHK 新聞資訊台,69.30.245.50
-NHK 新聞資訊台,74.91.26.218
-NHK 新聞資訊台,live.264788.xyz
 
 📺韩国,#genre#
-ARIRANG,69.30.245.50
-ARIRANG,74.91.26.218
-ARIRANG,live.264788.xyz
-tvN,69.30.245.50
-tvN,74.91.26.218
-tvN,live.264788.xyz
 
 💰央视付费频道,#genre#
-央视台球,69.30.245.50
-央视台球,74.91.26.218
-央视台球,live.264788.xyz
 央视台球,https://live.264788.xyz/channel/yangshitaiqiu?streamid=04540cf3fa4df50b6e2fd9166c021d4b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-文化精品,69.30.245.50
-文化精品,74.91.26.218
-文化精品,live.264788.xyz
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-高尔夫网球,69.30.245.50
-高尔夫网球,74.91.26.218
-高尔夫网球,live.264788.xyz
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-卫生健康,69.30.245.50
-卫生健康,74.91.26.218
-卫生健康,live.264788.xyz
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-怀旧剧场,69.30.245.50
-怀旧剧场,74.91.26.218
-怀旧剧场,live.264788.xyz
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-第一剧场,69.30.245.50
-第一剧场,74.91.26.218
-第一剧场,live.264788.xyz
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 第一剧场,http://iptv.4666888.xyz/iptv2A.php?id=61
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-风云剧场,69.30.245.50
-风云剧场,74.91.26.218
-风云剧场,live.264788.xyz
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-兵器科技,69.30.245.50
-兵器科技,74.91.26.218
-兵器科技,live.264788.xyz
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-女性时尚,69.30.245.50
-女性时尚,74.91.26.218
-女性时尚,live.264788.xyz
 女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-电视指南,69.30.245.50
-电视指南,74.91.26.218
-电视指南,live.264788.xyz
-世界地理,69.30.245.50
-世界地理,74.91.26.218
-世界地理,live.264788.xyz
 世界地理,https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-06-01 16:10:58,69.30.245.50
+2026-06-01 16:16:42,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853

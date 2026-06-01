@@ -25,15 +25,11 @@ ABC 27,https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd8
 Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 
 📺香港,#genre#
-TVB翡翠台,http://r.jdshipin.com/62WM7
-TVB明珠台,http://r.jdshipin.com/jUx8K
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 📺台湾,#genre#
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
@@ -61,8 +57,6 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 
 ☘️天津频道,#genre#
 
@@ -71,12 +65,10 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
 ☘️海南频道,#genre#
 
 ☘️河南频道,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=21b11779448319ceb58fd84af66e0f13&wsTime=1780329523
 
 ☘️河北频道,#genre#
 
@@ -97,10 +89,8 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 
 ☘️黑龙江频道,#genre#
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 
 🎬电影频道,#genre#
 24 Hour Free Movies,https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
@@ -130,4 +120,4 @@ TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 💰央视付费频道,#genre#
 
 🕘️更新时间,#genre#
-2026-06-01 13:16:12,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
+2026-06-01 13:47:28,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762

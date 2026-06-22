@@ -1,8 +1,33 @@
 📺英国频道,#genre#
+BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
+BBC Two,http://rocketfx.uk:8080/henry/henry/508265
+BBC Three,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
+BBC Four,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
+BBC Parliament,http://rocketfx.uk:8080/henry/henry/6036
+ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
+ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
+ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
+ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
+ITV 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
+ITV Quiz,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
+Channel 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
+Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
+E4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
+E4 Extra,http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1286332
+4 seven,http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89380
+Film 4,http://wickediptv.xyz/Randall123/Randall321/53896
 
 📺美国频道,#genre#
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
+Fox News,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
+AMC,http://23.239.31.26:8989/amc/index.m3u8
+CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
+TBS,https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+CBS Sports Network,http://wickediptv.xyz/Randall123/Randall321/53420
+ABC News Live,https://pb-0n3n2ej0w8pl9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n3n2ej0w8pl9/9d6fea29-b168-48b9-8d74-073a6bab5ce6/0.m3u8
 ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
@@ -12,6 +37,9 @@ ABC 9,https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/am
 ABC 13,https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 ABC 15,https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 ABC 22,https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
+Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
+MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 📺香港,#genre#
 TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
@@ -74,8 +102,8 @@ CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-1,https://cdn6.163189.xyz/163189/cctv1
 CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV-1,http://207.56.13.146:81/cdnlive/cctv1.m3u8
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
@@ -473,6 +501,19 @@ TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
 龙华偶像台,https://cdn8.163189.xyz/163189/lhox
 龙华偶像台,http://cdn8.163189.xyz/163189/lhox
 龙华经典台,https://cdn8.163189.xyz/163189/lhjd
+5ACTION UK,http://wickediptv.xyz/Randall123/Randall321/204605
+5SELECT UK,http://wickediptv.xyz/Randall123/Randall321/53829
+5STAR UK,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
+Sky Cinema Premiere UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
+Sky Cinema Select UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
+Sky Cinema Hits UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
+Sky Cinema Family UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
+Sky Cinema Action UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
+Sky Cinema Greats UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
+Sky Cinema Comedy UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
+Sky Cinema Thriller UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
+Sky Cinema Drama UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
+Sky Cinema Sci-Fi & Horror UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 
 🏀体育频道,#genre#
 CCTV-5+,https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
@@ -486,6 +527,26 @@ CCTV-5+,https://cdn16.163189.xyz/163189/cctv5p-2
 体育赛事,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 福建体育,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 TNT SPORTS 1,http://iptv.4666888.xyz/iptv2A.php?id=3
+TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
+TNT SPORTS 1,http://wickediptv.xyz/Randall123/Randall321/53850
+TNT SPORTS 2,http://wickediptv.xyz/Randall123/Randall321/53851
+TNT SPORTS 3,http://wickediptv.xyz/Randall123/Randall321/53852
+TNT SPORTS 4,http://wickediptv.xyz/Randall123/Randall321/53853
+SKY SPORTS FOOTBALL,http://rocketfx.uk:8080/henry/henry/508347
+SKY SPORTS MAIN EVENT,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
+SKY SPORTS PREMIER LEAGUE,http://rocketfx.uk:8080/henry/henry/508337
+SKY SPORTS ACTION,http://rocketfx.uk:8080/henry/henry/508353
+SKY SPORTS MIX,http://rocketfx.uk:8080/henry/henry/508341
+SKY SPORTS NEWS,http://rocketfx.uk:8080/henry/henry/508338
+SKY SPORTS CRICKET,http://rocketfx.uk:8080/henry/henry/508351
+Sky Sports Tennis,http://rocketfx.uk:8080/henry/henry/508334
+SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
+SKY SPORTS F1,http://rocketfx.uk:8080/henry/henry/508349
+SKY SPORTS GOLF,http://rocketfx.uk:8080/henry/henry/508344
+SKY SPORTS RACING,http://rocketfx.uk:8080/henry/henry/25199
+Premier Sports 1,http://rocketfx.uk:8080/henry/henry/357497
+Premier Sports 2,http://rocketfx.uk:8080/henry/henry/357498
+NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 风云足球,https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -506,6 +567,7 @@ CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 龙华卡通台,https://cdn8.163189.xyz/163189/lhkt
+Nick Jr.,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1268
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 🎮游戏频道,#genre#
@@ -520,6 +582,8 @@ Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 📺纪录,#genre#
+Love Nature HD,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 
 📺新加坡,#genre#
 Channel 5 HD,https://cdn6.163189.xyz/163189/ch5
@@ -565,4 +629,4 @@ Channel U HD,http://cdn6.163189.xyz/163189/chu
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-06-22 16:06:28,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+2026-06-22 16:10:10,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265

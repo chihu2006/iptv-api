@@ -1,34 +1,8 @@
 📺英国频道,#genre#
-BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
-BBC Two,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
-BBC Three,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
-BBC Four,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
-ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
-ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
-ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
-ITV 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
-ITV Quiz,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
-Channel 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
-Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
-E4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
-E4 Extra,http://kytv.xyz/brendan1/brendan1/2843037
-4 seven,http://realsport.scalecdn.co:8080/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89380
-Virgin 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110049
-Virgin 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110050
-Virgin 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110051
-Virgin 4,http://deno.adilservice.com/207bc27044/0b77d23a44e7/1017762
-Film 4,http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7627
 
 📺美国频道,#genre#
-CNN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1347
-HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
-Fox Sports 2,https://tvpass.org/live/FoxSports2/hd
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
-AMC,http://23.239.31.26:8989/amc/index.m3u8
-CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
-TBS,http://wickediptv.xyz/Randall123/Randall321/53318
-CBS Sports Network,http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
-ABC News Live,https://pb-0n3n2ej0w8pl9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n3n2ej0w8pl9/9d6fea29-b168-48b9-8d74-073a6bab5ce6/0.m3u8
 ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
@@ -38,371 +12,378 @@ ABC 9,https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/am
 ABC 13,https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 ABC 15,https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 ABC 22,https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
-Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
-MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 📺香港,#genre#
 TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB翡翠台,https://cdn6.163189.xyz/163189/fct
+TVB翡翠台,https://cdn6.163189.xyz/163189/hlfct
+TVB翡翠台,https://o11.163189.xyz/stream/live/hlt/
+TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+TVB无线新闻,https://cdn6.163189.xyz/163189/wxxw
+TVB无线新闻,https://cdn6.163189.xyz/163189/wxxwt
+TVB无线新闻,http://cdn6.163189.xyz/163189/wxxw
+TVB无线星河,https://cdn6.163189.xyz/163189/tvbxh
+TVB无线星河,https://cdn10.163189.xyz/163189/xinghe/
+TVB无线星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+TVB娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,https://cdn10.163189.xyz/163189/tvbp/
+TVB Plus,https://smt.1678520.xyz/163189/tvbp
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+TVB1,https://cdn6.163189.xyz/163189/tvb1
+翡翠剧集台(北美),https://cdn6.163189.xyz/163189/tvbd
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 凤凰卫视中文台,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+凤凰卫视中文台,https://cdn6.163189.xyz/163189/fhzw
+凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
+凤凰卫视香港台,https://cdn6.163189.xyz/163189/fhhk
+凤凰卫视香港台,http://cdn6.163189.xyz/163189/fhhk
+凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
+RTHK32,http://cdn.163189.xyz/163189/rthk32
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ1,https://cdn6.163189.xyz/163189/j1
+Viutv,https://cdn10.163189.xyz/163189/viu/
+Viutv,https://cdn.163189.xyz/163189/viu
 
 📺台湾,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS台劇台,http://iptv.4666888.xyz/iptv2A.php?id=58
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视影剧台,https://cdn12.178.indevs.in/163189/msyj
+Now新闻,https://cdn.163189.xyz/163189/now
+Now新闻,http://cdn.163189.xyz/163189/now
+台视新闻,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
 
 📺央视频道,#genre#
-CCTV-1,https://live.ottiptv.cc/mg/608807420.m3u8?userid=335749130&sign=4ae0ac3b15040c64bfd3cf7714e6e44331df4e746c80154c1d2bcb2a3207e5d9854aabbec45950f7b4739eb48f6556d48e3fecb5043dc81a102d723f6b18a4a0b500015f5c7320c494bc28e03779851e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=1926565337&sign=33ceeb6510e5a519e305031247c322bdb23dcd1675de53744ea462a28d501857ee88b9ab66d1f746204989a35c1fb7f54af13e8cd325c037565d38f5faa89e4bd96dc389b080497a811186010b&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,https://cdn6.163189.xyz/163189/cctv1
+CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+CCTV-1,http://207.56.13.146:81/cdnlive/cctv1.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
-CCTV-2,https://live.ottiptv.cc/mg/631780532.m3u8?userid=335749130&sign=8a1b5b391c4687a6b842360918fe9898e81f0a82d5695061609fa949741beb48571a0edcdb70e1bfaecd40c0ecf6e92a458ef53474d55fae25b4946f20ae685c40ba53ffa080c7ec8f0e88f44b382c8e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-2,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=1926565337&sign=7a85f47fd99588a31bdccc9a768355585aa4273b715920e98052b1187a85185499db30cafce5482ee642a7300d31f1e86b2eccb1f09c988518a0ac956a461396c34f4ec413f376ad283104b1e2&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+CCTV-2,http://207.56.13.146:81/cdnlive/cctv2.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV-3,https://live.ottiptv.cc/mg/624878271.m3u8?userid=335749130&sign=650c86fe1352eeab9b2e52a38541229621726430498cef1f33303d253fc623c218bb32a18865dab442a73359bf7c4d7cbc65702d6e71bb2b209cb3e8a16f979a616c8c88f4304cfd5d7a703a1db26979&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=1926565337&sign=bf41f77d5ab77a109f1cd1b4a89aba1f33a6f4047d3309e7772d9b0c311fefa24b52b713c1135fceda58f9248af69d93c72a2ba8934f854588022e589be53f62b5f2ee8ccf072d76eadbda098a&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+CCTV-3,http://207.56.13.146:81/cdnlive/cctv3.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,https://live.ottiptv.cc/mg/631780421.m3u8?userid=335749130&sign=858d5c192b4c8e3eb2fdc5fcd6aa8922aefeb0535442a0624427628ed43d3c5dfb35db0bb8f45303c662a6132d8f3aaf9cd8cd83b7a0e7bec9720dea5c77cd55b7ec2b57864f17a28a23cde4a085a66e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=1926565337&sign=ec3e0eec4b68e5b95efb75cae9f220505ad450cad2b6ac9129c283f73c2f6533cba048dc6457e1bbaaf727dead20acf14da0766a52edf2817347d5af4c08be941b2a2abc39aee4ddd70d5cf9ea&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-4,https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-5,https://live.ottiptv.cc/mg/641886683.m3u8?userid=335749130&sign=cc67639ccfda5cee24fc0f9581650968b8dc6555b9ffb63d712480cf59a3c641fd1f657b960455571cd38cf1008963a56c4253d66022ec35e16cd983ed1f940028f68bbda07fb44f2ecf75af58e2458f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=1926565337&sign=f206e770653e5ba6fe1fca9e23ecd6691711b221118bb25b774fa2b6acf7237c177550a49fa62821723c971f3470f447fcf526ef0692afed725d99629564b8587451cdaa6417bc6cdd368de424&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=1926565337&sign=78f338f8a30f5ebb1e5ce1b77c8bbea5b767eeb571bb1aedb84862ac77d3b087d5e23b878ba805997cfdf3fda801c4795a490138225b056ff210d6f09e4d131296e876d477650368d30220159e96&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-6,https://live.ottiptv.cc/mg/624878396.m3u8?userid=335749130&sign=ee662ff28b3e40bb0eb7803cdd7b2ae317ef77f42b926c628b1bf516d9a9200a055648a9be5613f07d00a5caf26a9e748909045849b57c249c1790e20833ac583a38e6b67242b2712d6a5cef42332e97&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=1926565337&sign=0e5ddaf51bab85596282d23afeb105267403b81e807936c480841445c90db1c3b6ff2dd7cd9cfaf3b6b9a7322bf73516b3afc2511e32c8dec7437e98f3969c1928044708b2bcee81c94dba2177&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-7,https://live.ottiptv.cc/mg/673168121.m3u8?userid=335749130&sign=3a9ca8201241215c39ab9c522bfcad238f0b5fd016ab5d3fe234f5b9378d17e2e777fa9c5818a89ad3eff08bd3b8039afc40a670e1afb8f6eac3331df3911ed45b45b7fe2833d8076dbdb3464b11aab1&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-7,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=1926565337&sign=442bb38be401e119508f1d7114769523e693f9b61c97ef05cf08958bd81464103e8b400440a8194b21567beec27ce06cc20c69784acfff57d4c8b8c6aedc297785b6fb59348ed610ccf0ac2991&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
+CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-5,https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+CCTV-5,https://cdn16.163189.xyz/163189/cctv5-2
+CCTV-5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+CCTV-6,http://207.56.13.146:81/cdnlive/cctv6.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-7,https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV-8,https://live.ottiptv.cc/mg/624878356.m3u8?userid=335749130&sign=cba342035698168e3642eb4d4be995470106966ce2867eac8971024433f4a49c79d3a010575ebb3e85be1d09a1a22c6ceaf6bb47c3b44947e105947356b471e6444e7d1ecf6b66665c901cec439cd281&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-8,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=1926565337&sign=a543535646d2e4da0682e32dc6423687bbcbe8d3013df59e9d81f3a82725f7e2cba7ae5cb66a228a1d394d21b16023337e4204bfedfdaa39aaa92c022b90e62a30629646c4487a0ec4990694dc&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-8,https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-9,https://live.ottiptv.cc/mg/673168140.m3u8?userid=335749130&sign=0687a30242a52571f9eb118b61fc19b4f20059e475c0db1d3585f8cce5b65d7eb962dd885fbd7511f5a915235d56b68e9ec14ada27c47b0b8f52d77d54f00eb07052e57992050da7ba79ca1e4a869dd2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=1926565337&sign=d4ccecf670c9234de9bc53a0274f55a60f0c332e9e49f48b2e21d839ae35b185873a20abf54468d8518b542a62901b9b4bf3997613be347a254ffc8bdf73d520ad3f2e61d14f952202bde0253c&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-10,https://live.ottiptv.cc/mg/624878405.m3u8?userid=335749130&sign=28f22a9c7ee271594a6dbd063150d3dfe8af6c9d4ae3f8e56bc4b9e0276fa14788e739a5a0d2557ddce3290003dba512fb5618ab89eb3be3b4e15b27478b1ae89f90d173cd0b8db28b8b2db5da0d55b2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-10,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=1926565337&sign=11e46496856494fe5e753b07a7ded6d5e21a3c7529632fb92b892978e37a7fa24e9bb90246d4ae8a8d20985f72096b57d2ecc313fd51fe41ffd84016bcece5d3720bd92ccfd317de6404133dfd16&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-9,https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+CCTV-9,http://207.56.13.146:81/cdnlive/cctv9.m3u8
+CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-10,https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-10,https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV-11,https://live.ottiptv.cc/mg/667987558.m3u8?userid=335749130&sign=df7a862c3abeb21521ecb5593112436a8affd0eedf9d7a5b7482a9a51f954f4d6a7290f54416958d963e34b29faa3357387d360b153dc800a718a5f6ef5e056e95a0854fd789e2a47a4322a816feef85&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=1926565337&sign=cfbeacc7a67a91e7e23ae07fd1cfd183257e30b8923f62cbd5dda970646e22fde0f963f4c9a5faa99c09bf8d6152e07495da1f1d8f298d6b90b7eb3a979ad804451db1c063538d5865d0d28bcd02&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-11,https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+CCTV-11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-12,https://live.ottiptv.cc/mg/673168185.m3u8?userid=335749130&sign=fbddbaace5f7baca3c7d3d5ca897774ffe10a8856b5139df0bf286ff456efdafb25768a29be3a522d19dd89b8b1aed4fc67e315c9659b94c98216afa5105d69fe54d1cbbd9f24230f962e2e7928f1743&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-12,https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=1926565337&sign=565271820b07654b482e0944794b74d38101f1f3563a723a208a51daeac5a1ad3dbb359ac31efac477a4cb08293fae1da4284498fb9c53bcc1a9350e702f8e11ec1b6b471ef15200354065dcd027&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-12,https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-12,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+CCTV-12,http://207.56.13.146:81/cdnlive/cctv12.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-13,https://live.ottiptv.cc/mg/608807423.m3u8?userid=335749130&sign=7ac404b58f1d91517bf4a1b260cc839f161e2eb219dedfa14db6421f75d266691e4a48735d01a32f43b9ec7f5ae8aa1317e8703cc52b19b349da350beefc398c19beadeef83464d3417fc3ad5cd33e92&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=1926565337&sign=6fdf1b2f815be9f692bd8033a5e7c852b03f4b2cf436dd5b4af2b5256d802178624442649864bd6eb4e3c1a66eb74bbdafcfe3d25e8bb4418b0f180e51646ac5cbdf60158f3917cd600cb0ec5abf&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
-CCTV-14,https://live.ottiptv.cc/mg/624878440.m3u8?userid=335749130&sign=d4a35bde23d42601dea5f70427d9d51f21c7abf3e56c2268d4b9b281b2f2c3a755cbc7cc2b1cd2ef97c318a7e9b4f07f752dcb1761d5c543048e6fd23245b43c44ecffb388175ca4b5402d62ca0b63b3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-14,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=1926565337&sign=b635587a492f6ff87301b8bbb1fa6b6d810cc2245b787377d383efb17614b7d1ae9d2f74777ba27385b45c84f8ffd3e8b8570cc30455e2bf0d612844c40e483867c5ce9aabde581c7cdf33f22a2f&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-13,https://cdn10.163189.xyz/163189/cctv13/
+CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV-13,http://207.56.13.146:81/cdnlive/cctv13.m3u8
+CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
+CCTV-14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+CCTV-14,http://207.56.13.146:81/cdnlive/cctv14.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-15,https://live.ottiptv.cc/mg/673168223.m3u8?userid=335749130&sign=619c7e57fbbbf9bae16f29f9a708f5ed2a7583a4e596e3f156cfd3bb1f6e476575af7fecd4ade345b8af00d48d7f4a1a21fb1b171a5020db70ba8310fd0b60bf8a48420d9defa0ed270aede79a218e96&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=1926565337&sign=51b7758f531abdd6ee9ba896797203ad205b37d5457ef45a4aa0769f26b5916ae31154a48d9f9bfc7c9c19876affdf5f51fe23af511ca774d63d2e8cb15e4a68b1c89034257cb3c80db0f7e838eb&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=1926565337&sign=70418ae0e377531898d199a165f27df68dad1fc27573d4a242fd372b16655457da4d5fdc79881db7afa2be502b5b01b4fe63dd016ded39fe47a0512ba5ddb9489442b759147369cb2f6d7cb9f25a&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-16,https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-17,https://live.ottiptv.cc/mg/673168256.m3u8?userid=335749130&sign=e3ca2c8ee261086d41b936e54d01c0266e85f8b9baad9bcb1cb9520931fbbb90b57972eca26cd0db0b487c479516c377bd486b9fbcc136fe9e152116bccbee00b16174d6c23b2a75e3b76f9e21b868e3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=1926565337&sign=09ef41982876bd18c286d2c8d4973fd7446b07e242b3b112babf1ba03160191cc742f998ab50b35450cc6bea4243a698c045bb55e09cb62e246ff253e8fd98988c040c9b78c1f2c0d698d4b4e0b9&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-15,https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
+CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-16,https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+CCTV-16,https://cdn16.163189.xyz/163189/cctv16-2
+CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+CCTV-17,http://207.56.13.146:81/cdnlive/cctv17.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV-4K,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=1926565337&sign=d96f45215a5cfaf94cdcb05c61cd3f6fcf49ff5c9a7c59fc65c6e497555594ee8352edd4d6a5f7b557da79ea7f4e44192a560dbe74efbc35a7d0b785a4a1758ef8fcbf3b49c8b5fbf590d1c5a33e&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-8K,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=1926565337&sign=36f2b8f160bc9607d4f7ee858471933b5e73ae095dd3071ae77cd8fc38efa9f4b1f41ea9a9c1644f426030784e42cae7e43782af1a8a368a5e5b0fa2cb3d1d592479ff27882b3754140ce379a640&auth_token=1b419ca2389167e00ffb1a7264658820
-CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
-CCTV4欧洲,https://live.ottiptv.cc/mg/608807419.m3u8?userid=335749130&sign=7432a57a7234ef2de5a2fba14a7bb793cb247b2b59a26c5ba8215a494e1ed190abf643b675b99d0adc860a2a6c6ccfcf45016fb3a3bfba477b63152ce3396c744da530b6fc0c5fa94990162b11ab9523&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV4美洲,https://live.ottiptv.cc/mg/608807416.m3u8?userid=335749130&sign=c6cd7559668ec33578dd59f78e5adb672a13b17770a2c458917a0a3aeffceab6d973af6ac18271abd10886d2a7f7a514c17d4ca9d98ffd06cdbdf76b542ca3b33074c23714808f9ee715699c2e27ad12&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CGTN,https://live.ottiptv.cc/mg/609017205.m3u8?userid=335749130&sign=75f1ef4fd0c9d40c1b1eebd74c6d0f56b86d9b8c47a56d7b3856ccd4f2635e7659372ab80c5bc99c111ffe85577e8bf439c1f90ee556be0a5cdcddfe219fc10d248d8210737fb61d827ff54aa5eb141e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046013bee3262d4988a9c4c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
+CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046013bee3262d4988a9c4c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CGTN记录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 
 📡地方卫视,#genre#
-东方卫视,https://live.ottiptv.cc/mg/651632648.m3u8?userid=335749130&sign=1b4f3d86e58b666e5cb9c886da8e82a4ae940b77d006a5917591107aca4f32493c4c610ca109155a43d9568f2a000690d39aaf50b639e55865a4ec516bbb949247b4415b194638a1884867cdac7f54de&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-东方卫视,https://live.ottiptv.cc/mcp/dongfang.m3u8?userid=1926565337&sign=fb4e7e75a57d2f220503c491483bbe07dc3356da57d23f5fb4bfec2001ba96e082563da945c3ee80ad555b38de4f04938767ee9c2cdae6bbfe83353220e870b9fea560f4a3343f3ba7009ab40720de8c&auth_token=1b419ca2389167e00ffb1a7264658820
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方卫视,https://live.264788.xyz/channel/dongfangweishi4k?streamid=b8c707e2ca95b85511f6c50c9638128b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南卫视,https://live.ottiptv.cc/mcp/hunan.m3u8?userid=1926565337&sign=0158b5b7493038fbd5afc3369b5172a519821a4d0a8aabff8c9609865e7c71c24b9729e1cb3a68bff2de54b1c1d75c8f5bd67508235d98807c206dec2f8920b59492df36e6f87a7bd799267402&auth_token=1b419ca2389167e00ffb1a7264658820
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=55aa70b744ce4863ca4f21755ce7821f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南卫视,https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方卫视,https://live.264788.xyz/channel/dongfangweishi4k?streamid=b8c707e2ca95b85511f6c50c9638128b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=55aa70b744ce4863ca4f21755ce7821f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖南卫视,https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
-浙江卫视,https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=1926565337&sign=f7f974e5a48e9c78a5d7f0b9aa2338f870c7d8d562c2b4f2eb3b36e75a939809ad12fc327f3ee7f92a564f0435d7a9cd0831694a91a145ae2601604e7e55b9d963e75fc91fd2acaa7ce3541beebc5eb0&auth_token=1b419ca2389167e00ffb1a7264658820
-浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=f48e0bb7d67c931727ebb8fcd97bdfd3&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=f5e7e8c75bba6951ba709e8a46ff2772&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-浙江卫视,https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=f48e0bb7d67c931727ebb8fcd97bdfd3&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=f5e7e8c75bba6951ba709e8a46ff2772&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+浙江卫视,https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
-广东卫视,https://live.ottiptv.cc/mg/608831231.m3u8?userid=335749130&sign=08adb6f394dcffcb3b1dad13a38768f0c9de2d58afd5c2e3f32d5976e5a334eafe76a52443851b700fe8b64b610bf85a2b0f4659533eb5c60433b59504c2f168f9cae61e4d5db13aa7799ce68cc2362c&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-广东卫视,https://live.ottiptv.cc/mcp/guangdong.m3u8?userid=1926565337&sign=d713d558bf30997ef14e8fd2877412cf0b9f22754b96fda252896265dad9bd3112cb84d213c50f7d83ef4660e34069d5408df2dc8b15738933b3ff0d658d5f5f646a2a5d6ade68dc611449e6e158de50da&auth_token=1b419ca2389167e00ffb1a7264658820
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=b323fb591a326baffd8c4e4a5d48ba30&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=a8a6999dae6313a2788eff262b5873bc&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广东卫视,https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广东卫视,https://live.264788.xyz/channel/guangdongweishi4k?streamid=6a50ede91d38c74ee3789122e267fec1&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
+广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=b323fb591a326baffd8c4e4a5d48ba30&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=a8a6999dae6313a2788eff262b5873bc&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广东卫视,https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广东卫视,https://live.264788.xyz/channel/guangdongweishi4k?streamid=6a50ede91d38c74ee3789122e267fec1&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-江苏卫视,https://live.ottiptv.cc/mg/623899368.m3u8?userid=335749130&sign=416d3eb92c3442bb9be90870934a818a93bb5c375a04d61a25734e12715741d2d0c86f976a4e80d9d83c04d5b13c1a2e7b0635cbd81c85b29af17387bd3629e6b0553f3c5bfe415321bfc83a66465e67&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏卫视,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=1926565337&sign=6539dca65a7911401ec949ac52f153b1bec1ccb3f89ed1b2db898ba722153406a2498d57579079f39851b5bcfc20cfd270671db2542968d33d99b13499ec2996c344959d53e2789a2deee8ec519755&auth_token=1b419ca2389167e00ffb1a7264658820
-江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=5e7875e596c34b83f5defc985b52c5f9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江苏卫视,https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=5e7875e596c34b83f5defc985b52c5f9&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-安徽卫视,https://live.ottiptv.cc/mcp/anhui.m3u8?userid=1926565337&sign=c9dfd93d7c112490e709c2f95588c0c51844b317082df927077260a2fe5fd700c550c5fd2980a4087e089df9f6473e24fbe1a41f4c2b7ffb1ab4650917b7aa36aa24aedb83943d66e98149e418&auth_token=1b419ca2389167e00ffb1a7264658820
-安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=8f6ba7f0abf067bd6d93c7b58ec3d86f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=6ad47f6ad8c42aa9e08a751bed820b1c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-深圳卫视,https://live.ottiptv.cc/mcp/shenzheng.m3u8?userid=1926565337&sign=645802db0b8254ba719d31fe7ca7252bad09d032e73156c3dfce9a91e18e5215d46d657735d58d32bcf6248a3c72bfbdae4ea0f3a5c7aca2e7214a2aa01bb34bccc87037360314632bace1272926a01e70&auth_token=1b419ca2389167e00ffb1a7264658820
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=85961b14ea610e8adbef8769bea8b26e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=9f19de691697b902376432567c77cece&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=2715678e4b53f93415f1b63d802c342c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-深圳卫视,https://live.264788.xyz/channel/shenzhenweishi4k?streamid=9828b90c3948bae63cb8de76cdccd646&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-北京卫视,https://live.ottiptv.cc/mg/630287636.m3u8?userid=335749130&sign=e4b0820c8e3e4c6270da438421c6778ba680ee992ca00ce1e04d7cf4fec700e9b3531a8b8cb39e09f5b5f88e22007bf5548e45e01d5b357d12cbfb434622dec9d4ecf9a715d8f99f511ac5959575a0dc&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-北京卫视,https://live.ottiptv.cc/mcp/beijing.m3u8?userid=1926565337&sign=ccd19c9f51eeb04f0b2d5e7729a663c80ebd2f3927e91b0b53beb1ae0c50996d90094240faf60031469720397660b9e84c699b0dfdb7c3efca60b03eb9d86a4b25dfea5e590f5de2efdc0e582f573f&auth_token=1b419ca2389167e00ffb1a7264658820
-北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=f37b9c719ec0ddf230c854b7ef08c7b9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=9859ef98cc152feae0c066e8c100ad2e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山东卫视,https://live.ottiptv.cc/mcp/shandong.m3u8?userid=1926565337&sign=96cdec5ddf88101b5c4f77094967af3984a3bbc6b40b29e94b79902ed209c3d155bf197405c6a6f99b1e62a50923d2769494e4fc06f083d4bf0335946939220a4406bdb15e2d913836119bc269ddd62b&auth_token=1b419ca2389167e00ffb1a7264658820
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=17734718ddd5e6904640c72df1fe5fa8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=bf9b7f517ea933966a973fa582f07137&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山东卫视,https://live.264788.xyz/channel/shandongweishi4k?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-重庆卫视,https://live.ottiptv.cc/mg/738910914.m3u8?userid=335749130&sign=616cfce75da9d2f6d187d3aaa49d5b010297c159f2e87b3eb16f71fdc40a1889832a5a9309d37d5e8f3fabe55f9704f88ed5a6160203c9c27ffd86bdd394999948d6abb80e46aa67f89d7f8c288fc448&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-重庆卫视,https://live.ottiptv.cc/mcp/chongqing.m3u8?userid=1926565337&sign=8a7bc009d7c6d9656bd3ed885a92371d654315958f551bcc7828b10184a995b174a12eb9a260e0a1024d289352fac8efb25083034355308a83630a198402a331acd2b3c468037f7a48a2ebec677ad220d5&auth_token=1b419ca2389167e00ffb1a7264658820
-重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-辽宁卫视,https://live.ottiptv.cc/mg/630291707.m3u8?userid=335749130&sign=3b07747d64ac59d1db4f30e108e63f0d5a23f630c417cca280d864212a209bc73a8eb3677c608c9c9337b61b78bf2f5c41cbe0644e43a2cda260d9163d441c5867b219794edaf77a976426d2be517ed3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-辽宁卫视,https://live.ottiptv.cc/mcp/liaoning.m3u8?userid=1926565337&sign=db18482e7eee2f4ac5ee405addb047599241bc3dfdcbd9e07fb107b9ec4510e649e0810c3562b3590b5dda77f025bec59597ee7b8cff5cda422f9c88bdf0dc22c55d5ccc9e524b8fabb8288e125ed91a&auth_token=1b419ca2389167e00ffb1a7264658820
-辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=d1d75a84e93e19de790b38a1305b0e02&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=a5721d1b827b5abda39797171e2c1a53&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖北卫视,https://live.ottiptv.cc/mg/947472496.m3u8?userid=335749130&sign=eb57b43673af78fb3eb003a4cedae479ea83bad4a7e3f691d57d7bc567fde8cdf9cbc2ce263943a8a6dbe81ad49f09aa183ad655a14cc51ad0f4615ee879edfe34439726b74f36727d2932610c4bb6ef&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-湖北卫视,https://live.ottiptv.cc/mcp/hubei.m3u8?userid=1926565337&sign=726c11f11748e7a8ebe5184663b6753aa7ed8e83d8e71211ebd6ba6fe22f4f9ab5dc75d8f09a59fc3497999195dec5aa48c4fcc5abe1d055fcb61305164cd6ef0613fc65378e901cfa596c8e94&auth_token=1b419ca2389167e00ffb1a7264658820
-湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=08d72c3923d4678347468aefd5ed9877&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=3178da013d951c658209016c1fb875ad&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广西卫视,https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=1926565337&sign=cc8d6f9319729f6860fcc05c6c9141d96afa1270d160a8af0b3e242ce9188905b9efed4ae6a5bf0b4efb8fba52460968488c1dc58c26c940ce04f4a5adcf9497de56199711ea637bfcc6f2cfe7ee5d&auth_token=1b419ca2389167e00ffb1a7264658820
-广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=c8e847a8745033edc0153656ddc62c47&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b3bc55706bd074b608a3b955fbffea4b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b8d44e8c47f0c0688b1e68b8e2c00b91&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-天津卫视,https://live.ottiptv.cc/mcp/tianjing.m3u8?userid=1926565337&sign=b03031c4209b14cdde2f2ad5865e8e37aed3c3bb7e48754db31fe76a7fd85ff429dad75da2e23b491d2971f138ac83439f394fdff316b13cacb5b4b2cc04b2759c6ff652adfaaaffafda1098a4d7d7c2&auth_token=1b419ca2389167e00ffb1a7264658820
-天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-四川卫视,https://live.ottiptv.cc/mcp/sichuan.m3u8?userid=1926565337&sign=e2878c58fe7850579774b5b4440cd8bc3740ed3f5ff33ff03486ff4751440966b255827e1c5e5de18844d80b59bcc8da2190918f8cdeb9ec84b95116338fa32911078cb32da28c502f661fc675df8e&auth_token=1b419ca2389167e00ffb1a7264658820
-四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=4e78b35cb55092e088d2e3abd2992b00&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-陕西卫视,https://live.ottiptv.cc/mg/738910838.m3u8?userid=335749130&sign=3619f204d9f60827456017d0c0a6781fdda4de1b4c20f6e113298e209909e1e15f9f69fb8a913fb697f7de251026d31678bcaae06c4400fb447c5726db45080438ddd41dde7cda1b62ba741f3b5a4325&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-陕西卫视,https://live.ottiptv.cc/mcp/shanxiws.m3u8?userid=1926565337&sign=782a64a73366860c5424ecc5f14227e754138006f8b946197ce21357f2f3d169f7d4c5c01a957b2aef4fe419cc19f9b1eba9e716d62d7faa8ca3e47f80b25b554b4650cfe38a6484d9e1049268d3901b&auth_token=1b419ca2389167e00ffb1a7264658820
-陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=5f9339264c2e80b84332f176b74b1da5&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东南卫视,https://live.ottiptv.cc/mg/849116810.m3u8?userid=335749130&sign=61375eedd62bbb3876699cb47d55d07fcf378baa6f9c7d558343d1d05b2c6845d28260136223993c05ab56c7e04d183205fce4c9beb13f8a4c663f06337768ffe396091ee392b1779d11cfe4fc0e4a6c&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-东南卫视,https://live.ottiptv.cc/mcp/dongnan.m3u8?userid=1926565337&sign=ffe5bae7dac2e135221383ae0544a9887391ae7dd085130470dc5d4aeade8f1fd51f8d524cae7aefef677274505a83e969b152750d92d7b86e9e7e0290ee7837becee74946392791c8ff6da83d4a80&auth_token=1b419ca2389167e00ffb1a7264658820
-东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=7ac1647173cac04556dbb3d5dd784331&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=413b61f1d39c255162de35c161674037&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-海南卫视,https://live.ottiptv.cc/mg/947472502.m3u8?userid=335749130&sign=41da454903fbb56f548dd77ef3560c80fb1400cf22177bad14266d9a76049c460b77fd020a8261fa39368fe0df6e6c8b4550f55956f121e6ffa61ae7a5c67ec528f2083e9b7362e6af6be703ca96d3d2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-海南卫视,https://live.ottiptv.cc/mcp/hainan.m3u8?userid=1926565337&sign=84e9e670ee2ff0dedddf3bbbc19e8fab47d1958b5de8887e3602d7dbc9eb70f53fae7ecc8ba0f62f145ffeac6e0199d029665b3b631080eee0969e8110e2fe965ade0f3f7adebc70b65d29bd7f11&auth_token=1b419ca2389167e00ffb1a7264658820
-海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=d80f78b33df0a139d4d22b44e645b9e8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河南卫视,https://live.ottiptv.cc/mg/790187291.m3u8?userid=335749130&sign=510a0158d05b47c7060915f4730eca00f89260f97aa6627a529a773e2769f931f03f856e4a1ce4b6bca05ccbcdfc4829bcb189e3d06e2ca6a0d22b7df26d7bd09edc11dd38482e0e4be83b8b2e7520fa&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-河南卫视,https://live.ottiptv.cc/mcp/henan.m3u8?userid=1926565337&sign=eaffdd53b8cf509235aab87c34d957bf0878e7b5da4432f9f06c14dfd4496348c6801f4d520353b2f17764775ca34a1653ead61d8183f0610163af2808e2da443b2d2e856022b8df5a92d44153&auth_token=1b419ca2389167e00ffb1a7264658820
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=ffc9cbdd1791aa15a6321452d620baff&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河北卫视,https://live.ottiptv.cc/mg/962042070.m3u8?userid=335749130&sign=fe6e649f9a015e1b29a5312daa8286b56e30d946c5bd5a0f34a0869da764328eea091d87d6b2a28e331e1bcf3266b57b1e72bf29c5614c72192651d29d891f726f70486c54ac5d6ea8b09f090fa8a60d&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-河北卫视,https://live.ottiptv.cc/mcp/hebei.m3u8?userid=1926565337&sign=b1ce74edd33b46c2d5f0ce86d98800623645c722a0afa7b297bbddf05c389a141c76afe47b88b057c3875175084f1b20b89244c3f69871192318eb04045b0ad5423d8ff2deca7bdff3a03f406c&auth_token=1b419ca2389167e00ffb1a7264658820
-河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=c623903495968308e1bd87ec273e46d2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=e664e97bdd2913ff29e71a8924b02712&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=dc05a5197d73d3781c8d021d081f03ac&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-贵州卫视,https://live.ottiptv.cc/mcp/guizhou.m3u8?userid=1926565337&sign=36d8e2a1e910d4b6b327f1aaa1750ff11d0c561b7383698cee71f7e8105562724ccc83170efae4ef12a4e9777098a6af9b368621452d45b9855de42cc104435302eec071d12e823e5668b5cfd8f18c&auth_token=1b419ca2389167e00ffb1a7264658820
-贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=7a7c8f5c962cd93365273e438a14c334&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-甘肃卫视,https://live.ottiptv.cc/mcp/gansu.m3u8?userid=1926565337&sign=7de679dbf784dfd330c7924d444ae1e709bb46d2c8b1b6ae1cc3cc5491c3604353df1ceb7c10c03e8c1b4f2bfdbe7752ef13627b95bfce56b053d9e10ed447014e9012f2c9ad6274fe2c235ed2&auth_token=1b419ca2389167e00ffb1a7264658820
-甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=466083ee6981dccb38d23b5556b27f6e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=7e5725bd0fd11e1838df3be9dcf1ecc9&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山西卫视,https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=1926565337&sign=d128f39c1d25a0974c45aef02974f39ff9eb80fde749ce9d62f720213b3a6129e80f06b59d506f68bd469cc3caffea6782397c57b8e4cd6a06a8e80166f1648924e66dc3d38b33cb221a5835f6d3&auth_token=1b419ca2389167e00ffb1a7264658820
-山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=d8fdbae386f631fab5659391da113957&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
+安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=8f6ba7f0abf067bd6d93c7b58ec3d86f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+安徽卫视,https://live.264788.xyz/channel/anhuiweishi?streamid=6ad47f6ad8c42aa9e08a751bed820b1c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=85961b14ea610e8adbef8769bea8b26e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=9f19de691697b902376432567c77cece&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi?streamid=2715678e4b53f93415f1b63d802c342c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+深圳卫视,https://live.264788.xyz/channel/shenzhenweishi4k?streamid=9828b90c3948bae63cb8de76cdccd646&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=f37b9c719ec0ddf230c854b7ef08c7b9&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=9859ef98cc152feae0c066e8c100ad2e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=17734718ddd5e6904640c72df1fe5fa8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=bf9b7f517ea933966a973fa582f07137&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+山东卫视,https://live.264788.xyz/channel/shandongweishi4k?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
+辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=d1d75a84e93e19de790b38a1305b0e02&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=a5721d1b827b5abda39797171e2c1a53&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
+湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=08d72c3923d4678347468aefd5ed9877&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=3178da013d951c658209016c1fb875ad&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
+广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=c8e847a8745033edc0153656ddc62c47&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b3bc55706bd074b608a3b955fbffea4b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=b8d44e8c47f0c0688b1e68b8e2c00b91&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+广西卫视,http://207.56.13.146:81/cdnlive/gxws.m3u8
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=4e78b35cb55092e088d2e3abd2992b00&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8
+陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=5f9339264c2e80b84332f176b74b1da5&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
+东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=7ac1647173cac04556dbb3d5dd784331&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=413b61f1d39c255162de35c161674037&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=d80f78b33df0a139d4d22b44e645b9e8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+海南卫视,https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+河南卫视,https://live.264788.xyz/channel/henanweishi?streamid=ffc9cbdd1791aa15a6321452d620baff&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=c623903495968308e1bd87ec273e46d2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=e664e97bdd2913ff29e71a8924b02712&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+河北卫视,https://live.264788.xyz/channel/hebeiweishi?streamid=dc05a5197d73d3781c8d021d081f03ac&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=7a7c8f5c962cd93365273e438a14c334&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8
+甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=466083ee6981dccb38d23b5556b27f6e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=7e5725bd0fd11e1838df3be9dcf1ecc9&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=d8fdbae386f631fab5659391da113957&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
-宁夏卫视,https://live.ottiptv.cc/mg/738910535.m3u8?userid=335749130&sign=513eeaf1e8373480a11122fe9204aaffc09912722a9a83c1b56d21aeef918c276f9f6a7ed603c844de1f625615cc06bee263c2a7f384c28acda7dd54978077e63720333071a73d31116a303f5224a8e2&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-宁夏卫视,https://live.ottiptv.cc/mcp/ningxia.m3u8?userid=1926565337&sign=4e79bc5d5220ac8cbfd7ce0d071134ae5370c32d2fd0e81c883823f68afc36239ae4960c21c771514726f6626b66fe73693a77f671f3a2fdad235d3f39bae7abad6933bb5ca18058dd38b55ecc6ecc&auth_token=1b419ca2389167e00ffb1a7264658820
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-内蒙古卫视,https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=1926565337&sign=d498b411d68607fd0d1721d14acad598dddda5446aacbbb6b1162ff1539ba847cedea864884429f28f9ca946771c303401b1ff651cac583d6de8c03e96f476dc1afaabb0cf2f67bf305cf03c00b0b4fcdd&auth_token=1b419ca2389167e00ffb1a7264658820
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=50d587b08d9d6f642ec88593ebd51361&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=85b9865e25848d8a9860542c89e5c810&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-云南卫视,https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=1926565337&sign=29b542424afef284f09f8748f6ec55111244f2ee68f1935097df64ac247018fa66afa4dc188e7d3cc462765c00f25501d36d140b0d6046910b0b6fd8a35739aaa69b293ffda5197339d68317bed9&auth_token=1b419ca2389167e00ffb1a7264658820
-云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=22491d4d9e9620540ee58218ee249b35&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=76ef482fc0c398954c105fa4a73b21f2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-青海卫视,https://live.ottiptv.cc/mg/947472506.m3u8?userid=335749130&sign=ed27c9a6d2080e6473c194473efeeb431637b8ecbe05078e99a4d1e2f872e06b6daccb2f5fc49bf5eeca5c2ff8c323f9919f16a434149e03c0a872743872d2a2fb1c518b52795307e85b4e5fd5285262&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-青海卫视,https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=1926565337&sign=78be38de0705738205430c14ec3baa7aefbeacdf55857441d203447b7fdac71149d38750531dc4e43f775683eb193bdc98f955c9716c2d11fb41c0f037029bb955db307cecfdcb3f42a16d6c5a9838&auth_token=1b419ca2389167e00ffb1a7264658820
-青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dcc88f36445dfbc894756be122a0bb9b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=2e47f290dfc5832de1553e7b3710d702&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=50d587b08d9d6f642ec88593ebd51361&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=85b9865e25848d8a9860542c89e5c810&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=22491d4d9e9620540ee58218ee249b35&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=76ef482fc0c398954c105fa4a73b21f2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dcc88f36445dfbc894756be122a0bb9b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+青海卫视,https://live.264788.xyz/channel/qinghaiweishi?streamid=2e47f290dfc5832de1553e7b3710d702&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
-黑龙江卫视,https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=1926565337&sign=4ae9c48fe98f8536ac86508458a3213eb2c491225c1519538232847b41c5fa2c69ed7ff66e079a2b291fbcbec2f209859c3d6688f70f6e277cc355440f1ddbfc0c92cc680a320e35952d7bb064a59f9693726a63&auth_token=1b419ca2389167e00ffb1a7264658820
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=70e7900a371f6cb721786924bfba0418&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=5bc0f34437d76466e8ce387d3b8debbd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江西卫视,https://live.ottiptv.cc/mg/783847495.m3u8?userid=335749130&sign=ad53e0b7af19a969e7380a0b68e3be1916923e4f2705500980a0c67ffb486ca3bb5ffec05bb4503d193ee0bade6214f576ba0f2062b62d1bfeacf2fe904f40ba1aff38f1037ec51a5c7ec4f107a2f576&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江西卫视,https://live.ottiptv.cc/mcp/jiangxi.m3u8?userid=1926565337&sign=517ae222db2f6f3e1b2c04b3ba34a5963b13eb447971ccaec51c22043af63aa8cf28cbe27fffcf54e38ecba8aa6db7ae2a9f7331c353c91c4a04c91a38ea8b7b638784dcac620c4c5bdce4b0191617&auth_token=1b419ca2389167e00ffb1a7264658820
-江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=4a6eec625aac2ea37719b063f81d43b8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=fbf14331a3f027fec6c17914e6f6a8ee&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-吉林卫视,https://live.ottiptv.cc/mg/947472500.m3u8?userid=335749130&sign=f24a2d1fea1c0d1fa028f97404a6e2c726771bbee6511482cea009a5acfcbb9f59058320e910c0bfc3d86e7edc6182d5cea086e99a0f4c849b7b5379482157a499cce7625e30d25500fece2263a186b1&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-吉林卫视,https://live.ottiptv.cc/mcp/jiling.m3u8?userid=1926565337&sign=079a64addff96d09805b5250aa237a36839b7450e46cfeb600005f687effa21fc92e72228414a934f393136900085bca7b4d68e1d9e7b5d4dee87c1219d93222d078ff0c8888e433cb58970cfe89&auth_token=1b419ca2389167e00ffb1a7264658820
-吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-海峡卫视,https://live.ottiptv.cc/mg/849119120.m3u8?userid=335749130&sign=7126cecc42f3b908568dd6c4445c819d69a8db7226bbc4018a3c0436b7fa2fb3f9025c50a3a75addc877f648475b0edfa4ca3a6432e2d4967bf6a4008fdb5d139ba2cfb0e04a1dd242af49d7bd69da8c&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=f495ed8625aedd9e72c64fb11e6d68f2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-中国农林卫视,https://live.ottiptv.cc/mg/956904896.m3u8?userid=335749130&sign=97fdfc3eba6b0ef147a06e0acab6ff88d7c22548c7d4642315d7bee3c4ade95362ccad50897c8ba6a0d6ee24b76ec3eac38b1174653ea63aa3ecb1976ffd5bfadc6799ec5939d0460414d46aa7f98100&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-兵团卫视,https://live.ottiptv.cc/mg/956923145.m3u8?userid=335749130&sign=529b72958c2bdec7617b26c17e3040200197e201e2015071deb0d1ce0945224f0f02b352c8ee5c7f3913b595811a57f7648f471b5158fd893b06f89986447a11f687ffa19b774b58397c602f0c66f79d&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-兵团卫视,https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=1926565337&sign=86bb51fb0248bcede45c103347cdbd25bd7eeb3c16bf00f1e95ac6cd5460a38a036e8450d84fa8ff34de9c1d7ea3a3321a0a15444e35dd2d7f97aa0e789c16a43f16ec6d5059ff2cf4a26d8a04dcf4&auth_token=1b419ca2389167e00ffb1a7264658820
-兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=b9dcd906150192bdf76f447df83f8033&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=e2ea229f09d39d7028c61aeb4f6bab56&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-大湾区卫视,https://live.ottiptv.cc/mg/608917627.m3u8?userid=335749130&sign=eac234be50e87e4a59714b7501b6cb4a92f38c095e293bb9a10db6d5c971c025e16729a9d5e9709faabb9aadc604af31f813676bd8ac4dd778616756a2a1bc0ae736e4abaabd1727d6e945cfc326b7a6&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-三沙卫视,https://live.ottiptv.cc/mg/961023778.m3u8?userid=335749130&sign=5beb88e250e0a74daeb87438a47033d411fc6fc5d74e1010c0880d1ba96cc4c222adf95c17e38b6c7ac163c58d33a901d6f315c000fec9baf223650875a9e99d5730258d612b56bb0204f47aceba564a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=2908f08b5a176330d190b7343b1bb17d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-西藏卫视,https://live.ottiptv.cc/mcp/xizang.m3u8?userid=1926565337&sign=4799fbd4107f15485bc6b18bba3738588b2e0055ef6488420b121dfe111feac3fdcfd906851b8acbaffaa6bd72eee5fd8e2e6d9918168b7288714bf53dd018a39c850bc301a7eba16bf870f7cfcd&auth_token=1b419ca2389167e00ffb1a7264658820
-西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=7df93c0d83ffb23588b9a8ed75bcf602&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-新疆卫视,https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=1926565337&sign=69f3b05521107e08a07338e106dc64c275b654c058f32010e9500048c0239f8e772c4d2ed123e2b9ab51c8cab9993c9d4e80ca075db64b5453d101ce81c9fffffc567c3e7f0b31b519abb8d8f09a5ce1&auth_token=1b419ca2389167e00ffb1a7264658820
-新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=70e7900a371f6cb721786924bfba0418&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=5bc0f34437d76466e8ce387d3b8debbd&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=4a6eec625aac2ea37719b063f81d43b8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=fbf14331a3f027fec6c17914e6f6a8ee&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
+吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
+海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=f495ed8625aedd9e72c64fb11e6d68f2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+海峡卫视,https://cdn10.163189.xyz/163189/hxws/
+海峡卫视,https://cdn16.163189.xyz/163189/hxws
+兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=b9dcd906150192bdf76f447df83f8033&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+兵团卫视,https://live.264788.xyz/channel/bingtuanweishi?streamid=e2ea229f09d39d7028c61aeb4f6bab56&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=2908f08b5a176330d190b7343b1bb17d&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=7df93c0d83ffb23588b9a8ed75bcf602&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
+新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
 
 ☘️上海频道,#genre#
-上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海新闻综合,https://live.ottiptv.cc/mg/651632657.m3u8?userid=335749130&sign=6775499d551ab69f420b653fbcfc23cb4cdbc6ad4e3033cd4f5836bcb391a2ee23fcd3f8430bbc8c3d3943095a1d2cf6545f2624c3fdd1bd7fc4c8b2eb90a4c4600c264730015ab1600aa24de7fe1671&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海第一财经,https://live.ottiptv.cc/mg/608780988.m3u8?userid=335749130&sign=c2cd47ede8d62ae640aa358701ef4d100e8c03e9155864f515e17517d143533f691b09dae345b5a1a86d1675ef1103b6b4273270ef10555f0b405dc6c8956780384e7d149074c5da94ed90b86cef17cf&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-上海第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海都市,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海都市,https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方影视,https://live.ottiptv.cc/mg/617290047.m3u8?userid=335749130&sign=c307bab917f4d0b4519ec09b422fbd85409dd217f36154602b2eab489912a257384883a52269594d01d89229b0b7fc38c6fb30e3448c4fa4caff9e7354d970fd844d38f9adbb4c3441c7a14dc22ea063&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=0039922a529780d5b2709e5ccd146683&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-生活时尚,https://live.264788.xyz/channel/shenghuoshishang?streamid=cb8f820b65576198b4e792f919fe8a43&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-生活时尚,https://live.264788.xyz/channel/shenghuoshishang?streamid=b8d540e24d2545bc5082dcf7414eb836&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-都市剧场,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-都市剧场,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海教育,https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海都市,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海都市,https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方影视,https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=0039922a529780d5b2709e5ccd146683&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+生活时尚,https://live.264788.xyz/channel/shenghuoshishang?streamid=cb8f820b65576198b4e792f919fe8a43&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+生活时尚,https://live.264788.xyz/channel/shenghuoshishang?streamid=b8d540e24d2545bc5082dcf7414eb836&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+都市剧场,https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+都市剧场,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+都市剧场,https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 
 ☘️广东频道,#genre#
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东珠江,https://cdn2.163189.xyz/163189/gdzj
+广州综合,https://cdn16.163189.xyz/163189/gzzh
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+广州新闻,https://cdn16.163189.xyz/163189/gzxw
+广州影视,http://r.jdshipin.com/sFw4S
+广州南国都市,https://cdn15.163189.xyz/163189/ngds
 
 ☘️浙江频道,#genre#
+浙江公共新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+之江纪录,http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 
 ☘️江苏频道,#genre#
-江苏公共,https://live.ottiptv.cc/mg/626064693.m3u8?userid=335749130&sign=cd2df221a09650696147b4c22fceda6404617859186df3b4916c16d51f6160995db8d2aa6154ce3116a890fbc8021392672ceb6218d2a009b986a4aa33aedf06cee03c92b1789678bd108fc7f60cdc37&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏城市,https://live.ottiptv.cc/mg/626064714.m3u8?userid=335749130&sign=f9bcecc8f11185980213fde608fa0216bed380324c42f9d8cc269f51912685d394f6334c4ec1ab2e0c29bea6692e2a96796a5969a652272b59978dc6cbe041592c666448b90baaa90f48ed4d294a83e6&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏影视,https://live.ottiptv.cc/mg/626064697.m3u8?userid=335749130&sign=e7fbe5e6ea47147e11cda37d6f4c1a77952b1725faf963608c2203f78a9ad5677f9085a289331f6e79620d1c7e0e1b043fc88e81e20c5443fa2a3fb4fcc55f9ae2e48f612ab31070b0b40d2ba3798863&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏教育,https://live.ottiptv.cc/mg/628008321.m3u8?userid=335749130&sign=d9c175d3fb3650ce29f276b43f226ff447ec745ddd558d6c2d39541b9bc0424cdcbf9f44615508f1c7e13e843b925445f7668d482fc49010a7bc29b0303599527b6cf409b420d2db7a1d9343afdfd610&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏国际,https://live.ottiptv.cc/mg/626064674.m3u8?userid=335749130&sign=1db7ed9d1f989df2d3d6ad8d2c1edc28e8821c3b5d3df9107c8dc80543dac0414f683cdbe58495b5b783ea033a8618b77cb9fbb286d0deb93c4f7670e5d863503c9b5e9cc99d8d774b5a59cb0762d697&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-江苏综艺,https://live.ottiptv.cc/mg/626065193.m3u8?userid=335749130&sign=8a287a697d41d5e1df2122f8f9071bfa937989e36fbe7c426c7c1cfa267ed4dd6cdb4ec557e69c22e3af9af7cbe63e3508a1da589d7299c683fb528a6dfcd06a562eb7858a2b7e83303487a6993327c6&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京十八,https://live.ottiptv.cc/mg/838151753.m3u8?userid=335749130&sign=6f910e397e8fff69102b350ee10646f6dda991b65f422a58a31fa86a13adb603205565cf130dc2353564c712bf6dbc455bc914692f64e9790b427bf4bc3ed15c7a6a07e874eccecfffaaf85c0e8f761a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京教科,https://live.ottiptv.cc/mg/838153729.m3u8?userid=335749130&sign=0d23745d8eec618574140e94ec363972f9737b261bc8434f13159e6577a07513b244643d8f9b1a65fc443a397d30d1a74667485912dd0f85c566166c8f2c02b2b0ac7535ec63d8f37c8e2e02524cb37f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南京新闻综合,https://live.ottiptv.cc/mg/838109047.m3u8?userid=335749130&sign=0015a6655931c43b5ebd3dc9ba0af1616a6697ef85f7f929147f107667f6a942b329b60bcee3b16fa1a78ef3ab3099d8d6c12a0bdea8a914f6aad9686bfe803ae1bf497712ed2ac4627edd18fff415a3&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-淮安新闻综合,https://live.ottiptv.cc/mg/639731826.m3u8?userid=335749130&sign=377fee6b7821cbe1fb40dbf776b4d6bce5e87566a687a0390137b0f26050bcc72b42e9db12fa15b806a47c1cd50a5e54f1921ca209c731a75619621d54e7bfa3e29b15103f8e92d9d271b7f4a22d4ef8&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-南通新闻综合,https://live.ottiptv.cc/mg/955227985.m3u8?userid=335749130&sign=55372a518a7096cb4099ea0cdef1384c44721838808bf6b5e6daa89c89a128abd3a6b1746105139498a4378ad2f3a8d7dd18cd2bf71dcb40a8f3f6626b677ad11d1dfdfe76dbe0282e625cc46fd8d473&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-溧水新闻综合,https://live.ottiptv.cc/mg/639737327.m3u8?userid=335749130&sign=6b97d894ac3247f1e8d46431274780c7934d6204f5d2018e0409752d1a936b6ceb9b57348ae259a8facbc65f846cf90590308137da8a99d4ea1cc4d87305c97f56be2d4704a1b153fc73d4fa9d911b1a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-连云港新闻综合,https://live.ottiptv.cc/mg/639731715.m3u8?userid=335749130&sign=f0f113a5348cd526b652195d0cbca7191e87ca504fd67a0bf215acd9069ca5b5ac04e19433cb9512419a6cf6e6cb050e69be3d442b225e765827b3c371bef3efe63e43e9f98998ab71485de3d8210331&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-镇江新闻综合,https://live.ottiptv.cc/mg/639731783.m3u8?userid=335749130&sign=142959c4de7335953d451c987c9f3d4563a5239c691382db87d7f5eafb84674599fad87bfd6412045667fb52729919df374a9895018f902f6dacd0e343ce31ed62e23f7f273ebf36687bfe641f2e30d1&auth_token=bb31550628565f520b5fbaa6b48b7d0d
+南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 
 ☘️安徽频道,#genre#
 
 ☘️北京频道,#genre#
 
 ☘️山东频道,#genre#
-山东教育,https://live.ottiptv.cc/mg/609154353.m3u8?userid=335749130&sign=621f75c4dfa36a05d0257a77c7d3d8cd4b15892d6859d3154e27570f8456fcc4bb8a42d464620c53a28a26fa2873d05782153227542aa16560e9ae0ff43c216824378ed39a5b7d69d8f6252fb728bc7a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 
 ☘️重庆频道,#genre#
 
 ☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
-湖南金鹰纪实,https://live.264788.xyz/channel/jinyingjishi?streamid=b33f7690b2ce36708f54588c53a20742&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-湖南金鹰纪实,https://live.264788.xyz/channel/jinyingjishi?streamid=3680a1c0ad58417e29641bb984685a5b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+湖南金鹰纪实,https://live.264788.xyz/channel/jinyingjishi?streamid=b33f7690b2ce36708f54588c53a20742&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+湖南金鹰纪实,https://live.264788.xyz/channel/jinyingjishi?streamid=3680a1c0ad58417e29641bb984685a5b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 
 ☘️天津频道,#genre#
 
@@ -411,19 +392,20 @@ CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-厦门卫视,https://live.264788.xyz/channel/xiamenweishi?streamid=59b4bebbc553075be2ddecfe210b863a&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建文体,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建电视剧,https://live.264788.xyz/channel/fujiandianshiju?streamid=c26b66c59ee4773061c78154e5877244&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建综合,https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建少儿,https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+厦门卫视,https://live.264788.xyz/channel/xiamenweishi?streamid=59b4bebbc553075be2ddecfe210b863a&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+福建文体,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+福建新闻,https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+福建电视剧,https://live.264788.xyz/channel/fujiandianshiju?streamid=c26b66c59ee4773061c78154e5877244&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+福建综合,https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+福建少儿,https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 
 ☘️海南频道,#genre#
 
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
 ☘️贵州频道,#genre#
 
@@ -434,9 +416,12 @@ CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046
 ☘️山西频道,#genre#
 
 ☘️宁夏频道,#genre#
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 
 ☘️吉林频道,#genre#
-延边卫视,https://live.264788.xyz/channel/yanbianweishi?streamid=2af361ac8ba5e870d104cc59390cf845&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+延边卫视,https://live.264788.xyz/channel/yanbianweishi?streamid=2af361ac8ba5e870d104cc59390cf845&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 四平-1,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 
@@ -444,6 +429,8 @@ CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046
 赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 
 ☘️云南频道,#genre#
+云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 
 ☘️青海频道,#genre#
 
@@ -452,121 +439,130 @@ CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 
 🎬电影频道,#genre#
-CHC 家庭影院,https://live.ottiptv.cc/mg/644368373.m3u8?userid=335749130&sign=26acc346dafd25cc92ad1e8078f0e0f0c7bc22811ef6d9ab157d5a8238468e7176cdc4a1ee46ff7f513c326c63283df3c6debe95c08ef338332e2ed640e2eeb2a62c7cd4faecdd68f2fa66f683520648&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CHC 家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CHC 影迷电影,https://live.ottiptv.cc/mg/952383261.m3u8?userid=335749130&sign=d0262a8c0a56c8154a5a31e92ce8790c2e27e6e783e950300829cba05583d8541f113b613da58c79ed0d1817795ee5f52784da840b3bb508040a6e389d460b0e48df0beb13d1cc5c25b0121b2a28e0aa&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CHC 影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CHC 动作电影,https://live.ottiptv.cc/mg/644368714.m3u8?userid=335749130&sign=db1b983058ececef62a9bcf08a2cd9a0784d4fd50fd7dcf34b61a5691d0d09b31701ddf4a95e69da913b4826fa4a3947d31452b9f136f5fa98d262b8a55902d2e623909a846e287f3c5b36448963bd14&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CHC 动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-重温经典,https://live.ottiptv.cc/other/cwjd.m3u8?userid=1926565337&sign=284dba5c8a479f39a69ff9cb14a37582a63cffb03c7359c9dede280fa1406afb5453373c0cce7401b5f6aa35833a9168e64547ee691babacb55b27d31cf934c83fdbf6ffbbc70a9b92678377&auth_token=1b419ca2389167e00ffb1a7264658820
-重温经典,https://live.ottiptv.cc/mg/884121956.m3u8?userid=335749130&sign=3f2ebe001aa279e7ea4be64781117eac335bce70c085691c568d8fa10845ee4e4291f70267e9c9edf3a8750f8a10c2ba052edb52c56f1276b35838a1eb32e864332082791d8ea236dda2423aae08720f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
+CHC 家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CHC 影迷电影,https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CHC 动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+重温经典,https://cdn6.163189.xyz/163189/cwjd
+重温经典,https://cdn16.163189.xyz/163189/cwjd
+重温经典,http://cdn6.163189.xyz/163189/cwjd
+天映经典,https://cdn10.163189.xyz/163189/ccm/
+天映经典,https://o11.163189.xyz/stream/live/ccm/
+东森电影,https://smt.1678520.xyz/163189/dsdy
+东森洋片,https://smt.1678520.xyz/163189/dsyp
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
+amc电影台,https://cdn12.178.indevs.in/163189/amc
+靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
+靖天映画,https://cdn12.178.indevs.in/163189/jtyh
+采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
 龙华电影台,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影台,https://cdn8.163189.xyz/163189/lhdy
+龙华日韩台,https://cdn8.163189.xyz/163189/lhrh
+龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
+CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
+CM+,https://o11.163189.xyz/stream/live/aod/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro QJ,https://o11.163189.xyz/stream/live/qj/
+Astro 欢喜,https://o11.163189.xyz/stream/live/hxt/
 Astro iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
-5ACTION UK,http://wickediptv.xyz/Randall123/Randall321/204605
-5SELECT UK,http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/12309
-5STAR UK,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
-Sky Cinema Premiere UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
-Sky Cinema Select UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
-Sky Cinema Hits UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
-Sky Cinema Family UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
-Sky Cinema Action UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
-Sky Cinema Greats UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
-Sky Cinema Comedy UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
-Sky Cinema Thriller UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
-Sky Cinema Drama UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
-Sky Cinema Sci-Fi & Horror UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
+Astro iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
+TVB亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
+公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
+靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
+龙华偶像台,https://cdn8.163189.xyz/163189/lhox
+龙华偶像台,http://cdn8.163189.xyz/163189/lhox
+龙华经典台,https://cdn8.163189.xyz/163189/lhjd
 
 🏀体育频道,#genre#
-CCTV-5+,https://live.ottiptv.cc/mg/641886773.m3u8?userid=335749130&sign=96304889a33419842a618d65bff9a1fd0a67cf744e4a949b52f65d17f80bd5f9666896a289f596970e8cb14118f75720ab15cfade74a56e9088c6ddf2407337a5c74a610a9b9c1b8b9f58cc7a7716e50&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CCTV-5+,https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
-五星体育,https://live.ottiptv.cc/other/wxty.m3u8?userid=1926565337&sign=ceefcd82b2f3c80dff67dd10c96da9620b1dbe72823740b3b2f9107b193e37d2d17d61877620ff60a7a7aadc48e4e73e1a767dec4397ea4caf9f55449d064c8a4a6fe750285d632f62d47c45&auth_token=1b419ca2389167e00ffb1a7264658820
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-福建体育,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+CCTV-5+,https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+CCTV-5+,https://cdn16.163189.xyz/163189/cctv5p-2
+广东体育,https://cdn2.163189.xyz/163189/gdty
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+五星体育,https://cdn15.163189.xyz/163189/wxty
+体育赛事,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+福建体育,https://live.264788.xyz/channel/fujianwenti?streamid=6374cbc5f2d95cc57cd0e9ef03792b12&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 TNT SPORTS 1,http://iptv.4666888.xyz/iptv2A.php?id=3
-TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
-TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
-TNT SPORTS 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
-TNT SPORTS 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
-TNT SPORTS 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
-SKY SPORTS FOOTBALL,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
-SKY SPORTS MAIN EVENT,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119327
-SKY SPORTS PREMIER LEAGUE,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
-SKY SPORTS ACTION,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
-SKY SPORTS MIX,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98857
-SKY SPORTS NEWS,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
-SKY SPORTS CRICKET,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
-Sky Sports Tennis,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
-SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
-SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
-SKY SPORTS GOLF,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
-SKY SPORTS RACING,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
-Premier Sports 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
-Premier Sports 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
-NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
-风云足球,https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-快乐垂钓,https://live.ottiptv.cc/mg/961930263.m3u8?userid=335749130&sign=ff16f7463de530d23feb98f9d03b0f8d2511f88825e93b55e336327518c8c988a140cf40d9f9ea5669434b8a50d34c272059d177cb2e741b2aa9df3b0d7fdfd3a9f5a1d2e3524884e131cf5f38899f1f&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-快乐垂钓,https://live.264788.xyz/channel/kuailechuidiao?streamid=6a60d1c6862ba21566324b885fedcccb&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+风云足球,https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+快乐垂钓,https://live.264788.xyz/channel/kuailechuidiao?streamid=6a60d1c6862ba21566324b885fedcccb&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 
 📺教育频道,#genre#
-CETV-1,https://live.ottiptv.cc/mg/923287154.m3u8?userid=335749130&sign=3c7fd58b2301eea431a4ccb825954f1a2089dfaf3fec9c2d23414c76819b3331782dce3cb00fc344d026512704b0fcb230387ea5ad23ad9c72e283a6e2bafe21f57b4b2fef928f42427f4c03d7762cd9&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CETV-2,https://live.ottiptv.cc/mg/923287211.m3u8?userid=335749130&sign=42bd8f8dc430637ab59c50ca96506b0be9d049ec50680eee1dc7f22fe3f8b2bd1dbe4325a25b1c3946b27f5c7c3a3f367bc2ad0fb2a51edd23fc28747386c834522acd96a59283c954c8d2baa45de372&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-CETV-4,https://live.ottiptv.cc/mg/923287339.m3u8?userid=335749130&sign=eee75ca9b6045d9278842c4d20258dc1726955ef9c4db737e232448d3081654d1e96cd630dad8b7fb7aab7992b85344aa8806fdf8d10321973e3b4db411671776326f137d98d18ddf87812a70487b50e&auth_token=bb31550628565f520b5fbaa6b48b7d0d
 MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
 
 🪁动画频道,#genre#
-动漫秀场,https://live.264788.xyz/channel/dongmanxiuchang?streamid=a928725eedc3bcd4c7b321edbf6bdac7&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-动漫秀场,https://live.264788.xyz/channel/dongmanxiuchang?streamid=03e61bd70c969d8c285a59c0b6dbab87&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-新动漫,https://live.ottiptv.cc/mg/961930269.m3u8?userid=335749130&sign=9aef8188a0ecc170a56c0eb5611a1ad15abc7e482a6af83019697860f5967ecfdbcfc381dd139b608c6e67fc46bc7e053edbbd6fed09e0ef105a51c349a0fa21173c7ea67be7d5309bafc9e29f11ac31&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-优漫卡通,https://live.ottiptv.cc/mg/626064703.m3u8?userid=335749130&sign=20e3fca7684f41db7f46a5c900f99b5f910847baf7c9347d46fa316efe290873310ee6e8c88c21ebdf64a480d437947571214d6c7fd7640c88fcdf979300229e9e8abc17982785485225922d29fbc85a&auth_token=bb31550628565f520b5fbaa6b48b7d0d
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-Nick Jr.,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1268
+动漫秀场,https://live.264788.xyz/channel/dongmanxiuchang?streamid=a928725eedc3bcd4c7b321edbf6bdac7&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+动漫秀场,https://live.264788.xyz/channel/dongmanxiuchang?streamid=03e61bd70c969d8c285a59c0b6dbab87&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+炫动卡通,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+龙华卡通台,https://cdn8.163189.xyz/163189/lhkt
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 🎮游戏频道,#genre#
-游戏风云,https://live.264788.xyz/channel/youxifengyun?streamid=6e817b754189d2c8f7b32e7bff61ac7b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-游戏风云,https://live.264788.xyz/channel/youxifengyun?streamid=9d151740f57f6bd412bb6f101204b7bd&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+游戏风云,https://live.264788.xyz/channel/youxifengyun?streamid=6e817b754189d2c8f7b32e7bff61ac7b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+游戏风云,https://live.264788.xyz/channel/youxifengyun?streamid=9d151740f57f6bd412bb6f101204b7bd&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 
 📺旅游,#genre#
 
 🎵音乐频道,#genre#
-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 📺纪录,#genre#
-Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 
 📺新加坡,#genre#
+Channel 5 HD,https://cdn6.163189.xyz/163189/ch5
+Channel 5 HD,http://cdn6.163189.xyz/163189/ch5
+Channel 8 HD,https://cdn6.163189.xyz/163189/ch8
+Channel 8 HD,http://cdn6.163189.xyz/163189/ch8
+Channel U HD,https://cdn6.163189.xyz/163189/chu
+Channel U HD,http://cdn6.163189.xyz/163189/chu
 
 📺日本,#genre#
 
 📺韩国,#genre#
 
 💰央视付费频道,#genre#
-央视台球,https://live.264788.xyz/channel/yangshitaiqiu?streamid=04540cf3fa4df50b6e2fd9166c021d4b&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+央视台球,https://live.264788.xyz/channel/yangshitaiqiu?streamid=04540cf3fa4df50b6e2fd9166c021d4b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 第一剧场,http://iptv.4666888.xyz/iptv2A.php?id=61
+第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
-女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-世界地理,https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD65MUjBvxtYu9x8LxPRilI
+世界地理,https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
+世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-06-01 16:23:05,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+2026-06-22 16:06:28,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8

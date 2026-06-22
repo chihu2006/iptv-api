@@ -102,8 +102,8 @@ CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-1,https://cdn6.163189.xyz/163189/cctv1
 CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV-1,http://207.56.13.146:81/cdnlive/cctv1.m3u8
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
@@ -629,4 +629,4 @@ Channel U HD,http://cdn6.163189.xyz/163189/chu
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-06-22 16:10:10,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
+2026-06-22 16:15:29,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265

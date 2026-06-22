@@ -41,8 +41,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/HBO.png" group-title="📺美国频道",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/Fox News.png" group-title="📺美国频道",Fox News
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/Fox Weather.png" group-title="📺美国频道",Fox Weather
 https://foxweather-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/AMC.png" group-title="📺美国频道",AMC
@@ -60,9 +58,9 @@ https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 2" tvg-name="ABC 2" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/ABC 2.png" group-title="📺美国频道",ABC 2
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/ABC 4.png" group-title="📺美国频道",ABC 4
-https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/ABC 4.png" group-title="📺美国频道",ABC 4
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/ABC 4.png" group-title="📺美国频道",ABC 4
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 5" tvg-name="ABC 5" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/ABC 5.png" group-title="📺美国频道",ABC 5
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 5" tvg-name="ABC 5" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/ABC 5.png" group-title="📺美国频道",ABC 5
@@ -228,9 +226,9 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://207.56.13.146:81/cdnlive/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
 https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6I3GoZv2Hcl5kxNroo1oc
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
@@ -1120,5 +1118,5 @@ https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c77223
 http://207.56.13.146:81/cdnlive/sjdl.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/BBC One.png" group-title="🕘️更新时间",2026-06-22 16:15:29
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://github.com/chihu2006/self-address/tree/main/tv/BBC One.png" group-title="🕘️更新时间",2026-06-22 16:18:40
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265

@@ -609,4 +609,4 @@ Channel U HD,http://cdn6.163189.xyz/163189/chu
 世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
 
 🕘️更新时间,#genre#
-2026-06-22 16:15:29,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
+2026-06-22 16:18:41,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265

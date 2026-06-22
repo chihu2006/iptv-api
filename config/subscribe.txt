@@ -15,4 +15,4 @@ https://cdn.qd.je/live.m3u
 https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u
 
 # https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/feiyang.m3u
-# https://garyshare.sharewithyou.dpdns.org/garyshare.m3u?token=worldcup2026
+https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/gary.m3u

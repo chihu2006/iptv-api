@@ -41,6 +41,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/HBO.png" group-title="📺美国频道",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Fox News.png" group-title="📺美国频道",Fox News
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Fox Weather.png" group-title="📺美国频道",Fox Weather
 https://foxweather-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/AMC.png" group-title="📺美国频道",AMC
@@ -194,9 +196,9 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://207.56.13.146:81/cdnlive/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
@@ -628,5 +630,5 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 http://207.56.13.146:81/cdnlive/sjdl.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-06-22 17:12:01
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-06-22 17:23:08
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265

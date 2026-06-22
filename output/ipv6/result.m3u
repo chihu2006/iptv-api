@@ -542,5 +542,5 @@ http://207.56.13.146:81/cdnlive/gfjs.m3u8
 http://207.56.13.146:81/cdnlive/nxss.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
 http://207.56.13.146:81/cdnlive/sjdl.m3u8
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-06-22 17:12:01
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-06-22 17:23:08
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265

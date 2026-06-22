@@ -13,3 +13,5 @@ https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddr
 https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/chinatv.m3u
 https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/FYTV.m3u
 https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/rawaddress/gary.m3u
+https://cdn.qd.je/live.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u

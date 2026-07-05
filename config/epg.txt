@@ -2,3 +2,4 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 https://epg.tv.darwinchow.com/epg.xml.gz
 https://epg.pw/xmltv/epg_lite.xml
+https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz

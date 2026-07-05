@@ -44,6 +44,21 @@ Virgin 1,UK Virgin 1,Virgin Media One IE
 Virgin 2,UK Virgin 2,Virgin Media Two IE
 Virgin 3,UK Virgin 3,Virgin Media Three IE
 Virgin 4,UK Virgin 4,Virgin Media Four IE
+Sky News,Sky News UK
+Sky Sports,Sky Sports UK
+Sky Arts,Sky Arts UK
+Sky Atlantic,Sky Atlantic UK
+Sky Comedy,Sky Comedy UK
+Sky Crime,Sky Crime UK
+Sky Documentaries, Sky Documentaries UK
+Sky History,Sky History UK
+Sky History 2,Sky History 2 UK
+Sky Kids,Sky Kids UK
+Sky Mix,Sky Mix UK
+Sky Nature,Sky Nature UK
+Sky One,Sky One UK
+Sky Sci-Fi,Sky Sci-Fi UK
+Sky Witness,Sky Witness UK
 SKY SPORTS FOOTBALL,Sky Sports Football UK
 SKY SPORTS MAIN EVENT,Skysport Main Event,Sky Sports Main Event 4K UK
 SKY SPORTS PREMIER LEAGUE,Sky Sports Premier League UK

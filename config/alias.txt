@@ -30,13 +30,13 @@ Channel 4,Channel 4 UK HD (1080p),Channel 4 UK
 E4,E4 UK
 E4 Extra,E4 Extra UK
 Film 4,Film4 UK
-More 4,More 4 UK
+More 4,More4 UK
 4 seven,4seven UK
 Channel 5,Channel 5 HD (1080p),Channel 5 UK
 5 Action,5ACTION UK
 5 Select,5SELECT UK
 5 Star,5STAR UK
-5 USA,5USA
+5 USA,5 USA UK
 Quest,Quest UK
 S4C,S4C UK
 CBBC,CBBC HD (1080p) [Geo-blocked],CBBC (1080p)

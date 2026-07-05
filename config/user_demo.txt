@@ -17,11 +17,18 @@ ITV 4
 ITV News
 ITV Quiz
 Channel 4
-Channel 5
 E4
 E4 Extra
+Film 4
 More 4
 4 seven
+Channel 5
+5 Action
+5 Select
+5 Star
+5 USA
+Quest
+S4C
 Virgin 1
 Virgin 2
 Virgin 3
@@ -34,7 +41,25 @@ Bloomberg TV EMEA Live Event
 DW德国之声
 Sky News
 Sky Sports
-Film 4
+Sky Arts
+Sky Atlantic
+Sky Comedy
+Sky Crime
+Sky Documentaries
+Sky History
+Sky History 2
+Sky Kids
+Sky Mix
+Sky Nature
+Sky One
+Sky Sci-Fi
+Sky Witness
+U&Alibi
+U&Dave
+U&Drama
+U&Eden
+U&Gold
+U&W
 INULTRA
 FRANCE24 英文台
 
@@ -1661,6 +1686,8 @@ fun探索娛樂台
 電影原聲台 CMusic
 
 📺纪录,#genre#
+BBC Earth
+BBC History
 视纳华仁纪实
 Globetrotter
 达文西频道

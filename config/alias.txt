@@ -6,7 +6,7 @@
 # Aliases support regex matching. Aliases starting with re: are recognized as regular expressions, e\.g\. CCTV-1,re:(?i)^\s*CCTV[-\s_]*0?1(?![0-9Kk+])[\s\S]*$
 
 # 海外
-BBC One,BBC One (720p),BBC 1,BBC One UK
+BBC One,BBC One (720p),BBC 1,BBC One UK,BBC 4K UK (Not 24/7),
 BBC One East,BBC One East (1080p),BBC One East (720p) [Geo-blocked],BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
 BBC One East Midlands,BBC One East Midlands (1080p) [Geo-blocked],BBC One East Midlands (720p) [Geo-blocked]
 BBC One North East,BBC One North East (1080p) [Geo-blocked],BBC One North East (720p) [Geo-blocked]

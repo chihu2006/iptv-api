@@ -1,72 +1,19 @@
 📺英国频道,#genre#
-BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-BBC One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
-BBC Two,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
-BBC Two,http://rocketfx.uk:8080/henry/henry/508265
-BBC Three,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
-BBC Four,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
-BBC Parliament,http://lisabontv.pro:8080/tjPYdQpZ/kYXxX5x8yKgd/436262
-ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
-ITV 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
-ITV 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
-ITV 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
-ITV 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
-ITV Quiz,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
-Channel 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
-E4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
-E4 Extra,http://ahostingportal.com:8000/colesteven25yahoocom/1554061255/2791
-Film 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98831
-4 seven,http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89380
-Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
-5 Action,http://rocketfx.uk:8080/henry/henry/508314
-5 Select,http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/534722
-5 Star,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
-Quest,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110055
-S4C,http://rocketfx.uk:8080/henry/henry/2111
-S4C,https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-Sky Arts,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98808
-Sky Atlantic,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37099
-Sky Comedy,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110060
-Sky Crime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110063
-Sky Documentaries,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/326
-Sky History,http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/304888
-Sky History 2,http://redfoxx.vip/FG803300F12D2/ncWUsGr/275677
-Sky Kids,http://redfoxx.vip/FG803300F12D2/ncWUsGr/435574
-Sky Mix,http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825568
-Sky Nature,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/327
-Sky One,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37149
-Sky Sci-Fi,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/329
-Sky Witness,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/297
-U&Alibi,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98855
-U&Dave,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98844
-U&Drama,http://rocketfx.uk:8080/henry/henry/31339
-U&Eden,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/272
-U&Gold,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37126
-U&W,http://dmtn-tv.com:8080//aminefr22/aYJudnT/533393
+ITV 2,http://45.153.96.44:8007
+ITV 4,http://45.153.96.44:8009
 
 📺美国频道,#genre#
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-HBO,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1265
 Fox News,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-Fox Weather,https://pb-hum8cczphcrpf.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-hum8cczphcrpf/5a729378-7573-4e94-bd08-0d3f2e483fb3/3.m3u8
 Fox Weather,https://foxweather-xumo.amagi.tv/playlist.m3u8
-AMC,http://23.239.31.26:8989/amc/index.m3u8
-CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
-TBS,https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-CBS Sports Network,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
-ABC News Live,https://pb-0n3n2ej0w8pl9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n3n2ej0w8pl9/9d6fea29-b168-48b9-8d74-073a6bab5ce6/0.m3u8
 ABC 2,https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 ABC 4,https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+ABC 4,https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 ABC 6,https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 ABC 7,https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
 ABC 9,https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 ABC 13,https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 ABC 15,https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 ABC 22,https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
-Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
-MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 📺香港,#genre#
 TVB翡翠台,https://cdn.qd.je/163189/fct
@@ -105,6 +52,7 @@ CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV-1,http://60.10.139.113:8801/hls/1/index.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV-2,http://60.10.139.113:8801/hls/2/index.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
@@ -113,8 +61,8 @@ CCTV-3,http://60.10.139.113:8801/hls/3/index.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 CCTV-4,http://60.10.139.113:8801/hls/4/index.m3u8
-CCTV-5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-CCTV-5,https://16.cdn.hi.hn/163189/cctv5-2
+CCTV-5,https://cdn.qd.je/163189/cctv5
+CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,http://60.10.139.113:8801/hls/5/index.m3u8
 CCTV-6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 CCTV-6,http://60.10.139.113:8801/hls/6/index.m3u8
@@ -145,13 +93,12 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV-15,http://60.10.139.113:8801/hls/97/index.m3u8
 CCTV-16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-CCTV-16,https://16.cdn.hi.hn/163189/cctv16-2
+CCTV-16,https://cdn.qd.je/163189/cctv16-2
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 CCTV-17,http://60.10.139.113:8801/hls/98/index.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CGTN记录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 
@@ -297,46 +244,13 @@ TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
 靖天戏剧台,https://cdn.qd.je/163189/jtxj
 龙华偶像台,https://cdn.qd.je/163189/lhox
 龙华经典台,https://cdn.qd.je/163189/lhjd
-5ACTION UK,http://rocketfx.uk:8080/henry/henry/508314
-5SELECT UK,http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/534722
-5STAR UK,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
-Sky Cinema Premiere UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
-Sky Cinema Select UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
-Sky Cinema Hits UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
-Sky Cinema Family UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
-Sky Cinema Action UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
-Sky Cinema Greats UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
-Sky Cinema Comedy UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
-Sky Cinema Thriller UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
-Sky Cinema Drama UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
-Sky Cinema Sci-Fi & Horror UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 
 🏀体育频道,#genre#
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV-5+,https://16.cdn.hi.hn/163189/cctv5p-2
+CCTV-5+,https://cdn.qd.je/163189/cctv5p-2
 广东体育,https://cdn.qd.je/163189/gdty
 五星体育,https://cdn.qd.je/163189/wxty
 体育赛事,http://60.10.139.113:8801/hls/15/index.m3u8
-TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
-TNT SPORTS 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
-TNT SPORTS 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
-TNT SPORTS 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
-TNT SPORTS 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
-SKY SPORTS FOOTBALL,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
-SKY SPORTS MAIN EVENT,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118947
-SKY SPORTS PREMIER LEAGUE,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
-SKY SPORTS ACTION,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
-SKY SPORTS MIX,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/339
-SKY SPORTS NEWS,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
-SKY SPORTS CRICKET,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
-Sky Sports Tennis,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
-SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
-SKY SPORTS F1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
-SKY SPORTS GOLF,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
-SKY SPORTS RACING,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
-Premier Sports 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
-Premier Sports 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
-NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 风云足球,http://60.10.139.113:8801/hls/69/index.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
@@ -344,7 +258,6 @@ NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 🪁动画频道,#genre#
 龙华卡通台,https://cdn.qd.je/163189/lhkt
-Nick Jr.,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1268
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 🎮游戏频道,#genre#
@@ -356,9 +269,6 @@ Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 📺纪录,#genre#
-BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/91f66dd6-f06c-4386-8452-5befcbd4c77f/0.m3u8
-Love Nature HD,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-Lifetime,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 
 📺新加坡,#genre#
 Channel 5 HD,https://cdn.qd.je/163189/ch5
@@ -392,4 +302,4 @@ Channel U HD,https://cdn.qd.je/163189/chu
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-07-05 22:04:28,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+2026-07-07 08:28:00,http://45.153.96.44:8007

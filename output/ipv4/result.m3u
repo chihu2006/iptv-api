@@ -1,118 +1,18 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/chihu2006/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="📺英国频道",BBC One
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="📺英国频道",BBC One
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
-#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC Two.png" group-title="📺英国频道",BBC Two
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
-#EXTINF:-1 tvg-id="BBC Two" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC Two.png" group-title="📺英国频道",BBC Two
-http://rocketfx.uk:8080/henry/henry/508265
-#EXTINF:-1 tvg-id="BBC Three" tvg-name="BBC Three" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC Three.png" group-title="📺英国频道",BBC Three
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/110054
-#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC Four.png" group-title="📺英国频道",BBC Four
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98851
-#EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC Parliament.png" group-title="📺英国频道",BBC Parliament
-http://lisabontv.pro:8080/tjPYdQpZ/kYXxX5x8yKgd/436262
-#EXTINF:-1 tvg-id="ITV 1" tvg-name="ITV 1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ITV 1.png" group-title="📺英国频道",ITV 1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
-#EXTINF:-1 tvg-id="ITV 1" tvg-name="ITV 1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ITV 1.png" group-title="📺英国频道",ITV 1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
 #EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV 2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ITV 2.png" group-title="📺英国频道",ITV 2
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98825
-#EXTINF:-1 tvg-id="ITV 3" tvg-name="ITV 3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ITV 3.png" group-title="📺英国频道",ITV 3
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98824
+http://45.153.96.44:8007
 #EXTINF:-1 tvg-id="ITV 4" tvg-name="ITV 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ITV 4.png" group-title="📺英国频道",ITV 4
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
-#EXTINF:-1 tvg-id="ITV Quiz" tvg-name="ITV Quiz" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ITV Quiz.png" group-title="📺英国频道",ITV Quiz
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/37151
-#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Channel 4.png" group-title="📺英国频道",Channel 4
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98848
-#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/E4.png" group-title="📺英国频道",E4
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
-#EXTINF:-1 tvg-id="E4 Extra" tvg-name="E4 Extra" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/E4 Extra.png" group-title="📺英国频道",E4 Extra
-http://ahostingportal.com:8000/colesteven25yahoocom/1554061255/2791
-#EXTINF:-1 tvg-id="Film 4" tvg-name="Film 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Film 4.png" group-title="📺英国频道",Film 4
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98831
-#EXTINF:-1 tvg-id="4 seven" tvg-name="4 seven" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/4 seven.png" group-title="📺英国频道",4 seven
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/89380
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Channel 5.png" group-title="📺英国频道",Channel 5
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
-#EXTINF:-1 tvg-id="5 Action" tvg-name="5 Action" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/5 Action.png" group-title="📺英国频道",5 Action
-http://rocketfx.uk:8080/henry/henry/508314
-#EXTINF:-1 tvg-id="5 Select" tvg-name="5 Select" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/5 Select.png" group-title="📺英国频道",5 Select
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/534722
-#EXTINF:-1 tvg-id="5 Star" tvg-name="5 Star" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/5 Star.png" group-title="📺英国频道",5 Star
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
-#EXTINF:-1 tvg-id="Quest" tvg-name="Quest" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Quest.png" group-title="📺英国频道",Quest
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/110055
-#EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/S4C.png" group-title="📺英国频道",S4C
-http://rocketfx.uk:8080/henry/henry/2111
-#EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/S4C.png" group-title="📺英国频道",S4C
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 tvg-id="Sky Arts" tvg-name="Sky Arts" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Arts.png" group-title="📺英国频道",Sky Arts
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98808
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Atlantic.png" group-title="📺英国频道",Sky Atlantic
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/37099
-#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Comedy.png" group-title="📺英国频道",Sky Comedy
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/110060
-#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Crime.png" group-title="📺英国频道",Sky Crime
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/110063
-#EXTINF:-1 tvg-id="Sky Documentaries" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Documentaries.png" group-title="📺英国频道",Sky Documentaries
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/326
-#EXTINF:-1 tvg-id="Sky History" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky History.png" group-title="📺英国频道",Sky History
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/304888
-#EXTINF:-1 tvg-id="Sky History 2" tvg-name="Sky History 2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky History 2.png" group-title="📺英国频道",Sky History 2
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/275677
-#EXTINF:-1 tvg-id="Sky Kids" tvg-name="Sky Kids" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Kids.png" group-title="📺英国频道",Sky Kids
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/435574
-#EXTINF:-1 tvg-id="Sky Mix" tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Mix.png" group-title="📺英国频道",Sky Mix
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825568
-#EXTINF:-1 tvg-id="Sky Nature" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Nature.png" group-title="📺英国频道",Sky Nature
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/327
-#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky One.png" group-title="📺英国频道",Sky One
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/37149
-#EXTINF:-1 tvg-id="Sky Sci-Fi" tvg-name="Sky Sci-Fi" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Sci-Fi.png" group-title="📺英国频道",Sky Sci-Fi
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/329
-#EXTINF:-1 tvg-id="Sky Witness" tvg-name="Sky Witness" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Witness.png" group-title="📺英国频道",Sky Witness
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/297
-#EXTINF:-1 tvg-id="U&Alibi" tvg-name="U&Alibi" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/U&Alibi.png" group-title="📺英国频道",U&Alibi
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98855
-#EXTINF:-1 tvg-id="U&Dave" tvg-name="U&Dave" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/U&Dave.png" group-title="📺英国频道",U&Dave
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98844
-#EXTINF:-1 tvg-id="U&Drama" tvg-name="U&Drama" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/U&Drama.png" group-title="📺英国频道",U&Drama
-http://rocketfx.uk:8080/henry/henry/31339
-#EXTINF:-1 tvg-id="U&Eden" tvg-name="U&Eden" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/U&Eden.png" group-title="📺英国频道",U&Eden
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/272
-#EXTINF:-1 tvg-id="U&Gold" tvg-name="U&Gold" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/U&Gold.png" group-title="📺英国频道",U&Gold
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/37126
-#EXTINF:-1 tvg-id="U&W" tvg-name="U&W" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/U&W.png" group-title="📺英国频道",U&W
-http://dmtn-tv.com:8080//aminefr22/aYJudnT/533393
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CNN.png" group-title="📺美国频道",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/HBO.png" group-title="📺美国频道",HBO
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1265
+http://45.153.96.44:8009
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Fox News.png" group-title="📺美国频道",Fox News
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Fox Weather.png" group-title="📺美国频道",Fox Weather
-https://pb-hum8cczphcrpf.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-hum8cczphcrpf/5a729378-7573-4e94-bd08-0d3f2e483fb3/3.m3u8
-#EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Fox Weather.png" group-title="📺美国频道",Fox Weather
 https://foxweather-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/AMC.png" group-title="📺美国频道",AMC
-http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CNBC.png" group-title="📺美国频道",CNBC
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TBS.png" group-title="📺美国频道",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CBS Sports Network.png" group-title="📺美国频道",CBS Sports Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
-#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC News Live.png" group-title="📺美国频道",ABC News Live
-https://pb-0n3n2ej0w8pl9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n3n2ej0w8pl9/9d6fea29-b168-48b9-8d74-073a6bab5ce6/0.m3u8
 #EXTINF:-1 tvg-id="ABC 2" tvg-name="ABC 2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 2.png" group-title="📺美国频道",ABC 2
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 4.png" group-title="📺美国频道",ABC 4
-https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 4.png" group-title="📺美国频道",ABC 4
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC 4" tvg-name="ABC 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 4.png" group-title="📺美国频道",ABC 4
+https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 6" tvg-name="ABC 6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 6.png" group-title="📺美国频道",ABC 6
 https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 7" tvg-name="ABC 7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 7.png" group-title="📺美国频道",ABC 7
@@ -125,12 +25,6 @@ https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC 22" tvg-name="ABC 22" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/ABC 22.png" group-title="📺美国频道",ABC 22
 https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Newsmax.png" group-title="📺美国频道",Newsmax
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/MTV.png" group-title="📺美国频道",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/MTV Live.png" group-title="📺美国频道",MTV Live
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TVB翡翠台.png" group-title="📺香港",TVB翡翠台
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TVB翡翠台.png" group-title="📺香港",TVB翡翠台
@@ -195,6 +89,8 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 http://60.10.139.113:8801/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
@@ -212,9 +108,9 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
 http://60.10.139.113:8801/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://16.cdn.hi.hn/163189/cctv5-2
+https://cdn.qd.je/163189/cctv5-2
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
 http://60.10.139.113:8801/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
@@ -276,7 +172,7 @@ http://60.10.139.113:8801/hls/97/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
-https://16.cdn.hi.hn/163189/cctv16-2
+https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
@@ -287,8 +183,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 http://60.10.139.113:8801/hls/98/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
-http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-8K.png" group-title="📺央视频道",CCTV-8K
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CGTN记录.png" group-title="📺央视频道",CGTN记录
@@ -455,102 +349,28 @@ https://cdn.qd.je/163189/jtxj
 https://cdn.qd.je/163189/lhox
 #EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/龙华经典台.png" group-title="🎬电影频道",龙华经典台
 https://cdn.qd.je/163189/lhjd
-#EXTINF:-1 tvg-id="5 Action" tvg-name="5ACTION UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/5ACTION UK.png" group-title="🎬电影频道",5ACTION UK
-http://rocketfx.uk:8080/henry/henry/508314
-#EXTINF:-1 tvg-id="5 Select" tvg-name="5SELECT UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/5SELECT UK.png" group-title="🎬电影频道",5SELECT UK
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/534722
-#EXTINF:-1 tvg-id="5 Star" tvg-name="5STAR UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/5STAR UK.png" group-title="🎬电影频道",5STAR UK
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
-#EXTINF:-1 tvg-id="Sky Cinema Premiere UK" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Premiere UK.png" group-title="🎬电影频道",Sky Cinema Premiere UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
-#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="Sky Cinema Select UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Select UK.png" group-title="🎬电影频道",Sky Cinema Select UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98791
-#EXTINF:-1 tvg-id="Sky Cinema Hits UK" tvg-name="Sky Cinema Hits UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Hits UK.png" group-title="🎬电影频道",Sky Cinema Hits UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98794
-#EXTINF:-1 tvg-id="Sky Cinema Family UK" tvg-name="Sky Cinema Family UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Family UK.png" group-title="🎬电影频道",Sky Cinema Family UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98796
-#EXTINF:-1 tvg-id="Sky Cinema Action UK" tvg-name="Sky Cinema Action UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Action UK.png" group-title="🎬电影频道",Sky Cinema Action UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98800
-#EXTINF:-1 tvg-id="Sky Cinema Greats UK" tvg-name="Sky Cinema Greats UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Greats UK.png" group-title="🎬电影频道",Sky Cinema Greats UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98795
-#EXTINF:-1 tvg-id="Sky Cinema Comedy UK" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Comedy UK.png" group-title="🎬电影频道",Sky Cinema Comedy UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98799
-#EXTINF:-1 tvg-id="Sky Cinema Thriller UK" tvg-name="Sky Cinema Thriller UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Thriller UK.png" group-title="🎬电影频道",Sky Cinema Thriller UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98790
-#EXTINF:-1 tvg-id="Sky Cinema Drama UK" tvg-name="Sky Cinema Drama UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Drama UK.png" group-title="🎬电影频道",Sky Cinema Drama UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98797
-#EXTINF:-1 tvg-id="Sky Cinema Sci-Fi & Horror UK" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Cinema Sci-Fi & Horror UK.png" group-title="🎬电影频道",Sky Cinema Sci-Fi & Horror UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98792
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
-https://16.cdn.hi.hn/163189/cctv5p-2
+https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
 https://cdn.qd.je/163189/wxty
 #EXTINF:-1 tvg-id="体育赛事" tvg-name="体育赛事" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/体育赛事.png" group-title="🏀体育频道",体育赛事
 http://60.10.139.113:8801/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TNT SPORTS 1.png" group-title="🏀体育频道",TNT SPORTS 1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
-#EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TNT SPORTS 1.png" group-title="🏀体育频道",TNT SPORTS 1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119906
-#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-name="TNT SPORTS 2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TNT SPORTS 2.png" group-title="🏀体育频道",TNT SPORTS 2
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/89213
-#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-name="TNT SPORTS 3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TNT SPORTS 3.png" group-title="🏀体育频道",TNT SPORTS 3
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/89212
-#EXTINF:-1 tvg-id="TNT SPORTS 4" tvg-name="TNT SPORTS 4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/TNT SPORTS 4.png" group-title="🏀体育频道",TNT SPORTS 4
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/89211
-#EXTINF:-1 tvg-id="SKY SPORTS FOOTBALL" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS FOOTBALL.png" group-title="🏀体育频道",SKY SPORTS FOOTBALL
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98781
-#EXTINF:-1 tvg-id="SKY SPORTS MAIN EVENT" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS MAIN EVENT.png" group-title="🏀体育频道",SKY SPORTS MAIN EVENT
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/118947
-#EXTINF:-1 tvg-id="SKY SPORTS PREMIER LEAGUE" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS PREMIER LEAGUE.png" group-title="🏀体育频道",SKY SPORTS PREMIER LEAGUE
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98775
-#EXTINF:-1 tvg-id="SKY SPORTS ACTION" tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS ACTION.png" group-title="🏀体育频道",SKY SPORTS ACTION
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98789
-#EXTINF:-1 tvg-id="SKY SPORTS MIX" tvg-name="SKY SPORTS MIX" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS MIX.png" group-title="🏀体育频道",SKY SPORTS MIX
-http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/339
-#EXTINF:-1 tvg-id="SKY SPORTS NEWS" tvg-name="SKY SPORTS NEWS" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS NEWS.png" group-title="🏀体育频道",SKY SPORTS NEWS
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98801
-#EXTINF:-1 tvg-id="SKY SPORTS CRICKET" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS CRICKET.png" group-title="🏀体育频道",SKY SPORTS CRICKET
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98785
-#EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Sky Sports Tennis.png" group-title="🏀体育频道",Sky Sports Tennis
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
-#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS F1.png" group-title="🏀体育频道",SKY SPORTS F1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
-#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS F1.png" group-title="🏀体育频道",SKY SPORTS F1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
-#EXTINF:-1 tvg-id="SKY SPORTS GOLF" tvg-name="SKY SPORTS GOLF" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS GOLF.png" group-title="🏀体育频道",SKY SPORTS GOLF
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98779
-#EXTINF:-1 tvg-id="SKY SPORTS RACING" tvg-name="SKY SPORTS RACING" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/SKY SPORTS RACING.png" group-title="🏀体育频道",SKY SPORTS RACING
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98773
-#EXTINF:-1 tvg-id="Premier Sports 1" tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Premier Sports 1.png" group-title="🏀体育频道",Premier Sports 1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
-#EXTINF:-1 tvg-id="Premier Sports 2" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Premier Sports 2.png" group-title="🏀体育频道",Premier Sports 2
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/NBA TV.png" group-title="🏀体育频道",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/风云足球.png" group-title="🏀体育频道",风云足球
 http://60.10.139.113:8801/hls/69/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/风云足球.png" group-title="🏀体育频道",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/龙华卡通台.png" group-title="🪁动画频道",龙华卡通台
 https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Nick Jr..png" group-title="🪁动画频道",Nick Jr.
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1268
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Disney XD.png" group-title="🪁动画频道",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
 http://60.10.139.113:8801/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC Earth.png" group-title="📺纪录",BBC Earth
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/91f66dd6-f06c-4386-8452-5befcbd4c77f/0.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Love Nature HD.png" group-title="📺纪录",Love Nature HD
-https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Lifetime.png" group-title="📺纪录",Lifetime
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1446
 #EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Channel 5 HD.png" group-title="📺新加坡",Channel 5 HD
 https://cdn.qd.je/163189/ch5
 #EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/Channel 8 HD.png" group-title="📺新加坡",Channel 8 HD
@@ -597,5 +417,5 @@ http://60.10.139.113:8801/hls/64/index.m3u8
 http://60.10.139.113:8801/hls/73/index.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-07-05 22:04:28
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-07-07 08:28:00
+http://45.153.96.44:8007

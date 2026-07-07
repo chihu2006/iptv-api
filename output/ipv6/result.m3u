@@ -374,5 +374,5 @@ http://60.10.139.113:8801/hls/79/index.m3u8
 http://60.10.139.113:8801/hls/64/index.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
 http://60.10.139.113:8801/hls/73/index.m3u8
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-07-07 08:28:00
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/refs/heads/main/tv/BBC One.png" group-title="🕘️更新时间",2026-07-07 19:08:31
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8

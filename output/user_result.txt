@@ -326,4 +326,4 @@ Channel U HD,https://cdn.qd.je/163189/chu
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-07-07 08:28:00,http://45.153.96.44:8007
+2026-07-07 19:08:31,http://45.153.96.44:8007

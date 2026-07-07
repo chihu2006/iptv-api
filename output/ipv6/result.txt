@@ -280,4 +280,4 @@ Channel U HD,https://cdn.qd.je/163189/chu
 世界地理,http://60.10.139.113:8801/hls/73/index.m3u8
 
 🕘️更新时间,#genre#
-2026-07-07 08:28:00,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+2026-07-07 19:08:31,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8

@@ -591,4 +591,4 @@ Channel U HD,https://cdn.qd.je/163189/chu
 世界地理,http://60.10.139.113:8801/hls/73/index.m3u8
 
 🕘️更新时间,#genre#
-2026-07-07 19:19:04,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+2026-07-07 19:47:14,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330

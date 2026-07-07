@@ -27,6 +27,7 @@ Channel 5,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
 5 USA,http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/247
 Quest,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110055
 S4C,http://rocketfx.uk:8080/henry/henry/2111
+S4C,https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 Blaze,https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 Sky Arts,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98808
 Sky Atlantic,http://89.187.179.148:826/anto.j/c9yJDcXyPe/37099
@@ -131,8 +132,8 @@ CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42
 CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV-1,http://60.10.139.113:8801/hls/1/index.m3u8
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6QtUE2vslX2asSTBe2FJR
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD6QtUE2vslX2asSTBe2FJR
 CCTV-2,https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD6QtUE2vslX2asSTBe2FJR
@@ -228,6 +229,7 @@ CCTV-17,http://60.10.139.113:8801/hls/98/index.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgLWBpXQwqJ8lD6QtUE2vslX2asSTBe2FJR
 CCTV-4K,https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgLWBpXQwqJ8lD6QtUE2vslX2asSTBe2FJR
+CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CGTN记录,https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046013bee3262d4988a9c4c&livekey=01WgLWBpXQwqJ8lD6QtUE2vslX2asSTBe2FJR
 CGTN记录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
@@ -636,4 +638,4 @@ Channel U HD,https://cdn.qd.je/163189/chu
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 🕘️更新时间,#genre#
-2026-07-07 19:19:03,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+2026-07-07 19:47:14,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330

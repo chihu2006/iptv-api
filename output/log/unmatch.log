@@ -1,3 +1,38 @@
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+民视新闻,http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
+公视高清,http://211.72.174.95:8116/0.ts
+中视高清,http://220.135.241.47:8301/0.ts
+华视高清,http://220.135.241.47:8317/0.ts
+台视高清,http://211.72.174.95:8112/0.ts
+华视教体,http://220.135.241.47:8318/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
+经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
+少儿频道,http://play1-qk.nmtv.cn/live/2327general.m3u8
+文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
+农牧频道,http://play1-qk.nmtv.cn/live/2329general.m3u8
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
+武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
+河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
@@ -75,42 +110,42 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 风尚购物 (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN财经,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
-CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
-民视新闻,http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
-公视高清,http://211.72.174.95:8116/0.ts
-中视高清,http://220.135.241.47:8301/0.ts
-华视高清,http://220.135.241.47:8317/0.ts
-台视高清,http://211.72.174.95:8112/0.ts
-华视教体,http://220.135.241.47:8318/0.ts
-台视财经,http://220.135.241.47:8315/0.ts
-Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
-看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
-经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
-少儿频道,http://play1-qk.nmtv.cn/live/2327general.m3u8
-文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
-农牧频道,http://play1-qk.nmtv.cn/live/2329general.m3u8
-梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
-武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
-河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CGTN法语,https://live.264788.xyz/channel/cgtnfrench?streamid=e9541a3ca2de1af6d9024349b1a9dd3b&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=fef40e80f1c448ad9436af5c51205214&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=dedc96e3bc3a461b92ccfc071786345a&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=54effc2c015b2dc5a4c21e27f9482b50&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=e3c639a9c0417b3859ab24d19854970d&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=37d60172a2bbb0d41f072d29213e6264&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=b6b18c83a0faf28406aa00620a3a5cc4&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=e3c5e2aec1f1cf295a1323602a0ed8dd&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=f069028f0dff385fda42852ff102b4b9&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=31e624f674607f4735a58b4c46996a48&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=aa4b073c8ac1af1c0eccf0eba8c10b48&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=48691acaca580ae2f75be80db77a49f2&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=451d321c7d5df14c154d41bfc36818ba&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+早期教育,https://live.264788.xyz/channel/cetvcece?streamid=2c224135515a11c735f7351c17434a62&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+中国天气,https://live.264788.xyz/channel/zhongguotianqi?streamid=3c26e5448ae7d17e8ca0e64999d90b3d&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+家庭理财,https://live.264788.xyz/channel/jiatinglicai?streamid=d75327b38d0feaa9d36963bae802195d&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+乐游,https://live.264788.xyz/channel/leyou?streamid=f76a46c986423a63fe578de127ff4e1e&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+乐游,https://live.264788.xyz/channel/leyou?streamid=ae6266003901f07c1ab6d3a717078d4e&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=8fe38ffb53d3c3577b984f950e723bb1&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=cb091d25c0de55e14e3e620f52da7c6d&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+财富天下,https://live.264788.xyz/channel/caifutianxia?streamid=b451c7c6fde3d1b517f4d1e42e3c6f31&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+茶,https://live.264788.xyz/channel/cha?streamid=66f1829851f8c2069b262b1ce7836d7e&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+好享购物,https://live.264788.xyz/channel/haoxianggouwu?streamid=9a3d98e729381542c62b5434bf09f4d6&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+福建乡村振兴·公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+福建经济生活,https://live.264788.xyz/channel/fujianjingji?streamid=3d2ec9af12e769a54d735fc805192594&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
+福建教育,https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b53d9582&livekey=01WgLWBpXQwqJ8lD6Y6IwzL57qQCPlhExopbp
 5 Cops,https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 48 Hours GB (720p),https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
 Aaj Tak (1080p),http://103.213.31.109:90/AajtakHD/playlist.m3u8
@@ -285,6 +320,7 @@ MyTime Movie Network (1080p),https://appletree-mytimeuk-rakuten.amagi.tv/playlis
 NatureTime (1080p),https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 NBC News NOW (1080p),https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 NBC News NOW HD (720p),http://206.212.244.63/127/index.m3u8
+Nickelodeon (576p),http://tvsen7.aynascope.net/nicklodean/index.m3u8
 Nolly Africa HD (1080p),https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 Noor TV (720p),https://sscsott.com/srt/noortvuk/index.m3u8
 Nosey,https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8
@@ -406,42 +442,6 @@ XITE Hits UK (1080p),https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.ama
 YAAAS! (720p) [Geo-blocked],https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 Zee One (1080p),https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 Zee TV UK HD (1080p),https://mini.allinonereborn.fun/tata.php?id=11783
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CGTN法语,https://live.264788.xyz/channel/cgtnfrench?streamid=e9541a3ca2de1af6d9024349b1a9dd3b&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=fef40e80f1c448ad9436af5c51205214&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=dedc96e3bc3a461b92ccfc071786345a&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=54effc2c015b2dc5a4c21e27f9482b50&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=e3c639a9c0417b3859ab24d19854970d&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=37d60172a2bbb0d41f072d29213e6264&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=b6b18c83a0faf28406aa00620a3a5cc4&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=e3c5e2aec1f1cf295a1323602a0ed8dd&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=f069028f0dff385fda42852ff102b4b9&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=31e624f674607f4735a58b4c46996a48&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=aa4b073c8ac1af1c0eccf0eba8c10b48&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=48691acaca580ae2f75be80db77a49f2&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=451d321c7d5df14c154d41bfc36818ba&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-早期教育,https://live.264788.xyz/channel/cetvcece?streamid=2c224135515a11c735f7351c17434a62&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-中国天气,https://live.264788.xyz/channel/zhongguotianqi?streamid=3c26e5448ae7d17e8ca0e64999d90b3d&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-家庭理财,https://live.264788.xyz/channel/jiatinglicai?streamid=d75327b38d0feaa9d36963bae802195d&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-乐游,https://live.264788.xyz/channel/leyou?streamid=f76a46c986423a63fe578de127ff4e1e&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-乐游,https://live.264788.xyz/channel/leyou?streamid=ae6266003901f07c1ab6d3a717078d4e&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=8fe38ffb53d3c3577b984f950e723bb1&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=cb091d25c0de55e14e3e620f52da7c6d&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-财富天下,https://live.264788.xyz/channel/caifutianxia?streamid=b451c7c6fde3d1b517f4d1e42e3c6f31&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-茶,https://live.264788.xyz/channel/cha?streamid=66f1829851f8c2069b262b1ce7836d7e&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-好享购物,https://live.264788.xyz/channel/haoxianggouwu?streamid=9a3d98e729381542c62b5434bf09f4d6&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-福建乡村振兴·公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-福建经济生活,https://live.264788.xyz/channel/fujianjingji?streamid=3d2ec9af12e769a54d735fc805192594&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
-福建教育,https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b53d9582&livekey=01WgLWBpXQwqJ8lD6XUHztOmdWxEpPkVt2Ce1
 FOX 4K (Not 24/7),http://atlanticflixtv.online/1552952/97L6A58/1436344
 FOX,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511
 TSN 4K CA 01,https://idabest.danng.me/live/stream-966c958f-1bc4-480f-9bbf-1df6d85c0636/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
@@ -1474,7 +1474,7 @@ Detroit Channel 68,https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-
 Didgah TV (576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 Disney Channel (720p),http://206.212.244.63/650/index.m3u8
 Disney Channel West (720p),http://206.212.244.63/3146/index.m3u8
-Disney Junior (1080p),http://190.14.10.19:16000/play/a02d/index.m3u8
+Disney Junior (720p),http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 Disney Junior West (720p),http://206.212.244.63/655/index.m3u8
 Disney XD West (480p),http://tvsen5.aynascope.net/disneyxd/index.m3u8
 District of Columbia Network (DCN) (1080p),https://video.oct.dc.gov/out/u/DCN.m3u8
@@ -1548,6 +1548,7 @@ Forensic Files,https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 Forever Kids,https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p),https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
 Fort Pierce Live Stream (Fort Pierce FL) (720p),https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
+Fox (720p),http://stream.cammonitorplus.net/1752/index.m3u8
 FOX 2 San Francisco CA (KTVU) (720p),https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 FOX 11 Green Bay WI (WLUK) (1080p),https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 FOX 13 Seattle WA (KCPQ) (720p),https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8

@@ -105,42 +105,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/71842
 #EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC News Live.png" group-title="📺美国频道",ABC News Live
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/59d7ff97-2217-4d3d-a0c9-7f7e6d8dae8e/5.m3u8
-#EXTINF:-1 tvg-id="ABC 2" tvg-name="ABC 2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 2.png" group-title="📺美国频道",ABC 2
-https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 5" tvg-name="ABC 5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 5.png" group-title="📺美国频道",ABC 5
-https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 5" tvg-name="ABC 5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 5.png" group-title="📺美国频道",ABC 5
-https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 5" tvg-name="ABC 5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 5.png" group-title="📺美国频道",ABC 5
-https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 6" tvg-name="ABC 6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 6.png" group-title="📺美国频道",ABC 6
-https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 7" tvg-name="ABC 7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 7.png" group-title="📺美国频道",ABC 7
-https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 7" tvg-name="ABC 7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 7.png" group-title="📺美国频道",ABC 7
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-id="ABC 9" tvg-name="ABC 9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 9.png" group-title="📺美国频道",ABC 9
-https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 9" tvg-name="ABC 9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 9.png" group-title="📺美国频道",ABC 9
-https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 9" tvg-name="ABC 9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 9.png" group-title="📺美国频道",ABC 9
-https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 10" tvg-name="ABC 10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 10.png" group-title="📺美国频道",ABC 10
-https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 10" tvg-name="ABC 10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 10.png" group-title="📺美国频道",ABC 10
-https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 12" tvg-name="ABC 12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 12.png" group-title="📺美国频道",ABC 12
-https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 13" tvg-name="ABC 13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 13.png" group-title="📺美国频道",ABC 13
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-id="ABC 15" tvg-name="ABC 15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 15.png" group-title="📺美国频道",ABC 15
 https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 23" tvg-name="ABC 23" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 23.png" group-title="📺美国频道",ABC 23
-https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC 25" tvg-name="ABC 25" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 25.png" group-title="📺美国频道",ABC 25
-https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
-#EXTINF:-1 tvg-id="ABC 27" tvg-name="ABC 27" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/ABC 27.png" group-title="📺美国频道",ABC 27
-https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/Newsmax.png" group-title="📺美国频道",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/MTV.png" group-title="📺美国频道",MTV
@@ -190,13 +156,13 @@ https://cdn6.cc.cd/163189/tvb1
 #EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/翡翠剧集台(北美).png" group-title="📺香港",翡翠剧集台(北美)
 https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/凤凰卫视中文台.png" group-title="📺香港",凤凰卫视中文台
-https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/凤凰卫视中文台.png" group-title="📺香港",凤凰卫视中文台
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/凤凰卫视香港台.png" group-title="📺香港",凤凰卫视香港台
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/凤凰资讯.png" group-title="📺香港",凤凰资讯
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/凤凰资讯.png" group-title="📺香港",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="港台电视 31" tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/RTHK31.png" group-title="📺香港",RTHK31
@@ -236,609 +202,609 @@ http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/東森新聞.png" group-title="📺台湾",東森新聞
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-https://live.264788.xyz/channel/cctv1?streamid=284f3fa6368b5098d035fc0bdfdee06b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv1?streamid=284f3fa6368b5098d035fc0bdfdee06b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-https://live.264788.xyz/channel/cctv1?streamid=598462f1834649ea27064f28e513fa2f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv1?streamid=598462f1834649ea27064f28e513fa2f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
-https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
-https://live.264788.xyz/channel/cctv2?streamid=d1cc2ab1935ffcbb4bacddf350a1a3ba&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv2?streamid=d1cc2ab1935ffcbb4bacddf350a1a3ba&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
-https://live.264788.xyz/channel/cctv2?streamid=119eded5fa72df990c4a2eb3b45ffe21&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv2?streamid=119eded5fa72df990c4a2eb3b45ffe21&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
-https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
-https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
-https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-2.png" group-title="📺央视频道",CCTV-2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
-https://live.264788.xyz/channel/cctv3?streamid=d6096ad52726df89fa7bb40676ef00ee&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv3?streamid=d6096ad52726df89fa7bb40676ef00ee&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
-https://live.264788.xyz/channel/cctv3?streamid=799605abfd0421def8404c885d3299ac&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv3?streamid=799605abfd0421def8404c885d3299ac&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
-https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
-https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
-https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-3.png" group-title="📺央视频道",CCTV-3
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
-https://live.264788.xyz/channel/cctv4?streamid=7ffd1595166a5eef3b9a0d2b6289bbbd&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4?streamid=7ffd1595166a5eef3b9a0d2b6289bbbd&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
-https://live.264788.xyz/channel/cctv4?streamid=3feba32dfa633a5c83070369ae9a3eb6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4?streamid=3feba32dfa633a5c83070369ae9a3eb6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
-https://live.264788.xyz/channel/cctv4?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
-https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
-https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4.png" group-title="📺央视频道",CCTV-4
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://live.264788.xyz/channel/cctv5?streamid=d5e775ac0d8529b4d3f928ee41d71a10&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5?streamid=d5e775ac0d8529b4d3f928ee41d71a10&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://live.264788.xyz/channel/cctv5?streamid=3b4b9f6e9a130898d64671bf597ad7da&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5?streamid=3b4b9f6e9a130898d64671bf597ad7da&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
-https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
 https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5.png" group-title="📺央视频道",CCTV-5
 https://cdn.qd.je/163189/cctv5-2
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
-https://live.264788.xyz/channel/cctv6?streamid=8204e02f4c22a483a3718384c8681b45&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv6?streamid=8204e02f4c22a483a3718384c8681b45&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
-https://live.264788.xyz/channel/cctv6?streamid=70ef9ec7f8ed6f4f9b46e612480917a5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv6?streamid=70ef9ec7f8ed6f4f9b46e612480917a5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
-https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
-https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv6?streamid=cdf2a45cf92cd843c41935b9ad03fdb1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
-https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv6?streamid=594ab401db67c9a1a87d9419543149ff&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-6.png" group-title="📺央视频道",CCTV-6
 https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
-https://live.264788.xyz/channel/cctv7?streamid=409b1efb9ae9eda041cc44707bcfe74c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv7?streamid=409b1efb9ae9eda041cc44707bcfe74c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
-https://live.264788.xyz/channel/cctv7?streamid=dfb185a1b241380a723b4ca1c8f55730&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv7?streamid=dfb185a1b241380a723b4ca1c8f55730&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
-https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
-https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
-https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-7.png" group-title="📺央视频道",CCTV-7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-8.png" group-title="📺央视频道",CCTV-8
-https://live.264788.xyz/channel/cctv8?streamid=70d8df31497fc77c940c9f9071ccc129&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv8?streamid=70d8df31497fc77c940c9f9071ccc129&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-8.png" group-title="📺央视频道",CCTV-8
-https://live.264788.xyz/channel/cctv8?streamid=32c60b1c504e1514d5d4a494f74ddfe2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv8?streamid=32c60b1c504e1514d5d4a494f74ddfe2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-8.png" group-title="📺央视频道",CCTV-8
-https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-8.png" group-title="📺央视频道",CCTV-8
-https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-8.png" group-title="📺央视频道",CCTV-8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
-https://live.264788.xyz/channel/cctv9?streamid=26afabf586a4df71c5d5348bf8b1c613&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv9?streamid=26afabf586a4df71c5d5348bf8b1c613&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
-https://live.264788.xyz/channel/cctv9?streamid=0f9587c278ae887df5cc1f540335a780&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv9?streamid=0f9587c278ae887df5cc1f540335a780&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
-https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
-https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
-https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv9?streamid=a1c62cd1a08c871f0139cd4415979edd&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-9.png" group-title="📺央视频道",CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
-https://live.264788.xyz/channel/cctv10?streamid=f607e0740cf52c0eb2305feb0d2c3ce1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv10?streamid=f607e0740cf52c0eb2305feb0d2c3ce1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
-https://live.264788.xyz/channel/cctv10?streamid=251e1060dd4b4b15292e4e8fd19e1ca4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv10?streamid=251e1060dd4b4b15292e4e8fd19e1ca4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
-https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
-https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
-https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv10?streamid=1d44973ab4169ca43dd74f86cfd8b4c3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-10.png" group-title="📺央视频道",CCTV-10
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-11.png" group-title="📺央视频道",CCTV-11
-https://live.264788.xyz/channel/cctv11?streamid=0cac61cd41cbb3b1fd55651ea9713df5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv11?streamid=0cac61cd41cbb3b1fd55651ea9713df5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-11.png" group-title="📺央视频道",CCTV-11
-https://live.264788.xyz/channel/cctv11?streamid=67508fae7e855c49d188538a376f6b3d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv11?streamid=67508fae7e855c49d188538a376f6b3d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-11.png" group-title="📺央视频道",CCTV-11
-https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-11.png" group-title="📺央视频道",CCTV-11
-https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv11?streamid=1cbd4046d7da2c3256da8f134bb57155&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-11.png" group-title="📺央视频道",CCTV-11
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
-https://live.264788.xyz/channel/cctv12?streamid=5e16298e4f2faeee667780912f3c0941&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv12?streamid=5e16298e4f2faeee667780912f3c0941&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
-https://live.264788.xyz/channel/cctv12?streamid=e2d5f7b88f469911df1e7b42ae469257&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv12?streamid=e2d5f7b88f469911df1e7b42ae469257&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
-https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
-https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
-https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-12.png" group-title="📺央视频道",CCTV-12
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-https://live.264788.xyz/channel/cctv13?streamid=ac4ada478dd2dbbc7082cc9fe8120618&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv13?streamid=ac4ada478dd2dbbc7082cc9fe8120618&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-https://live.264788.xyz/channel/cctv13?streamid=051846146695a3be058febcfff96be97&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv13?streamid=051846146695a3be058febcfff96be97&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
 https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://live.264788.xyz/channel/cctv14?streamid=720d0e6726e1300ba852cda5fc220d93&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv14?streamid=720d0e6726e1300ba852cda5fc220d93&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://live.264788.xyz/channel/cctv14?streamid=5aae43f6a53f5ef6c5546c95d499eafa&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv14?streamid=5aae43f6a53f5ef6c5546c95d499eafa&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
-https://live.264788.xyz/channel/cctv15?streamid=428519fe4d6188a6bcc61522b6d88310&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv15?streamid=428519fe4d6188a6bcc61522b6d88310&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
-https://live.264788.xyz/channel/cctv15?streamid=f6a560b599430362f7378dd95ae70c19&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv15?streamid=f6a560b599430362f7378dd95ae70c19&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
-https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
-https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
-https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv15?streamid=bf37f0c53142ac899540c9325d6ed531&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-15.png" group-title="📺央视频道",CCTV-15
 https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
-https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
-https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv164k?streamid=a78e16d1a56172e5525dedde279787a3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-16.png" group-title="📺央视频道",CCTV-16
 https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
-https://live.264788.xyz/channel/cctv17?streamid=3e54610475646e914a25c1d426ab880e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv17?streamid=3e54610475646e914a25c1d426ab880e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
-https://live.264788.xyz/channel/cctv17?streamid=20e6908f57641c1c14ffbdaf145f7a65&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv17?streamid=20e6908f57641c1c14ffbdaf145f7a65&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
-https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
-https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
-https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-17.png" group-title="📺央视频道",CCTV-17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
-https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-4K.png" group-title="📺央视频道",CCTV-4K
-https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CGTN记录.png" group-title="📺央视频道",CGTN记录
-https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046013bee3262d4988a9c4c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cgtndocumentary?streamid=d27e00e9e046013bee3262d4988a9c4c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CGTN记录.png" group-title="📺央视频道",CGTN记录
 http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-id="TV Brics" tvg-name="TV Brics" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/TV Brics.png" group-title="📺央视频道",TV Brics
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方卫视.png" group-title="📡地方卫视",东方卫视
-https://live.264788.xyz/channel/dongfangweishi?streamid=fcf0623573bd4587b7866ce9f28ccec9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangweishi?streamid=fcf0623573bd4587b7866ce9f28ccec9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方卫视.png" group-title="📡地方卫视",东方卫视
-https://live.264788.xyz/channel/dongfangweishi?streamid=97b8694f842b501202aee7e206095981&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangweishi?streamid=97b8694f842b501202aee7e206095981&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方卫视.png" group-title="📡地方卫视",东方卫视
-https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方卫视.png" group-title="📡地方卫视",东方卫视
-https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方卫视.png" group-title="📡地方卫视",东方卫视
-https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方卫视.png" group-title="📡地方卫视",东方卫视
-https://live.264788.xyz/channel/dongfangweishi4k?streamid=b8c707e2ca95b85511f6c50c9638128b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangweishi4k?streamid=b8c707e2ca95b85511f6c50c9638128b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi?streamid=56bf0f5271a289e69387ae7bea7441aa&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi?streamid=56bf0f5271a289e69387ae7bea7441aa&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi?streamid=be48d1f3769eeac8094070b1bb2fde97&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi?streamid=be48d1f3769eeac8094070b1bb2fde97&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi?streamid=55aa70b744ce4863ca4f21755ce7821f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi?streamid=55aa70b744ce4863ca4f21755ce7821f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi4k?streamid=0c0f136d47c0e8bfec96708300e116f0&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi4k?streamid=0c0f136d47c0e8bfec96708300e116f0&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi4k?streamid=71a7c567d490b59eede50ff22db79217&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi4k?streamid=71a7c567d490b59eede50ff22db79217&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南卫视.png" group-title="📡地方卫视",湖南卫视
-https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/浙江卫视.png" group-title="📡地方卫视",浙江卫视
-https://live.264788.xyz/channel/zhejiangweishi?streamid=9407ea3f1325583643b6a45052fad92a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/zhejiangweishi?streamid=9407ea3f1325583643b6a45052fad92a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/浙江卫视.png" group-title="📡地方卫视",浙江卫视
-https://live.264788.xyz/channel/zhejiangweishi?streamid=c54ac0a2c2d9ec59a93cb1ee34afc102&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/zhejiangweishi?streamid=c54ac0a2c2d9ec59a93cb1ee34afc102&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/浙江卫视.png" group-title="📡地方卫视",浙江卫视
-https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/zhejiangweishi?streamid=25b7c6480cc4c9facb82d1cdf13693ec&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/浙江卫视.png" group-title="📡地方卫视",浙江卫视
-https://live.264788.xyz/channel/zhejiangweishi?streamid=f48e0bb7d67c931727ebb8fcd97bdfd3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/zhejiangweishi?streamid=f48e0bb7d67c931727ebb8fcd97bdfd3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/浙江卫视.png" group-title="📡地方卫视",浙江卫视
-https://live.264788.xyz/channel/zhejiangweishi?streamid=f5e7e8c75bba6951ba709e8a46ff2772&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/zhejiangweishi?streamid=f5e7e8c75bba6951ba709e8a46ff2772&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/浙江卫视.png" group-title="📡地方卫视",浙江卫视
-https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def1c2fe00cc8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi?streamid=9fa8ce968ba1773db56bf3dc98ab0157&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi?streamid=9fa8ce968ba1773db56bf3dc98ab0157&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi?streamid=79af1e02d78866fcaa6136a513bbceac&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi?streamid=79af1e02d78866fcaa6136a513bbceac&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi?streamid=b323fb591a326baffd8c4e4a5d48ba30&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi?streamid=b323fb591a326baffd8c4e4a5d48ba30&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi?streamid=a8a6999dae6313a2788eff262b5873bc&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi?streamid=a8a6999dae6313a2788eff262b5873bc&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东卫视.png" group-title="📡地方卫视",广东卫视
-https://live.264788.xyz/channel/guangdongweishi4k?streamid=6a50ede91d38c74ee3789122e267fec1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangdongweishi4k?streamid=6a50ede91d38c74ee3789122e267fec1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江苏卫视.png" group-title="📡地方卫视",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi?streamid=a2f4ac67ba1b41be579777a48ac37ee3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangsuweishi?streamid=a2f4ac67ba1b41be579777a48ac37ee3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江苏卫视.png" group-title="📡地方卫视",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi?streamid=c15c29275d85ebebf71fd3b63e7649cc&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangsuweishi?streamid=c15c29275d85ebebf71fd3b63e7649cc&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江苏卫视.png" group-title="📡地方卫视",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江苏卫视.png" group-title="📡地方卫视",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi?streamid=5e7875e596c34b83f5defc985b52c5f9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangsuweishi?streamid=5e7875e596c34b83f5defc985b52c5f9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江苏卫视.png" group-title="📡地方卫视",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江苏卫视.png" group-title="📡地方卫视",江苏卫视
-https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/安徽卫视.png" group-title="📡地方卫视",安徽卫视
-https://live.264788.xyz/channel/anhuiweishi?streamid=c27d593dbdab9749454a7b3fe06b7f32&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/anhuiweishi?streamid=c27d593dbdab9749454a7b3fe06b7f32&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/安徽卫视.png" group-title="📡地方卫视",安徽卫视
-https://live.264788.xyz/channel/anhuiweishi?streamid=4b235a7afe3dc13e5f313d2432762639&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/anhuiweishi?streamid=4b235a7afe3dc13e5f313d2432762639&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/安徽卫视.png" group-title="📡地方卫视",安徽卫视
-https://live.264788.xyz/channel/anhuiweishi?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/anhuiweishi?streamid=cd2aa71eb7ee9609b9cd182fa1ed7fc0&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/安徽卫视.png" group-title="📡地方卫视",安徽卫视
-https://live.264788.xyz/channel/anhuiweishi?streamid=8f6ba7f0abf067bd6d93c7b58ec3d86f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/anhuiweishi?streamid=8f6ba7f0abf067bd6d93c7b58ec3d86f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/安徽卫视.png" group-title="📡地方卫视",安徽卫视
-https://live.264788.xyz/channel/anhuiweishi?streamid=6ad47f6ad8c42aa9e08a751bed820b1c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/anhuiweishi?streamid=6ad47f6ad8c42aa9e08a751bed820b1c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=eaa1c0ee44adc302019510fc0a676cc1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi?streamid=eaa1c0ee44adc302019510fc0a676cc1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=4bde856ccad8fbe0c0d5e2c2fca33a6e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi?streamid=4bde856ccad8fbe0c0d5e2c2fca33a6e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=85961b14ea610e8adbef8769bea8b26e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi?streamid=85961b14ea610e8adbef8769bea8b26e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=9f19de691697b902376432567c77cece&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi?streamid=9f19de691697b902376432567c77cece&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi?streamid=2715678e4b53f93415f1b63d802c342c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi?streamid=2715678e4b53f93415f1b63d802c342c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi4k?streamid=2af9bbae55f64f373a94440b8bb0a0bd&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/深圳卫视.png" group-title="📡地方卫视",深圳卫视
-https://live.264788.xyz/channel/shenzhenweishi4k?streamid=9828b90c3948bae63cb8de76cdccd646&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenzhenweishi4k?streamid=9828b90c3948bae63cb8de76cdccd646&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi?streamid=03ec26c602c97f23af9ab6f0c4a19080&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi?streamid=03ec26c602c97f23af9ab6f0c4a19080&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi?streamid=d494f5a843a9f07092c0fee504817527&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi?streamid=d494f5a843a9f07092c0fee504817527&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi?streamid=f37b9c719ec0ddf230c854b7ef08c7b9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi?streamid=f37b9c719ec0ddf230c854b7ef08c7b9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/北京卫视.png" group-title="📡地方卫视",北京卫视
-https://live.264788.xyz/channel/beijingweishi4k?streamid=9859ef98cc152feae0c066e8c100ad2e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/beijingweishi4k?streamid=9859ef98cc152feae0c066e8c100ad2e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山东卫视.png" group-title="📡地方卫视",山东卫视
-https://live.264788.xyz/channel/shandongweishi?streamid=c8dd1b39c7b94f4d96ce91dc0d87fbdb&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shandongweishi?streamid=c8dd1b39c7b94f4d96ce91dc0d87fbdb&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山东卫视.png" group-title="📡地方卫视",山东卫视
-https://live.264788.xyz/channel/shandongweishi?streamid=854d3744539e03dd13cf3a36de8aa417&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shandongweishi?streamid=854d3744539e03dd13cf3a36de8aa417&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山东卫视.png" group-title="📡地方卫视",山东卫视
-https://live.264788.xyz/channel/shandongweishi?streamid=17734718ddd5e6904640c72df1fe5fa8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shandongweishi?streamid=17734718ddd5e6904640c72df1fe5fa8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山东卫视.png" group-title="📡地方卫视",山东卫视
-https://live.264788.xyz/channel/shandongweishi?streamid=bf9b7f517ea933966a973fa582f07137&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shandongweishi?streamid=bf9b7f517ea933966a973fa582f07137&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山东卫视.png" group-title="📡地方卫视",山东卫视
-https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shandongweishi?streamid=1920e8715db79dca740ef1828b665c11&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山东卫视.png" group-title="📡地方卫视",山东卫视
-https://live.264788.xyz/channel/shandongweishi4k?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shandongweishi4k?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆卫视.png" group-title="📡地方卫视",重庆卫视
-https://live.264788.xyz/channel/chongqingweishi?streamid=21826bf72da99d2c2b445fdfd748f257&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingweishi?streamid=21826bf72da99d2c2b445fdfd748f257&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆卫视.png" group-title="📡地方卫视",重庆卫视
-https://live.264788.xyz/channel/chongqingweishi?streamid=37d93a1e8a26cab59777322d76049987&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingweishi?streamid=37d93a1e8a26cab59777322d76049987&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆卫视.png" group-title="📡地方卫视",重庆卫视
-https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆卫视.png" group-title="📡地方卫视",重庆卫视
-https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆卫视.png" group-title="📡地方卫视",重庆卫视
-https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/辽宁卫视.png" group-title="📡地方卫视",辽宁卫视
-https://live.264788.xyz/channel/liaoningweishi?streamid=1219534d856cadaa3d460fc6394dc859&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/liaoningweishi?streamid=1219534d856cadaa3d460fc6394dc859&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/辽宁卫视.png" group-title="📡地方卫视",辽宁卫视
-https://live.264788.xyz/channel/liaoningweishi?streamid=715e3cb0d0d416b0ef4ed9c34ef0b313&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/liaoningweishi?streamid=715e3cb0d0d416b0ef4ed9c34ef0b313&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/辽宁卫视.png" group-title="📡地方卫视",辽宁卫视
-https://live.264788.xyz/channel/liaoningweishi?streamid=d1d75a84e93e19de790b38a1305b0e02&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/liaoningweishi?streamid=d1d75a84e93e19de790b38a1305b0e02&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/辽宁卫视.png" group-title="📡地方卫视",辽宁卫视
-https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/辽宁卫视.png" group-title="📡地方卫视",辽宁卫视
-https://live.264788.xyz/channel/liaoningweishi?streamid=a5721d1b827b5abda39797171e2c1a53&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/liaoningweishi?streamid=a5721d1b827b5abda39797171e2c1a53&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖北卫视.png" group-title="📡地方卫视",湖北卫视
-https://live.264788.xyz/channel/hubeiweishi?streamid=769703dedfeec9a0f2572dbf74e85cd1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hubeiweishi?streamid=769703dedfeec9a0f2572dbf74e85cd1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖北卫视.png" group-title="📡地方卫视",湖北卫视
-https://live.264788.xyz/channel/hubeiweishi?streamid=dc65ae2ec72fa552f974d09f4fd9d85f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hubeiweishi?streamid=dc65ae2ec72fa552f974d09f4fd9d85f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖北卫视.png" group-title="📡地方卫视",湖北卫视
-https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hubeiweishi?streamid=e5e8827bbbb6fed082b85a0b9970586b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖北卫视.png" group-title="📡地方卫视",湖北卫视
-https://live.264788.xyz/channel/hubeiweishi?streamid=08d72c3923d4678347468aefd5ed9877&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hubeiweishi?streamid=08d72c3923d4678347468aefd5ed9877&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖北卫视.png" group-title="📡地方卫视",湖北卫视
-https://live.264788.xyz/channel/hubeiweishi?streamid=3178da013d951c658209016c1fb875ad&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hubeiweishi?streamid=3178da013d951c658209016c1fb875ad&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广西卫视.png" group-title="📡地方卫视",广西卫视
-https://live.264788.xyz/channel/guangxiweishi?streamid=01a64826e18fa8e8b8f613de462616f4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangxiweishi?streamid=01a64826e18fa8e8b8f613de462616f4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广西卫视.png" group-title="📡地方卫视",广西卫视
-https://live.264788.xyz/channel/guangxiweishi?streamid=e503785944cd312f25887521a0139cd3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangxiweishi?streamid=e503785944cd312f25887521a0139cd3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广西卫视.png" group-title="📡地方卫视",广西卫视
-https://live.264788.xyz/channel/guangxiweishi?streamid=c8e847a8745033edc0153656ddc62c47&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangxiweishi?streamid=c8e847a8745033edc0153656ddc62c47&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广西卫视.png" group-title="📡地方卫视",广西卫视
-https://live.264788.xyz/channel/guangxiweishi?streamid=b3bc55706bd074b608a3b955fbffea4b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangxiweishi?streamid=b3bc55706bd074b608a3b955fbffea4b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广西卫视.png" group-title="📡地方卫视",广西卫视
-https://live.264788.xyz/channel/guangxiweishi?streamid=b8d44e8c47f0c0688b1e68b8e2c00b91&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guangxiweishi?streamid=b8d44e8c47f0c0688b1e68b8e2c00b91&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/天津卫视.png" group-title="📡地方卫视",天津卫视
-https://live.264788.xyz/channel/tianjinweishi?streamid=6a3842d1b7e72e353854d359baa68a2b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/tianjinweishi?streamid=6a3842d1b7e72e353854d359baa68a2b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/天津卫视.png" group-title="📡地方卫视",天津卫视
-https://live.264788.xyz/channel/tianjinweishi?streamid=cb5a50faddf5052cfbc5b757dfb342e3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/tianjinweishi?streamid=cb5a50faddf5052cfbc5b757dfb342e3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/天津卫视.png" group-title="📡地方卫视",天津卫视
-https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/天津卫视.png" group-title="📡地方卫视",天津卫视
-https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/tianjinweishi?streamid=9a2e438e8938d4af21d3f6ba831dd719&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/四川卫视.png" group-title="📡地方卫视",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=a09d4d57adf394d7b608054eb3ef46a7&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sichuanweishi?streamid=a09d4d57adf394d7b608054eb3ef46a7&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/四川卫视.png" group-title="📡地方卫视",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=10161ac994f0eca9582a9be8c9262d66&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sichuanweishi?streamid=10161ac994f0eca9582a9be8c9262d66&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/四川卫视.png" group-title="📡地方卫视",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sichuanweishi?streamid=db19730d20622f8801f0b4e9ece132ac&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/四川卫视.png" group-title="📡地方卫视",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=4e78b35cb55092e088d2e3abd2992b00&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sichuanweishi?streamid=4e78b35cb55092e088d2e3abd2992b00&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/四川卫视.png" group-title="📡地方卫视",四川卫视
-https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sichuanweishi?streamid=ee4e9252618099b2505fd3875394a5ba&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/四川卫视.png" group-title="📡地方卫视",四川卫视
-https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/陕西卫视.png" group-title="📡地方卫视",陕西卫视
-https://live.264788.xyz/channel/shaanxiweishi?streamid=a8ffa3821abea07861feff8d2ac3103c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shaanxiweishi?streamid=a8ffa3821abea07861feff8d2ac3103c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/陕西卫视.png" group-title="📡地方卫视",陕西卫视
-https://live.264788.xyz/channel/shaanxiweishi?streamid=3cc182827b13754c911941b44ab5cd75&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shaanxiweishi?streamid=3cc182827b13754c911941b44ab5cd75&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/陕西卫视.png" group-title="📡地方卫视",陕西卫视
-https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/陕西卫视.png" group-title="📡地方卫视",陕西卫视
-https://live.264788.xyz/channel/shaanxiweishi?streamid=5f9339264c2e80b84332f176b74b1da5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shaanxiweishi?streamid=5f9339264c2e80b84332f176b74b1da5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东南卫视.png" group-title="📡地方卫视",东南卫视
-https://live.264788.xyz/channel/dongnanweishi?streamid=0376b376d47ca21494ac8bd114e151f7&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongnanweishi?streamid=0376b376d47ca21494ac8bd114e151f7&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东南卫视.png" group-title="📡地方卫视",东南卫视
-https://live.264788.xyz/channel/dongnanweishi?streamid=c9e1a42b1e5b0f9d4284b1d730f7b097&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongnanweishi?streamid=c9e1a42b1e5b0f9d4284b1d730f7b097&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东南卫视.png" group-title="📡地方卫视",东南卫视
-https://live.264788.xyz/channel/dongnanweishi?streamid=7ac1647173cac04556dbb3d5dd784331&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongnanweishi?streamid=7ac1647173cac04556dbb3d5dd784331&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东南卫视.png" group-title="📡地方卫视",东南卫视
-https://live.264788.xyz/channel/dongnanweishi?streamid=413b61f1d39c255162de35c161674037&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongnanweishi?streamid=413b61f1d39c255162de35c161674037&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东南卫视.png" group-title="📡地方卫视",东南卫视
-https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海南卫视.png" group-title="📡地方卫视",海南卫视
-https://live.264788.xyz/channel/hainanweishi?streamid=466150dc2d54cc07913c7ebb71027107&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hainanweishi?streamid=466150dc2d54cc07913c7ebb71027107&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海南卫视.png" group-title="📡地方卫视",海南卫视
-https://live.264788.xyz/channel/hainanweishi?streamid=2f8bc5472398512cf7239c4369e61fb6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hainanweishi?streamid=2f8bc5472398512cf7239c4369e61fb6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海南卫视.png" group-title="📡地方卫视",海南卫视
-https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hainanweishi?streamid=22a384055e4a94909e17012c852ac26d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海南卫视.png" group-title="📡地方卫视",海南卫视
-https://live.264788.xyz/channel/hainanweishi?streamid=d80f78b33df0a139d4d22b44e645b9e8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hainanweishi?streamid=d80f78b33df0a139d4d22b44e645b9e8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海南卫视.png" group-title="📡地方卫视",海南卫视
-https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hainanweishi?streamid=ca8d591103c2814acc3d0a2fb10bdbd6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河南卫视.png" group-title="📡地方卫视",河南卫视
-https://live.264788.xyz/channel/henanweishi?streamid=3e00a84591b505d2124774a678a8ecc1&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/henanweishi?streamid=3e00a84591b505d2124774a678a8ecc1&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河南卫视.png" group-title="📡地方卫视",河南卫视
-https://live.264788.xyz/channel/henanweishi?streamid=872643ab4f3da8bcc3169ec1706e8cd3&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/henanweishi?streamid=872643ab4f3da8bcc3169ec1706e8cd3&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河南卫视.png" group-title="📡地方卫视",河南卫视
-https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/henanweishi?streamid=b08cc070cd8613ccaf17654f60883da8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河南卫视.png" group-title="📡地方卫视",河南卫视
-https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/henanweishi?streamid=dcdac731c38e259d3931e4f3127849c4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河南卫视.png" group-title="📡地方卫视",河南卫视
-https://live.264788.xyz/channel/henanweishi?streamid=ffc9cbdd1791aa15a6321452d620baff&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/henanweishi?streamid=ffc9cbdd1791aa15a6321452d620baff&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河北卫视.png" group-title="📡地方卫视",河北卫视
-https://live.264788.xyz/channel/hebeiweishi?streamid=a7670a1f326c926a8d69c3ce76c5660d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hebeiweishi?streamid=a7670a1f326c926a8d69c3ce76c5660d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河北卫视.png" group-title="📡地方卫视",河北卫视
-https://live.264788.xyz/channel/hebeiweishi?streamid=02ff44bc76852cabad044f608d58e05e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hebeiweishi?streamid=02ff44bc76852cabad044f608d58e05e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河北卫视.png" group-title="📡地方卫视",河北卫视
-https://live.264788.xyz/channel/hebeiweishi?streamid=c623903495968308e1bd87ec273e46d2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hebeiweishi?streamid=c623903495968308e1bd87ec273e46d2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河北卫视.png" group-title="📡地方卫视",河北卫视
-https://live.264788.xyz/channel/hebeiweishi?streamid=e664e97bdd2913ff29e71a8924b02712&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hebeiweishi?streamid=e664e97bdd2913ff29e71a8924b02712&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河北卫视.png" group-title="📡地方卫视",河北卫视
-https://live.264788.xyz/channel/hebeiweishi?streamid=dc05a5197d73d3781c8d021d081f03ac&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hebeiweishi?streamid=dc05a5197d73d3781c8d021d081f03ac&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/贵州卫视.png" group-title="📡地方卫视",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=c0410cbd67929ace49eb3c898cdb8d47&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guizhouweishi?streamid=c0410cbd67929ace49eb3c898cdb8d47&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/贵州卫视.png" group-title="📡地方卫视",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=fee4777e9549777b758d1bd004921763&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guizhouweishi?streamid=fee4777e9549777b758d1bd004921763&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/贵州卫视.png" group-title="📡地方卫视",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/贵州卫视.png" group-title="📡地方卫视",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/贵州卫视.png" group-title="📡地方卫视",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=7a7c8f5c962cd93365273e438a14c334&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/guizhouweishi?streamid=7a7c8f5c962cd93365273e438a14c334&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/甘肃卫视.png" group-title="📡地方卫视",甘肃卫视
-https://live.264788.xyz/channel/gansuweishi?streamid=e0fe55de90a3fb720812a4f9d650ff36&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/gansuweishi?streamid=e0fe55de90a3fb720812a4f9d650ff36&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/甘肃卫视.png" group-title="📡地方卫视",甘肃卫视
-https://live.264788.xyz/channel/gansuweishi?streamid=f36ee8b6e6dff41ab2a96df77bdf1692&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/gansuweishi?streamid=f36ee8b6e6dff41ab2a96df77bdf1692&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/甘肃卫视.png" group-title="📡地方卫视",甘肃卫视
-https://live.264788.xyz/channel/gansuweishi?streamid=466083ee6981dccb38d23b5556b27f6e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/gansuweishi?streamid=466083ee6981dccb38d23b5556b27f6e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/甘肃卫视.png" group-title="📡地方卫视",甘肃卫视
-https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/gansuweishi?streamid=ea89500213860e097dbc0aee4897a35e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/甘肃卫视.png" group-title="📡地方卫视",甘肃卫视
-https://live.264788.xyz/channel/gansuweishi?streamid=7e5725bd0fd11e1838df3be9dcf1ecc9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/gansuweishi?streamid=7e5725bd0fd11e1838df3be9dcf1ecc9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山西卫视.png" group-title="📡地方卫视",山西卫视
-https://live.264788.xyz/channel/shanxiweishi?streamid=d96b2ff9b84b9900b6d612d5588a87da&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanxiweishi?streamid=d96b2ff9b84b9900b6d612d5588a87da&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山西卫视.png" group-title="📡地方卫视",山西卫视
-https://live.264788.xyz/channel/shanxiweishi?streamid=7dbaa3501da5faa8910b907d795e6400&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanxiweishi?streamid=7dbaa3501da5faa8910b907d795e6400&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山西卫视.png" group-title="📡地方卫视",山西卫视
-https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/山西卫视.png" group-title="📡地方卫视",山西卫视
-https://live.264788.xyz/channel/shanxiweishi?streamid=d8fdbae386f631fab5659391da113957&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanxiweishi?streamid=d8fdbae386f631fab5659391da113957&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/宁夏卫视.png" group-title="📡地方卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=9669bad80511f5060302fe958118c432&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/ningxiaweishi?streamid=9669bad80511f5060302fe958118c432&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/宁夏卫视.png" group-title="📡地方卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=3571c9fdad9e37f4fd0c7b252d62a334&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/ningxiaweishi?streamid=3571c9fdad9e37f4fd0c7b252d62a334&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/宁夏卫视.png" group-title="📡地方卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/宁夏卫视.png" group-title="📡地方卫视",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/内蒙古卫视.png" group-title="📡地方卫视",内蒙古卫视
-https://live.264788.xyz/channel/neimengguweishi?streamid=15a6c44fe386a8d3c2367ace66cad56f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/neimengguweishi?streamid=15a6c44fe386a8d3c2367ace66cad56f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/内蒙古卫视.png" group-title="📡地方卫视",内蒙古卫视
-https://live.264788.xyz/channel/neimengguweishi?streamid=417fd34899adfc80ada86b2f6485218a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/neimengguweishi?streamid=417fd34899adfc80ada86b2f6485218a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/内蒙古卫视.png" group-title="📡地方卫视",内蒙古卫视
-https://live.264788.xyz/channel/neimengguweishi?streamid=50d587b08d9d6f642ec88593ebd51361&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/neimengguweishi?streamid=50d587b08d9d6f642ec88593ebd51361&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/内蒙古卫视.png" group-title="📡地方卫视",内蒙古卫视
-https://live.264788.xyz/channel/neimengguweishi?streamid=85b9865e25848d8a9860542c89e5c810&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/neimengguweishi?streamid=85b9865e25848d8a9860542c89e5c810&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/云南卫视.png" group-title="📡地方卫视",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=ee73af6160b36cb1f427195897954b22&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yunnanweishi?streamid=ee73af6160b36cb1f427195897954b22&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/云南卫视.png" group-title="📡地方卫视",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=02a3e6161939115976b9467af0f3695e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yunnanweishi?streamid=02a3e6161939115976b9467af0f3695e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/云南卫视.png" group-title="📡地方卫视",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=22491d4d9e9620540ee58218ee249b35&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yunnanweishi?streamid=22491d4d9e9620540ee58218ee249b35&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/云南卫视.png" group-title="📡地方卫视",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=76ef482fc0c398954c105fa4a73b21f2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yunnanweishi?streamid=76ef482fc0c398954c105fa4a73b21f2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/云南卫视.png" group-title="📡地方卫视",云南卫视
-https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/青海卫视.png" group-title="📡地方卫视",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=853738d3aeebcb62c99c01d60435d689&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/qinghaiweishi?streamid=853738d3aeebcb62c99c01d60435d689&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/青海卫视.png" group-title="📡地方卫视",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=6252c8bc1bf0b662700c86d5ee0ef3a6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/qinghaiweishi?streamid=6252c8bc1bf0b662700c86d5ee0ef3a6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/青海卫视.png" group-title="📡地方卫视",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=dcc88f36445dfbc894756be122a0bb9b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/qinghaiweishi?streamid=dcc88f36445dfbc894756be122a0bb9b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/青海卫视.png" group-title="📡地方卫视",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/qinghaiweishi?streamid=dc714dc6b6f61be169ea786a2dd7572d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/青海卫视.png" group-title="📡地方卫视",青海卫视
-https://live.264788.xyz/channel/qinghaiweishi?streamid=2e47f290dfc5832de1553e7b3710d702&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/qinghaiweishi?streamid=2e47f290dfc5832de1553e7b3710d702&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/黑龙江卫视.png" group-title="📡地方卫视",黑龙江卫视
-https://live.264788.xyz/channel/heilongjiangweishi?streamid=10ca24cc630d1be0b25a27ff3dc6aa2a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/heilongjiangweishi?streamid=10ca24cc630d1be0b25a27ff3dc6aa2a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/黑龙江卫视.png" group-title="📡地方卫视",黑龙江卫视
-https://live.264788.xyz/channel/heilongjiangweishi?streamid=906ce0be2bf4817814c27696304d5122&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/heilongjiangweishi?streamid=906ce0be2bf4817814c27696304d5122&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/黑龙江卫视.png" group-title="📡地方卫视",黑龙江卫视
-https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/黑龙江卫视.png" group-title="📡地方卫视",黑龙江卫视
-https://live.264788.xyz/channel/heilongjiangweishi?streamid=70e7900a371f6cb721786924bfba0418&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/heilongjiangweishi?streamid=70e7900a371f6cb721786924bfba0418&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/黑龙江卫视.png" group-title="📡地方卫视",黑龙江卫视
-https://live.264788.xyz/channel/heilongjiangweishi?streamid=5bc0f34437d76466e8ce387d3b8debbd&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/heilongjiangweishi?streamid=5bc0f34437d76466e8ce387d3b8debbd&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江西卫视.png" group-title="📡地方卫视",江西卫视
-https://live.264788.xyz/channel/jiangxiweishi?streamid=92529d1fa9a1916123a9d61d5c96cdee&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangxiweishi?streamid=92529d1fa9a1916123a9d61d5c96cdee&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江西卫视.png" group-title="📡地方卫视",江西卫视
-https://live.264788.xyz/channel/jiangxiweishi?streamid=0f356ebae28cc7ccca24a7383d302e69&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangxiweishi?streamid=0f356ebae28cc7ccca24a7383d302e69&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江西卫视.png" group-title="📡地方卫视",江西卫视
-https://live.264788.xyz/channel/jiangxiweishi?streamid=4a6eec625aac2ea37719b063f81d43b8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangxiweishi?streamid=4a6eec625aac2ea37719b063f81d43b8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江西卫视.png" group-title="📡地方卫视",江西卫视
-https://live.264788.xyz/channel/jiangxiweishi?streamid=fbf14331a3f027fec6c17914e6f6a8ee&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangxiweishi?streamid=fbf14331a3f027fec6c17914e6f6a8ee&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/江西卫视.png" group-title="📡地方卫视",江西卫视
-https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/吉林卫视.png" group-title="📡地方卫视",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=e506e502986e7ab7126d9f4523890a35&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jilinweishi?streamid=e506e502986e7ab7126d9f4523890a35&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/吉林卫视.png" group-title="📡地方卫视",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=5df5c3ee1a510a2eeacaf3e3ab3d426a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jilinweishi?streamid=5df5c3ee1a510a2eeacaf3e3ab3d426a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/吉林卫视.png" group-title="📡地方卫视",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jilinweishi?streamid=a5e656c3fae17a05d1371c0e32cfbc77&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/吉林卫视.png" group-title="📡地方卫视",吉林卫视
-https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jilinweishi?streamid=3a5e52dadf63aa29839e641b0a25a563&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海峡卫视.png" group-title="📡地方卫视",海峡卫视
-https://live.264788.xyz/channel/haixiaweishi?streamid=f495ed8625aedd9e72c64fb11e6d68f2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/haixiaweishi?streamid=f495ed8625aedd9e72c64fb11e6d68f2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海峡卫视.png" group-title="📡地方卫视",海峡卫视
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/海峡卫视.png" group-title="📡地方卫视",海峡卫视
 https://cdn.qd.je/163189/hxws2
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/兵团卫视.png" group-title="📡地方卫视",兵团卫视
-https://live.264788.xyz/channel/bingtuanweishi?streamid=b9dcd906150192bdf76f447df83f8033&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/bingtuanweishi?streamid=b9dcd906150192bdf76f447df83f8033&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/兵团卫视.png" group-title="📡地方卫视",兵团卫视
-https://live.264788.xyz/channel/bingtuanweishi?streamid=e2ea229f09d39d7028c61aeb4f6bab56&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/bingtuanweishi?streamid=e2ea229f09d39d7028c61aeb4f6bab56&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/三沙卫视.png" group-title="📡地方卫视",三沙卫视
-https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/三沙卫视.png" group-title="📡地方卫视",三沙卫视
-https://live.264788.xyz/channel/sanshaweishi?streamid=2908f08b5a176330d190b7343b1bb17d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/sanshaweishi?streamid=2908f08b5a176330d190b7343b1bb17d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/西藏卫视.png" group-title="📡地方卫视",西藏卫视
-https://live.264788.xyz/channel/xizangweishi?streamid=0ab54a367e61eabee4974f1b26395970&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xizangweishi?streamid=0ab54a367e61eabee4974f1b26395970&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/西藏卫视.png" group-title="📡地方卫视",西藏卫视
-https://live.264788.xyz/channel/xizangweishi?streamid=a2e7c1fe0b3c80252ebed1a2b161e537&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xizangweishi?streamid=a2e7c1fe0b3c80252ebed1a2b161e537&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/西藏卫视.png" group-title="📡地方卫视",西藏卫视
-https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xizangweishi?streamid=b1074802469551526bb63c33e26c400c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/西藏卫视.png" group-title="📡地方卫视",西藏卫视
-https://live.264788.xyz/channel/xizangweishi?streamid=7df93c0d83ffb23588b9a8ed75bcf602&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xizangweishi?streamid=7df93c0d83ffb23588b9a8ed75bcf602&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/新疆卫视.png" group-title="📡地方卫视",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=0da84f816fe5b0959c48dd8361ef42b7&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xinjiangweishi?streamid=0da84f816fe5b0959c48dd8361ef42b7&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/新疆卫视.png" group-title="📡地方卫视",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=5f1f2e132d179f5877c1f181243e9ca5&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xinjiangweishi?streamid=5f1f2e132d179f5877c1f181243e9ca5&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/新疆卫视.png" group-title="📡地方卫视",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/新疆卫视.png" group-title="📡地方卫视",新疆卫视
-https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海教育.png" group-title="☘️上海频道",上海教育
-https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaijiaoyu?streamid=23a01b2c8e8e22aa3bb7b227a129e2c4&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海教育.png" group-title="☘️上海频道",上海教育
-https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaijiaoyu?streamid=8d167a5b0fdf668c0f442e838db5e410&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
-https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
-https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=a064629942f561cf9f5a930648802197&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海第一财经.png" group-title="☘️上海频道",上海第一财经
-https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/diyicaijing?streamid=3c6cb6f00aa32febab803c0b2304d5d0&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海第一财经.png" group-title="☘️上海频道",上海第一财经
-https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/diyicaijing?streamid=c8db609722f9ed252559f883cc079200&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海都市.png" group-title="☘️上海频道",上海都市
-https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海都市.png" group-title="☘️上海频道",上海都市
-https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海都市.png" group-title="☘️上海频道",上海都市
-https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/上海都市.png" group-title="☘️上海频道",上海都市
-https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方影视.png" group-title="☘️上海频道",东方影视
-https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangyingshi?streamid=0995015e995fbffe5924ab43ff48f40f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方影视.png" group-title="☘️上海频道",东方影视
-https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangyingshi?streamid=c016ecf40cfad98bdb2f24dae2067863&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
-https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/法治天地.png" group-title="☘️上海频道",法治天地
-https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/法治天地.png" group-title="☘️上海频道",法治天地
-https://live.264788.xyz/channel/fazhitiandi?streamid=0039922a529780d5b2709e5ccd146683&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fazhitiandi?streamid=0039922a529780d5b2709e5ccd146683&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
-https://live.264788.xyz/channel/shenghuoshishang?streamid=cb8f820b65576198b4e792f919fe8a43&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenghuoshishang?streamid=cb8f820b65576198b4e792f919fe8a43&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
-https://live.264788.xyz/channel/shenghuoshishang?streamid=b8d540e24d2545bc5082dcf7414eb836&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shenghuoshishang?streamid=b8d540e24d2545bc5082dcf7414eb836&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
-https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dushijuchang?streamid=fd36352c039198fe0978687774e97e59&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
-https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dushijuchang?streamid=aa27adea6b26826f34c83402fb0465ca&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
-https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="上海都市" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
-https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/shanghaidushi?streamid=d6aa1eedf2ffc5a88ee19737d90c28c6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 https://cdn.qd.je/163189/gdzj
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广州综合.png" group-title="☘️广东频道",广州综合
@@ -862,27 +828,27 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-id="文成综合" tvg-name="文成综合" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/文成综合.png" group-title="☘️浙江频道",文成综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆新闻.png" group-title="☘️重庆频道",重庆新闻
-https://live.264788.xyz/channel/chongqingxinwen?streamid=230f251a696a5e8be219f3d839cb1d81&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingxinwen?streamid=230f251a696a5e8be219f3d839cb1d81&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆新闻.png" group-title="☘️重庆频道",重庆新闻
-https://live.264788.xyz/channel/chongqingxinwen?streamid=f9928d653dffd2dea4869bf9fecb80c6&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingxinwen?streamid=f9928d653dffd2dea4869bf9fecb80c6&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
-https://live.264788.xyz/channel/chongqingqimo?streamid=f7eb53e75d40f49759a1f73366ec1829&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingqimo?streamid=f7eb53e75d40f49759a1f73366ec1829&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
-https://live.264788.xyz/channel/chongqingqimo?streamid=c0a69425c3e74ed57f5c3815d3e695c9&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chongqingqimo?streamid=c0a69425c3e74ed57f5c3815d3e695c9&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南金鹰纪实.png" group-title="☘️湖南频道",湖南金鹰纪实
-https://live.264788.xyz/channel/jinyingjishi?streamid=b33f7690b2ce36708f54588c53a20742&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingjishi?streamid=b33f7690b2ce36708f54588c53a20742&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/湖南金鹰纪实.png" group-title="☘️湖南频道",湖南金鹰纪实
-https://live.264788.xyz/channel/jinyingjishi?streamid=3680a1c0ad58417e29641bb984685a5b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingjishi?streamid=3680a1c0ad58417e29641bb984685a5b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
-https://live.264788.xyz/channel/xiamenweishi?streamid=59b4bebbc553075be2ddecfe210b863a&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/xiamenweishi?streamid=59b4bebbc553075be2ddecfe210b863a&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
-https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fujianxinwen?streamid=3c0a220a2e444b45de5dbc40f99aa11b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/福建电视剧.png" group-title="☘️福建频道",福建电视剧
-https://live.264788.xyz/channel/fujiandianshiju?streamid=c26b66c59ee4773061c78154e5877244&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fujiandianshiju?streamid=c26b66c59ee4773061c78154e5877244&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/福建综合.png" group-title="☘️福建频道",福建综合
-https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/福建少儿.png" group-title="☘️福建频道",福建少儿
-https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/河北4K.png" group-title="☘️河北频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="宁夏公共" tvg-name="宁夏公共" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/宁夏公共.png" group-title="☘️宁夏频道",宁夏公共
@@ -892,13 +858,13 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 #EXTINF:-1 tvg-id="宁夏少儿" tvg-name="宁夏少儿" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/宁夏少儿.png" group-title="☘️宁夏频道",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/延边卫视.png" group-title="☘️吉林频道",延边卫视
-https://live.264788.xyz/channel/yanbianweishi?streamid=2af361ac8ba5e870d104cc59390cf845&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yanbianweishi?streamid=2af361ac8ba5e870d104cc59390cf845&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CHC 家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CHC 家庭影院.png" group-title="🎬电影频道",CHC 家庭影院
-https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CHC 影迷电影" tvg-name="CHC 影迷电影" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CHC 影迷电影.png" group-title="🎬电影频道",CHC 影迷电影
-https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chcyingmidianying?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CHC 动作电影" tvg-name="CHC 动作电影" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CHC 动作电影.png" group-title="🎬电影频道",CHC 动作电影
-https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="老故事" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重温经典.png" group-title="🎬电影频道",重温经典
 https://cdn.qd.je/163189/cwjd
 #EXTINF:-1 tvg-id="老故事" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/重温经典.png" group-title="🎬电影频道",重温经典
@@ -988,11 +954,11 @@ http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98797
 #EXTINF:-1 tvg-id="Sky Cinema Sci-Fi & Horror UK" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/Sky Cinema Sci-Fi & Horror UK.png" group-title="🎬电影频道",Sky Cinema Sci-Fi & Horror UK
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98792
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
-https://live.264788.xyz/channel/cctv5p?streamid=4e39a880d9abd0864eb998a6fb42e71f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5p?streamid=4e39a880d9abd0864eb998a6fb42e71f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
-https://live.264788.xyz/channel/cctv5p?streamid=5407e80a9d7c542d571f9e9ddf0d4f01&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5p?streamid=5407e80a9d7c542d571f9e9ddf0d4f01&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
-https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-5+.png" group-title="🏀体育频道",CCTV-5+
@@ -1000,9 +966,9 @@ https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
-https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
-https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
 https://cdn.qd.je/163189/wxty
 #EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/TNT SPORTS 1.png" group-title="🏀体育频道",TNT SPORTS 1
@@ -1040,31 +1006,31 @@ http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/98770
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/NBA TV.png" group-title="🏀体育频道",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/风云足球.png" group-title="🏀体育频道",风云足球
-https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-https://live.264788.xyz/channel/kuailechuidiao?streamid=6a60d1c6862ba21566324b885fedcccb&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/kuailechuidiao?streamid=6a60d1c6862ba21566324b885fedcccb&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-https://live.264788.xyz/channel/dongmanxiuchang?streamid=a928725eedc3bcd4c7b321edbf6bdac7&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongmanxiuchang?streamid=a928725eedc3bcd4c7b321edbf6bdac7&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-https://live.264788.xyz/channel/dongmanxiuchang?streamid=03e61bd70c969d8c285a59c0b6dbab87&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/dongmanxiuchang?streamid=03e61bd70c969d8c285a59c0b6dbab87&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/哈哈炫动.png" group-title="🪁动画频道",哈哈炫动
-https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/哈哈炫动.png" group-title="🪁动画频道",哈哈炫动
-https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=7d1135984685e39918a0561a8f2af510&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingkatong?streamid=7d1135984685e39918a0561a8f2af510&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=e0b9be9215ed9e39f0dfbafa3ee01fe7&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingkatong?streamid=e0b9be9215ed9e39f0dfbafa3ee01fe7&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/炫动卡通.png" group-title="🪁动画频道",炫动卡通
-https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/炫动卡通.png" group-title="🪁动画频道",炫动卡通
-https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/靖天卡通台.png" group-title="🪁动画频道",靖天卡通台
 http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/龙华卡通台.png" group-title="🪁动画频道",龙华卡通台
@@ -1078,11 +1044,11 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/DreamWorks.png" group-title="🪁动画频道",DreamWorks
 http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-https://live.264788.xyz/channel/youxifengyun?streamid=6e817b754189d2c8f7b32e7bff61ac7b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/youxifengyun?streamid=6e817b754189d2c8f7b32e7bff61ac7b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-https://live.264788.xyz/channel/youxifengyun?streamid=9d151740f57f6bd412bb6f101204b7bd&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/youxifengyun?streamid=9d151740f57f6bd412bb6f101204b7bd&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
-https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/BBC Earth.png" group-title="📺纪录",BBC Earth
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/91f66dd6-f06c-4386-8452-5befcbd4c77f/0.m3u8
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/Love Nature HD.png" group-title="📺纪录",Love Nature HD
@@ -1096,20 +1062,20 @@ https://cdn.qd.je/163189/ch8
 #EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/Channel U HD.png" group-title="📺新加坡",Channel U HD
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/央视台球.png" group-title="💰央视付费频道",央视台球
-https://live.264788.xyz/channel/yangshitaiqiu?streamid=04540cf3fa4df50b6e2fd9166c021d4b&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yangshitaiqiu?streamid=04540cf3fa4df50b6e2fd9166c021d4b&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/文化精品.png" group-title="💰央视付费频道",文化精品
-https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/第一剧场.png" group-title="💰央视付费频道",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
-https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/兵器科技.png" group-title="💰央视付费频道",兵器科技
-https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/女性时尚.png" group-title="💰央视付费频道",女性时尚
-https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
+https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
-https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD6zFzsxA7eVAPPzdGMIoCh
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/BBC One.png" group-title="🕘️更新时间",2026-09-02 09:12:44
+https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD6zrVKJJ0k12bz6gDJUqZn
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/BBC One.png" group-title="🕘️更新时间",2026-09-03 09:21:45
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265

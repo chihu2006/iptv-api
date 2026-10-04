@@ -1,107 +1,3 @@
-中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-澳门莲花,http://cdn6.123.rr.kg/163189/amlh
-澳门综艺,http://cdn6.123.rr.kg/163189/amzy
-澳视卫星,http://cdn6.123.rr.kg/163189/as
-澳视澳门,http://cdn6.123.rr.kg/163189/asam
-澳门体育,http://cdn6.123.rr.kg/163189/amty
-天映频道,https://cdn3.indevs.in/stream/live/typd/
-公視,http://211.72.174.95:8116/0.ts
-台視,http://211.72.174.95:8112/0.ts
-星影台,http://173.208.234.146/live/nowxy.m3u8
-Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
-BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
-ABC News,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-NHK World,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
-Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-One American News,https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
-CGTN Global Biz,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
-CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN Russian,https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CGTN Francais,https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN Espanol,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CGTN Arabic,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-Mytime Movie,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-The First,https://thefirst-oando.amagi.tv/playlist.m3u8
-Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-ION Plus,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-History Hit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-Universal Movies,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
-Universal Action,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
-Universal Western,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
-Universal Crime,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
-CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
-CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
-Sony One Action HITS,https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-Sony One Comedy HITS,https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-Top Movies,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-Action Movies,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-Comedy Movies,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_uk&ads.rtv_content_id=6482&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6482&disable_subtitles=true&publishing_platform_id=2
-Sci-Fi,https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6241&disable_subtitles=true&publishing_platform_id=2
-Romance Movies,https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6194&disable_subtitles=true&publishing_platform_id=2
-Drama Movies,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-Thriller TV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-Comedy TV,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
-Sony One FAVES,https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-Sony One Dragons' Den,https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
-LG 1 Film,https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-LG 1 Spotlight,https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-LG 1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
-SBS Drama,https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-New Kmovies,https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-Universal Monsters,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
-Showtime Extreme,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
-Action Movies,https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/8e7f1d8c-5ba7-4dde-9834-b058e17f6bfe/4.m3u8
-Comedy Movies,https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8
-Drama Movies,https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
-Romance Movies,https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
-Sci-Fi,https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
-Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
-Top Movies,https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
-Reality,https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
-Family,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
-beIN SPORTS XTRA,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
-UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
-看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
-经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
-少儿频道,http://play1-qk.nmtv.cn/live/2327general.m3u8
-文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
-农牧频道,http://play1-qk.nmtv.cn/live/2329general.m3u8
-文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
@@ -208,6 +104,110 @@ You Man Cartoon Channel (576p),http://183.207.249.15/PLTV/4/224/3221225933/index
 Yunnan Satellite TV (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 Zhejiang International Channel,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 Zhejiang Satellite TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+澳门莲花,http://cdn6.123.rr.kg/163189/amlh
+澳门综艺,http://cdn6.123.rr.kg/163189/amzy
+澳视卫星,http://cdn6.123.rr.kg/163189/as
+澳视澳门,http://cdn6.123.rr.kg/163189/asam
+澳门体育,http://cdn6.123.rr.kg/163189/amty
+天映频道,https://cdn3.indevs.in/stream/live/typd/
+公視,http://211.72.174.95:8116/0.ts
+台視,http://211.72.174.95:8112/0.ts
+星影台,http://173.208.234.146/live/nowxy.m3u8
+Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+ABC News,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+NHK World,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+One American News,https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
+CGTN Global Biz,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
+CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN Russian,https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN Francais,https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN Espanol,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN Arabic,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+Mytime Movie,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+The First,https://thefirst-oando.amagi.tv/playlist.m3u8
+Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+ION Plus,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+History Hit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+Universal Movies,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
+Universal Action,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
+Universal Western,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
+Universal Crime,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
+CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
+Sony One Action HITS,https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+Sony One Comedy HITS,https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+Top Movies,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+Action Movies,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+Comedy Movies,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_uk&ads.rtv_content_id=6482&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6482&disable_subtitles=true&publishing_platform_id=2
+Sci-Fi,https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6241&disable_subtitles=true&publishing_platform_id=2
+Romance Movies,https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6194&disable_subtitles=true&publishing_platform_id=2
+Drama Movies,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+Thriller TV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+Comedy TV,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+Sony One FAVES,https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+Sony One Dragons' Den,https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+LG 1 Film,https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+LG 1 Spotlight,https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+LG 1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+SBS Drama,https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+New Kmovies,https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+Universal Monsters,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
+Showtime Extreme,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
+Action Movies,https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/8e7f1d8c-5ba7-4dde-9834-b058e17f6bfe/4.m3u8
+Comedy Movies,https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8
+Drama Movies,https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
+Romance Movies,https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
+Sci-Fi,https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
+Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
+Top Movies,https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
+Reality,https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
+Family,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
+beIN SPORTS XTRA,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
+UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
+经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
+少儿频道,http://play1-qk.nmtv.cn/live/2327general.m3u8
+文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
+农牧频道,http://play1-qk.nmtv.cn/live/2329general.m3u8
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 5 Cops,https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 Aaj Tak (1080p),http://103.213.31.109:90/AajtakHD/playlist.m3u8
 Aathavan TV (720p) [Not 24/7],http://45.77.66.224:1935/athavantv/live/playlist.m3u8
@@ -216,7 +216,7 @@ Afrobeat TV Entertainment (1080p),https://stream.ecable.tv/afrobeats/index.m3u8
 Ahlulbayt TV (1080p),https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 Akaal Channel (396p) [Geo-blocked],https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 Al Hiwar TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-Alb UK TV (1080p),http://5.254.89.106/8794/index.m3u8
+Alb UK TV (1080p) [Not 24/7],http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 Anand TV (United Kingdom) (720p) [Not 24/7],https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 Andromeda UK,https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 Anthony Bourdain: Parts Unknown,https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
@@ -492,6 +492,73 @@ World Poker Tour UK (1080p),https://amg00477-samsungelectron-worldpokertour-sams
 XITE Hits UK (1080p),https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 YAAAS! (720p) [Geo-blocked],https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 Zee One (1080p),https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b456d68d427ac7b889da9fc32b1617f6&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=f3f94224c3d833b74ed5beea5da7da42&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CGTN法语,https://live.264788.xyz/channel/cgtnfrench?streamid=e9541a3ca2de1af6d9024349b1a9dd3b&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=55cbf6b6a507ce189e607f692a18735a&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=17b2808249af7df0501d2bb3431916e7&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=fef40e80f1c448ad9436af5c51205214&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=dedc96e3bc3a461b92ccfc071786345a&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=54effc2c015b2dc5a4c21e27f9482b50&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=e3c639a9c0417b3859ab24d19854970d&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=4239456b4b5d57335532f62b5fb7ec15&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=4b8f2d572c24da8d87428762830c39dc&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=37d60172a2bbb0d41f072d29213e6264&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=b6b18c83a0faf28406aa00620a3a5cc4&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+山东教育卫视,https://live.264788.xyz/channel/shandongjiaoyuweishi?streamid=21925161cde0873a84f10a613a962ff7&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+山东教育卫视,https://live.264788.xyz/channel/shandongjiaoyuweishi?streamid=618560e010440c89dd1b33936f029ea9&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=317958a51125e057212b0551b8b680a7&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=7a203186c68e8b1acc207f5fd5918f5d&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=e3c5e2aec1f1cf295a1323602a0ed8dd&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=f069028f0dff385fda42852ff102b4b9&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=f6a5b1246d072d1508d49793c5c1d513&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=8d701af5facdd4fbc60a23a340aec724&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=31e624f674607f4735a58b4c46996a48&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=aa4b073c8ac1af1c0eccf0eba8c10b48&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=48691acaca580ae2f75be80db77a49f2&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=26fa17719dc6e304df73d5e58ff24007&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=696c5eed4101251bd65bc46370faa82f&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=451d321c7d5df14c154d41bfc36818ba&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+早期教育,https://live.264788.xyz/channel/cetvcece?streamid=2c224135515a11c735f7351c17434a62&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+中国天气,https://live.264788.xyz/channel/zhongguotianqi?streamid=3c26e5448ae7d17e8ca0e64999d90b3d&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+家庭理财,https://live.264788.xyz/channel/jiatinglicai?streamid=d75327b38d0feaa9d36963bae802195d&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+乐游,https://live.264788.xyz/channel/leyou?streamid=f76a46c986423a63fe578de127ff4e1e&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+乐游,https://live.264788.xyz/channel/leyou?streamid=ae6266003901f07c1ab6d3a717078d4e&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=8fe38ffb53d3c3577b984f950e723bb1&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=cb091d25c0de55e14e3e620f52da7c6d&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+财富天下,https://live.264788.xyz/channel/caifutianxia?streamid=b451c7c6fde3d1b517f4d1e42e3c6f31&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+求索纪录,https://live.264788.xyz/channel/qiusuojilu?streamid=a6fec1bfa9b41f97b3bc596b45502753&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+求索纪录,https://live.264788.xyz/channel/qiusuojilu?streamid=435b561458eb966e7030663caadc341a&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+精彩影视,https://live.264788.xyz/channel/jingcaiyingshi?streamid=a7fca74988430e911f3c66b932554c21&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+精彩影视,https://live.264788.xyz/channel/jingcaiyingshi?streamid=cceca84d8c33f9953237f7429210eddd&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+茶,https://live.264788.xyz/channel/cha?streamid=66f1829851f8c2069b262b1ce7836d7e&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+好享购物,https://live.264788.xyz/channel/haoxianggouwu?streamid=9a3d98e729381542c62b5434bf09f4d6&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆影视剧,https://live.264788.xyz/channel/chongqingyingshiju?streamid=f6f38ac7e998d97d25ef0d25dffc2e90&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆影视剧,https://live.264788.xyz/channel/chongqingyingshiju?streamid=5b1c78545b46c23596bf2a0c90653175&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆红叶,https://live.264788.xyz/channel/chongqinghongye?streamid=3caf01aeb39c7c54e7d9a2357f459c32&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆红叶,https://live.264788.xyz/channel/chongqinghongye?streamid=7094764d1c6a4618d27b1d7813ab3a97&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆社会与法,https://live.264788.xyz/channel/chongqingshehuiyufa?streamid=812f39ec7f3d74bdf7794767383df72c&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆社会与法,https://live.264788.xyz/channel/chongqingshehuiyufa?streamid=3ec5dd216ec512439a7703ea87b30f9c&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆文体娱乐,https://live.264788.xyz/channel/chongqingwentiyule?streamid=fac95f38bbb57c91231d0302ad56450c&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆文体娱乐,https://live.264788.xyz/channel/chongqingwentiyule?streamid=871d688248676c4e0d2c5cde74226545&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆红岩文化,https://live.264788.xyz/channel/chongqinghongyanwenhua?streamid=8f4bb9dc48dd65f9704b1c075d6e555f&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆红岩文化,https://live.264788.xyz/channel/chongqinghongyanwenhua?streamid=5c51a0c1349d17c8fcf3f2c5f803bad7&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆新农村,https://live.264788.xyz/channel/chongqingxinnongcun?streamid=1cb135493282fd23da2d960087353cc3&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆新农村,https://live.264788.xyz/channel/chongqingxinnongcun?streamid=2a83259d2df1accc62399a409c2d9b6b&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆少儿,https://live.264788.xyz/channel/chongqingshaoer?streamid=66ba6b4b9cba83883f63cb6a80121b88&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+重庆少儿,https://live.264788.xyz/channel/chongqingshaoer?streamid=34fbb4b428e0d7bb870b4628c21fb222&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+福建文旅·体育,https://live.264788.xyz/channel/fujianwenlvtiyu?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
+福建教育,https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b53d9582&livekey=01WgLWBpXQwqJ8lD7IZzvxjdEp7wHWtiBfxGj
 00s Replay,https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 3ABN English,https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 3ABN French,https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
@@ -596,7 +663,6 @@ Al Horreya TV (1080p),http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3
 Al-Fady TV (1080p) [Not 24/7],https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 Al-Mahdi TV (1080p),https://iptv.almahditv.com/almahditv/playlist.m3u8
 Alabama Weather Network (720p),https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
-Albanian TV America (1080p),http://5.254.89.106/8711/index.m3u8
 Alhurra Iraq (720p),https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 Aliento Vision (720p) [Not 24/7],https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 Alkarma TV Australia (1080p),https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
@@ -847,7 +913,7 @@ CMC-USA Country Music Channel (720p),https://hwlive.streamingmediahosting.com/14
 CMT (720p),http://23.237.104.106:8080/USA_CMT/index.m3u8
 CMT Equal Play (720p),https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 CMTV (720p),https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-CNBC (720p),http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+CNBC (720p) [Geo-blocked],http://41.205.93.154/CNBC/index.m3u8
 Cold Case Files (1080p),https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 Collier TV (720p),https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 Comedy Central Animation,https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
@@ -1011,7 +1077,7 @@ Fox (United States) WTTG (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00
 Fox (United States) WTVT (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 Fox (United States) WTXF-TV (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 Fox (United States) WXXV-TV (720p),https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
-Fox Business Network (720p),http://5.254.89.106/6187/index.m3u8
+Fox Business Network (576p),https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 Fox Deportes (720p),http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 Fox News Radio (720p),https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 Fox Soul (1080p),https://foxsoul-vizio.amagi.tv/playlist.m3u8
@@ -1183,7 +1249,6 @@ La Que Buena Atlanta,https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m
 La Voz de Jesus HD (720p),https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 Lacrosse TV (720p),https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 Laff (576p),http://tvsen7.aynascope.net/laff/index.m3u8
-Laff WJLP (576p),http://4.30.180.36:8420/laff/index.m3u8?token=test
 Lake Havasu City 4,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 LakeFront TV (720p),https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
 Lakewood Channel 8 (720p),https://live8fd.lakewood.org/live-2/live/live.m3u8
@@ -1447,7 +1512,6 @@ PBS KUON-TV (1080p) [Geo-blocked],https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1
 PBS KVIE (1080p),https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 PBS WEDQ (1080p),https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 PBS WJXT (720p),https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-PBS WNET (720p),http://4.30.180.36:8420/wnethd/index.m3u8?token=test
 PBS WNJT (1080p) [Not 24/7],https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 PBS Antiques Roadshow (1080p),https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 PBS Kids (720p),https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
@@ -1828,7 +1892,7 @@ UniMas KFTR-DT [Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.co
 UniMas KUVN-DT,https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 UniMas Mountain (1080p),http://168.228.44.241:9997/play/a09e/index.m3u8
 UniMas WAMI-DT (1080p),http://190.197.41.183/Unimas/index.m3u8
-UniMas WFUT-DT (1080p),http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
+UniMas WFUT-DT (720p) [Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 UniMas WXTV-DT,https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 Universal Cinema (1080p),http://45.167.1.138:8000/play/a06m
 Universal Comedy (1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
@@ -1841,6 +1905,7 @@ Univision WGBO-DT (2160p),https://unidfp-nlds154.global.ssl.fastly.net/nlds/univ
 Univision WLTV-DT (720p),http://168.228.44.241:9997/play/a09d/index.m3u8
 Univision Tlnovelas (1080p),http://45.6.4.35/TELENOVELAS/index.m3u8
 Unsolved Mysteries (720p),https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+USA Network (720p),http://190.197.41.183/USA_NETWORK/index.m3u8
 USA TODAY (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 Vallenato Internacional (720p) [Not 24/7],https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 VBS TV (480p) [Not 24/7],https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
@@ -1940,73 +2005,6 @@ Yuma Channel 73 (1080p),https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d
 Zarin TV (1080p),https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 Zoom News (720p),https://live.zoomnews.info/live/Zoom_playlist.m3u8
 ZTV (1080p),http://45.70.201.81:8000/play/a00u/index.m3u8
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=b456d68d427ac7b889da9fc32b1617f6&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=f3f94224c3d833b74ed5beea5da7da42&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=36226196c651187b6e80ba8ecb4b2552&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CGTN新闻,https://live.264788.xyz/channel/cgtn?streamid=8be8d91572831eb6faabd0addc70f444&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CGTN法语,https://live.264788.xyz/channel/cgtnfrench?streamid=e9541a3ca2de1af6d9024349b1a9dd3b&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=55cbf6b6a507ce189e607f692a18735a&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=17b2808249af7df0501d2bb3431916e7&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=fef40e80f1c448ad9436af5c51205214&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-1综合教育,https://live.264788.xyz/channel/cetv1?streamid=dedc96e3bc3a461b92ccfc071786345a&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=54effc2c015b2dc5a4c21e27f9482b50&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-2教育教学,https://live.264788.xyz/channel/cetv2?streamid=e3c639a9c0417b3859ab24d19854970d&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=4239456b4b5d57335532f62b5fb7ec15&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=4b8f2d572c24da8d87428762830c39dc&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=37d60172a2bbb0d41f072d29213e6264&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=b6b18c83a0faf28406aa00620a3a5cc4&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-山东教育卫视,https://live.264788.xyz/channel/shandongjiaoyuweishi?streamid=21925161cde0873a84f10a613a962ff7&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-山东教育卫视,https://live.264788.xyz/channel/shandongjiaoyuweishi?streamid=618560e010440c89dd1b33936f029ea9&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=317958a51125e057212b0551b8b680a7&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=7a203186c68e8b1acc207f5fd5918f5d&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=e3c5e2aec1f1cf295a1323602a0ed8dd&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=f069028f0dff385fda42852ff102b4b9&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=f6a5b1246d072d1508d49793c5c1d513&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=8d701af5facdd4fbc60a23a340aec724&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=31e624f674607f4735a58b4c46996a48&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=aa4b073c8ac1af1c0eccf0eba8c10b48&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-央广购物,https://live.264788.xyz/channel/yangguanggouwu?streamid=48691acaca580ae2f75be80db77a49f2&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=26fa17719dc6e304df73d5e58ff24007&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=696c5eed4101251bd65bc46370faa82f&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-高尔夫·网球,https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=451d321c7d5df14c154d41bfc36818ba&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-早期教育,https://live.264788.xyz/channel/cetvcece?streamid=2c224135515a11c735f7351c17434a62&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-中国天气,https://live.264788.xyz/channel/zhongguotianqi?streamid=3c26e5448ae7d17e8ca0e64999d90b3d&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-家庭理财,https://live.264788.xyz/channel/jiatinglicai?streamid=d75327b38d0feaa9d36963bae802195d&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-乐游,https://live.264788.xyz/channel/leyou?streamid=f76a46c986423a63fe578de127ff4e1e&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-乐游,https://live.264788.xyz/channel/leyou?streamid=ae6266003901f07c1ab6d3a717078d4e&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=8fe38ffb53d3c3577b984f950e723bb1&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-金色学堂,https://live.264788.xyz/channel/jinsexuetang?streamid=cb091d25c0de55e14e3e620f52da7c6d&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-财富天下,https://live.264788.xyz/channel/caifutianxia?streamid=b451c7c6fde3d1b517f4d1e42e3c6f31&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-求索纪录,https://live.264788.xyz/channel/qiusuojilu?streamid=a6fec1bfa9b41f97b3bc596b45502753&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-求索纪录,https://live.264788.xyz/channel/qiusuojilu?streamid=435b561458eb966e7030663caadc341a&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-精彩影视,https://live.264788.xyz/channel/jingcaiyingshi?streamid=a7fca74988430e911f3c66b932554c21&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-精彩影视,https://live.264788.xyz/channel/jingcaiyingshi?streamid=cceca84d8c33f9953237f7429210eddd&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-茶,https://live.264788.xyz/channel/cha?streamid=66f1829851f8c2069b262b1ce7836d7e&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-好享购物,https://live.264788.xyz/channel/haoxianggouwu?streamid=9a3d98e729381542c62b5434bf09f4d6&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆影视剧,https://live.264788.xyz/channel/chongqingyingshiju?streamid=f6f38ac7e998d97d25ef0d25dffc2e90&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆影视剧,https://live.264788.xyz/channel/chongqingyingshiju?streamid=5b1c78545b46c23596bf2a0c90653175&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆红叶,https://live.264788.xyz/channel/chongqinghongye?streamid=3caf01aeb39c7c54e7d9a2357f459c32&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆红叶,https://live.264788.xyz/channel/chongqinghongye?streamid=7094764d1c6a4618d27b1d7813ab3a97&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆社会与法,https://live.264788.xyz/channel/chongqingshehuiyufa?streamid=812f39ec7f3d74bdf7794767383df72c&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆社会与法,https://live.264788.xyz/channel/chongqingshehuiyufa?streamid=3ec5dd216ec512439a7703ea87b30f9c&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆文体娱乐,https://live.264788.xyz/channel/chongqingwentiyule?streamid=fac95f38bbb57c91231d0302ad56450c&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆文体娱乐,https://live.264788.xyz/channel/chongqingwentiyule?streamid=871d688248676c4e0d2c5cde74226545&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆红岩文化,https://live.264788.xyz/channel/chongqinghongyanwenhua?streamid=8f4bb9dc48dd65f9704b1c075d6e555f&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆红岩文化,https://live.264788.xyz/channel/chongqinghongyanwenhua?streamid=5c51a0c1349d17c8fcf3f2c5f803bad7&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆新农村,https://live.264788.xyz/channel/chongqingxinnongcun?streamid=1cb135493282fd23da2d960087353cc3&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆新农村,https://live.264788.xyz/channel/chongqingxinnongcun?streamid=2a83259d2df1accc62399a409c2d9b6b&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆少儿,https://live.264788.xyz/channel/chongqingshaoer?streamid=66ba6b4b9cba83883f63cb6a80121b88&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-重庆少儿,https://live.264788.xyz/channel/chongqingshaoer?streamid=34fbb4b428e0d7bb870b4628c21fb222&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=dcba68715ee4b61f9d03d23fe8cda368&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-东方购物,https://live.264788.xyz/channel/dongfanggouwu?streamid=ae298b071395e7c4b8f5105ba9b22ef6&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-福建文旅·体育,https://live.264788.xyz/channel/fujianwenlvtiyu?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
-福建教育,https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b53d9582&livekey=01WgLWBpXQwqJ8lD7HxxtokN1xJjlChwyOnIa
 FOX 4K (Not 24/7),http://atlanticflixtv.online/1552952/97L6A58/1436344
 FOX,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109511
 TSN 4K CA 01,https://idabest.danng.me/live/stream-966c958f-1bc4-480f-9bbf-1df6d85c0636/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5

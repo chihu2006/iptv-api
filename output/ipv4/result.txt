@@ -648,4 +648,4 @@ ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 世界地理,https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
 
 🕘️更新时间,#genre#
-2026-11-03 11:26:55,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265
+2026-11-04 11:40:43,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265

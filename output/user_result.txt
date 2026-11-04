@@ -201,7 +201,6 @@ CCTV-13,https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b35
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=720d0e6726e1300ba852cda5fc220d93&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=5aae43f6a53f5ef6c5546c95d499eafa&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
 CCTV-14,https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
@@ -662,4 +661,4 @@ ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 世界地理,https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
 
 🕘️更新时间,#genre#
-2026-11-03 11:26:55,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265
+2026-11-04 11:40:42,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265

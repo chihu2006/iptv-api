@@ -363,8 +363,6 @@ https://live.264788.xyz/channel/cctv13?streamid=4789b08617985dff522a8b3501a12a75
 https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
 https://live.264788.xyz/channel/cctv14?streamid=720d0e6726e1300ba852cda5fc220d93&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/CCTV-14.png" group-title="📺央视频道",CCTV-14
@@ -1077,5 +1075,5 @@ https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e4
 https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/世界地理.png" group-title="💰央视付费频道",世界地理
 https://live.264788.xyz/channel/shijiedili?streamid=8a034b40397504e25b3775c772237996&livekey=01WgLWBpXQwqJ8lD7agRFl1P3HSado5RAXz10
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/BBC One.png" group-title="🕘️更新时间",2026-11-03 11:26:55
+#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/chihu2006/self-address/main/tv/BBC One.png" group-title="🕘️更新时间",2026-11-04 11:40:43
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120265
